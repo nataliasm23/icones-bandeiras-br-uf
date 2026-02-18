@@ -15108,12 +15108,12 @@
     "microrregiao": "Brasília",
     "mesorregiao": "Distrito Federal",
     "flag_status": "found",
-    "flag_source": "state-flag",
-    "flag_url": null,
-    "flag_file": null,
+    "flag_source": "governo-df",
+    "flag_url": "https://www.df.gov.br/wp-conteudo/uploads/2015/10/Bandeira_do_Distrito_Federal_Brasil.png",
+    "flag_file": "Bandeira_do_Distrito_Federal_Brasil.png",
     "wikipedia_slug": "Brasília",
     "wikidata_search": "Brasília (Distrito Federal)",
-    "flag_local": "raw-flags/DF/5300108-brasilia.svg"
+    "flag_local": "raw-flags/DF/5300108-brasilia.png"
   },
   {
     "ibge_code": 3200102,
