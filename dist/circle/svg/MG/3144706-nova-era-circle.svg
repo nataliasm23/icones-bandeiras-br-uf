@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 200 200" width="200" height="200">
+  <defs><clipPath id="c"><circle cx="100" cy="100" r="100"/></clipPath></defs>
+  <image width="200" height="200" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACMCAIAAAC283GzAAAABmJLR0QA/wD/AP+gvaeTAAACH0lEQVR4nO3bUWriQACA4XHZe9U9WdKT6d6gR+kNsg92Wxok1MU/Ffb7mAeJmgz4o2FwxjLGnmMab5bPxqbVSS6maVp4VD+2P1H4N8IiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIi8XPe93rn9wfPz19/13z1VOfzPF99BgBusOzr9PfHa3X8pkleDk5jLMajDjfvJIRFQlgkhEXi8N0TeLN9/344PMo8+SLfWCSERUJYJIRFQlgkhEVCWCSERUJYJA5bC96BeYzLP0dXS+3ba+tXX3ya5+M03XuC3IdvLBLCIiEsEsIC4D93mI7HPa93fnn5/fo6xlitE2zvXj193pj6a57HGE9jHO85Ne5ql01fH947Xu0WummSl4PTd+9wMjaGm3cSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiLxB352GMZM4gkqAAAAAElFTkSuQmCC" clip-path="url(#c)" preserveAspectRatio="xMidYMid slice"/>
+</svg>

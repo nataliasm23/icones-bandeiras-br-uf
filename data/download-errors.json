@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Belo Monte",
+    "uf": "AL",
+    "ibge_code": 2700904,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Belo_monte.jpg",
+    "error": "404 Not Found"
+  },
+  {
+    "name": "Feliz",
+    "uf": "RS",
+    "ibge_code": 4308102,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_Feliz.jpg",
+    "error": "404 Not Found"
+  }
+]

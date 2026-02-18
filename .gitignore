@@ -1,0 +1,8 @@
+node_modules/
+lib/
+*.tgz
+.DS_Store
+
+# Large files — regenerate locally
+dist/*/png-800/
+data/raw-flags/

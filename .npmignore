@@ -1,0 +1,8 @@
+src/
+scripts/
+data/
+*.ai
+.gitignore
+tsconfig.json
+exemplos-*.png
+icones-br-uf-styles-4x1.png

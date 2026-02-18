@@ -1,0 +1,2729 @@
+{
+  "matched": [
+    {
+      "ibge_code": 2706208,
+      "name": "Palestina",
+      "uf": "AL",
+      "flag_file": "Bandeira da palestina.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bandeira_da_palestina.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2701100,
+      "name": "Branquinha",
+      "uf": "AL",
+      "flag_file": "Bandeira de Branquinha Alagoas.svg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira_de_Branquinha_Alagoas.svg",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2701506,
+      "name": "Campo Grande",
+      "uf": "AL",
+      "flag_file": "Bandeira de Campo Grande Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bandeira_de_Campo_Grande_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2701605,
+      "name": "Canapi",
+      "uf": "AL",
+      "flag_file": "Bandeira de Canapi Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_de_Canapi_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2702553,
+      "name": "Estrela de Alagoas",
+      "uf": "AL",
+      "flag_file": "Bandeira de Estrela de Alagoas Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bandeira_de_Estrela_de_Alagoas_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2702702,
+      "name": "Feliz Deserto",
+      "uf": "AL",
+      "flag_file": "Bandeira de Feliz Deserto Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira_de_Feliz_Deserto_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2703205,
+      "name": "Igreja Nova",
+      "uf": "AL",
+      "flag_file": "Bandeira de Igreja Nova Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeira_de_Igreja_Nova_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2703403,
+      "name": "Jacaré dos Homens",
+      "uf": "AL",
+      "flag_file": "Bandeira de Jacaré dos Homens Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_Jacar%C3%A9_dos_Homens_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2703809,
+      "name": "Joaquim Gomes",
+      "uf": "AL",
+      "flag_file": "Bandeira de Joaquim Gomes Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandeira_de_Joaquim_Gomes_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2703908,
+      "name": "Jundiá",
+      "uf": "AL",
+      "flag_file": "Bandeira de Jundiá Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bandeira_de_Jundi%C3%A1_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2704005,
+      "name": "Junqueiro",
+      "uf": "AL",
+      "flag_file": "Bandeira de Junqueiro.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bandeira_de_Junqueiro.jpg",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2704401,
+      "name": "Major Isidoro",
+      "uf": "AL",
+      "flag_file": "Bandeira de Major Izidoro Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_Major_Izidoro_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2704906,
+      "name": "Mar Vermelho",
+      "uf": "AL",
+      "flag_file": "Bandeira de Mar Vermelho Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bandeira_de_Mar_Vermelho_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2704500,
+      "name": "Maragogi",
+      "uf": "AL",
+      "flag_file": "Bandeira de Maragogi Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bandeira_de_Maragogi_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2704609,
+      "name": "Maravilha",
+      "uf": "AL",
+      "flag_file": "Bandeira de Maravilha Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandeira_de_Maravilha_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2705309,
+      "name": "Minador do Negrão",
+      "uf": "AL",
+      "flag_file": "Bandeira de Minador do Negrão.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bandeira_de_Minador_do_Negr%C3%A3o.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2706000,
+      "name": "Olivença",
+      "uf": "AL",
+      "flag_file": "Bandeira de Olivença ALAGOAS.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_de_Oliven%C3%A7a_ALAGOAS.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2707404,
+      "name": "Porto de Pedras",
+      "uf": "AL",
+      "flag_file": "Bandeira de Porto das Pedras Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bandeira_de_Porto_das_Pedras_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2707701,
+      "name": "Rio Largo",
+      "uf": "AL",
+      "flag_file": "Bandeira de Rio Largo.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_de_Rio_Largo.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2707800,
+      "name": "Roteiro",
+      "uf": "AL",
+      "flag_file": "Bandeira de Roteiro Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bandeira_de_Roteiro_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2708204,
+      "name": "São Brás",
+      "uf": "AL",
+      "flag_file": "Bandeira de São Brás Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bandeira_de_S%C3%A3o_Br%C3%A1s_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2708402,
+      "name": "São José da Tapera",
+      "uf": "AL",
+      "flag_file": "Bandeira de São José da Laje Alagoas.svg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandeira_de_S%C3%A3o_Jos%C3%A9_da_Laje_Alagoas.svg",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2708709,
+      "name": "São Miguel dos Milagres",
+      "uf": "AL",
+      "flag_file": "Bandeira de São Miguel dos Campos.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bandeira_de_S%C3%A3o_Miguel_dos_Campos.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2709004,
+      "name": "Tanque d'Arca",
+      "uf": "AL",
+      "flag_file": "Bandeira de Tanque D'Arca Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bandeira_de_Tanque_D%27Arca_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2709103,
+      "name": "Taquarana",
+      "uf": "AL",
+      "flag_file": "Bandeira de Taquarana Alagoas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_de_Taquarana_Alagoas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2703700,
+      "name": "Jaramataia",
+      "uf": "AL",
+      "flag_file": "BANDEIRA JARAMATAIA oficial.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BANDEIRA_JARAMATAIA_oficial.jpg",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2708956,
+      "name": "Senador Rui Palmeira",
+      "uf": "AL",
+      "flag_file": "Bandeira Municipal Senador Rui Palmeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_Municipal_Senador_Rui_Palmeira.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2707107,
+      "name": "Piranhas",
+      "uf": "AL",
+      "flag_file": "Bandeira Oficial de Piranhas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_Oficial_de_Piranhas.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2705804,
+      "name": "Olho d'Água do Casado",
+      "uf": "AL",
+      "flag_file": "Bandeira olho dagua grande.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bandeira_olho_dagua_grande.png",
+      "category": "Flags of municipalities of Alagoas",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 1600055,
+      "name": "Serra do Navio",
+      "uf": "AP",
+      "flag_file": "Bandeira de Serra do Navio, Amapá.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Serra_do_Navio%2C_Amap%C3%A1.png",
+      "category": "Flags of municipalities of Amapá",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2900603,
+      "name": "Aiquara",
+      "uf": "BA",
+      "flag_file": "Bandeira de Aiquara.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_de_Aiquara.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2901155,
+      "name": "América Dourada",
+      "uf": "BA",
+      "flag_file": "Bandeira de America Dourada.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_America_Dourada.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2901304,
+      "name": "Andaraí",
+      "uf": "BA",
+      "flag_file": "Andaraí Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Andara%C3%AD_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2901601,
+      "name": "Antas",
+      "uf": "BA",
+      "flag_file": "Antas Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Antas_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2901809,
+      "name": "Antônio Gonçalves",
+      "uf": "BA",
+      "flag_file": "Bandeira de Antônio Cardoso.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira_de_Ant%C3%B4nio_Cardoso.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2900504,
+      "name": "Érico Cardoso",
+      "uf": "BA",
+      "flag_file": "Bandeira Ant Cardoso.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bandeira_Ant_Cardoso.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2905503,
+      "name": "Caldeirão Grande",
+      "uf": "BA",
+      "flag_file": "Bandeira Baixa Grande.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bandeira_Baixa_Grande.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2900108,
+      "name": "Abaíra",
+      "uf": "BA",
+      "flag_file": "Bandeira Abaíra Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_Aba%C3%ADra_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2904001,
+      "name": "Boninal",
+      "uf": "BA",
+      "flag_file": "Bandeira Boninal - BA.svg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira_Boninal_-_BA.svg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2906824,
+      "name": "Canudos",
+      "uf": "BA",
+      "flag_file": "Bandeira Canudos.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_Canudos.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2906899,
+      "name": "Caraíbas",
+      "uf": "BA",
+      "flag_file": "Bandeira Caraíbas Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira_Cara%C3%ADbas_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2907558,
+      "name": "Caturama",
+      "uf": "BA",
+      "flag_file": "Bandeira Caturama BA atualizada.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bandeira_Caturama_BA_atualizada.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2901353,
+      "name": "Andorinha",
+      "uf": "BA",
+      "flag_file": "Bandeira de Andorinha BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bandeira_de_Andorinha_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2901403,
+      "name": "Angical",
+      "uf": "BA",
+      "flag_file": "Bandeira de Angical BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Angical_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2901957,
+      "name": "Apuarema",
+      "uf": "BA",
+      "flag_file": "Bandeira de Apuarema.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Apuarema.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2902203,
+      "name": "Aramari",
+      "uf": "BA",
+      "flag_file": "Bandeira de Aramari.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bandeira_de_Aramari.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2902252,
+      "name": "Arataca",
+      "uf": "BA",
+      "flag_file": "Bandeira de Arataca.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bandeira_de_Arataca.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2902302,
+      "name": "Aratuípe",
+      "uf": "BA",
+      "flag_file": "Bandeira de Aratuípe BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bandeira_de_Aratu%C3%ADpe_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2902401,
+      "name": "Aurelino Leal",
+      "uf": "BA",
+      "flag_file": "Bandeira de Aurelino Leal.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_de_Aurelino_Leal.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2902500,
+      "name": "Baianópolis",
+      "uf": "BA",
+      "flag_file": "Bandeira de Baianópolis.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_de_Baian%C3%B3polis.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2903102,
+      "name": "Barra do Rocha",
+      "uf": "BA",
+      "flag_file": "Bandeira de Barra do Rocha.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandeira_de_Barra_do_Rocha.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2903300,
+      "name": "Barro Preto",
+      "uf": "BA",
+      "flag_file": "Bandeira de Barro Preto.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bandeira_de_Barro_Preto.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2903276,
+      "name": "Barrocas",
+      "uf": "BA",
+      "flag_file": "Bandeira de Barrocas BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Barrocas_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2903409,
+      "name": "Belmonte",
+      "uf": "BA",
+      "flag_file": "Bandeira de Belmonte.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bandeira_de_Belmonte.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2903805,
+      "name": "Boa Vista do Tupim",
+      "uf": "BA",
+      "flag_file": "Bandeira de Boa Vista do Tupim.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bandeira_de_Boa_Vista_do_Tupim.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2903953,
+      "name": "Bom Jesus da Serra",
+      "uf": "BA",
+      "flag_file": "Bandeira de Bom Jesus da Serra.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_de_Bom_Jesus_da_Serra.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2904050,
+      "name": "Bonito",
+      "uf": "BA",
+      "flag_file": "Bandeira de Bonito.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bandeira_de_Bonito.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2904753,
+      "name": "Buritirama",
+      "uf": "BA",
+      "flag_file": "Bandeira de Buritirama.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira_de_Buritirama.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2905404,
+      "name": "Cairu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Cairu.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandeira_de_Cairu.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2905800,
+      "name": "Camamu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Camamu.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bandeira_de_Camamu.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2906402,
+      "name": "Candeal",
+      "uf": "BA",
+      "flag_file": "Bandeira de Candeal.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bandeira_de_Candeal.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2906501,
+      "name": "Candeias",
+      "uf": "BA",
+      "flag_file": "Bandeira de Candeias.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_de_Candeias.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2906105,
+      "name": "Canápolis",
+      "uf": "BA",
+      "flag_file": "Bandeira de Canápolis.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bandeira_de_Can%C3%A1polis.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2906857,
+      "name": "Capela do Alto Alegre",
+      "uf": "BA",
+      "flag_file": "Bandeira de Capela do Alto Alegre.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bandeira_de_Capela_do_Alto_Alegre.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2907301,
+      "name": "Castro Alves",
+      "uf": "BA",
+      "flag_file": "Bandeira de Castro Alves.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_de_Castro_Alves.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2907400,
+      "name": "Catolândia",
+      "uf": "BA",
+      "flag_file": "Bandeira de Catolândia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_de_Catol%C3%A2ndia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2905107,
+      "name": "Caém",
+      "uf": "BA",
+      "flag_file": "Bandeira de Caém BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_de_Ca%C3%A9m_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2907707,
+      "name": "Chorrochó",
+      "uf": "BA",
+      "flag_file": "Bandeira de Chorrochó.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Chorroch%C3%B3.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2908002,
+      "name": "Coaraci",
+      "uf": "BA",
+      "flag_file": "Bandeira de Coaraci.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bandeira_de_Coaraci.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2908200,
+      "name": "Conceição da Feira",
+      "uf": "BA",
+      "flag_file": "Bandeira de Conceição da Feira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Concei%C3%A7%C3%A3o_da_Feira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2908804,
+      "name": "Contendas do Sincorá",
+      "uf": "BA",
+      "flag_file": "Bandeira de Contendas do Sincorá.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bandeira_de_Contendas_do_Sincor%C3%A1.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2923902,
+      "name": "Pau Brasil",
+      "uf": "BA",
+      "flag_file": "Bandeira de Coração de Maria, Bahia, Brasil.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bandeira_de_Cora%C3%A7%C3%A3o_de_Maria%2C_Bahia%2C_Brasil.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2909000,
+      "name": "Cordeiros",
+      "uf": "BA",
+      "flag_file": "Bandeira de Cordeiros BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Cordeiros_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2909109,
+      "name": "Coribe",
+      "uf": "BA",
+      "flag_file": "Bandeira de Coribe BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bandeira_de_Coribe_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2918357,
+      "name": "João Dourado",
+      "uf": "BA",
+      "flag_file": "Bandeira de Coronel João Sá BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_de_Coronel_Jo%C3%A3o_S%C3%A1_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2909703,
+      "name": "Cristópolis",
+      "uf": "BA",
+      "flag_file": "Bandeira de Cristópolis.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_de_Crist%C3%B3polis.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2910008,
+      "name": "Dário Meira",
+      "uf": "BA",
+      "flag_file": "Bandeira de Dário Meira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bandeira_de_D%C3%A1rio_Meira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2910305,
+      "name": "Elísio Medrado",
+      "uf": "BA",
+      "flag_file": "Bandeira de Elísio Medrado.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bandeira_de_El%C3%ADsio_Medrado.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2910404,
+      "name": "Encruzilhada",
+      "uf": "BA",
+      "flag_file": "Bandeira de Encruzilhada BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_de_Encruzilhada_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2910602,
+      "name": "Esplanada",
+      "uf": "BA",
+      "flag_file": "Bandeira de Esplanada (Melhor qualidade).jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bandeira_de_Esplanada_%28Melhor_qualidade%29.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2910909,
+      "name": "Firmino Alves",
+      "uf": "BA",
+      "flag_file": "Bandeira de Firmino Alves.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bandeira_de_Firmino_Alves.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2911006,
+      "name": "Floresta Azul",
+      "uf": "BA",
+      "flag_file": "Bandeira de Floresta Azul.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_de_Floresta_Azul.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2911105,
+      "name": "Formosa do Rio Preto",
+      "uf": "BA",
+      "flag_file": "Bandeira de Formosa do Rio Preto.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Formosa_do_Rio_Preto.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2911204,
+      "name": "Gandu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Gandu.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bandeira_de_Gandu.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2911253,
+      "name": "Gavião",
+      "uf": "BA",
+      "flag_file": "Bandeira de Gavião.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_de_Gavi%C3%A3o.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2911402,
+      "name": "Glória",
+      "uf": "BA",
+      "flag_file": "Bandeira de Glória BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_de_Gl%C3%B3ria_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2911501,
+      "name": "Gongogi",
+      "uf": "BA",
+      "flag_file": "Bandeira de Gongogi.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_de_Gongogi.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2911808,
+      "name": "Guaratinga",
+      "uf": "BA",
+      "flag_file": "Bandeira de Guaratinga BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_de_Guaratinga_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2911907,
+      "name": "Iaçu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Iaçu.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_de_Ia%C3%A7u.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2912004,
+      "name": "Ibiassucê",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibiassucê BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Ibiassuc%C3%AA_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2912103,
+      "name": "Ibicaraí",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibicaraí.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bandeira_de_Ibicara%C3%AD.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2912202,
+      "name": "Ibicoara",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibicoara.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bandeira_de_Ibicoara.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2912301,
+      "name": "Ibicuí",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibicuí Bahia.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_de_Ibicu%C3%AD_Bahia.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2912400,
+      "name": "Ibipeba",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibipeba.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bandeira_de_Ibipeba.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2912509,
+      "name": "Ibipitanga",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibipitanga.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Ibipitanga.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2912707,
+      "name": "Ibirapitanga",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibirapitanga.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bandeira_de_Ibirapitanga.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2913309,
+      "name": "Ichu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ichu.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bandeira_de_Ichu.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2913705,
+      "name": "Inhambupe",
+      "uf": "BA",
+      "flag_file": "Bandeira de Inhambupe.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_de_Inhambupe.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2913903,
+      "name": "Ipiaú",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ipiaú.svg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bandeira_de_Ipia%C3%BA.svg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2914208,
+      "name": "Irajuba",
+      "uf": "BA",
+      "flag_file": "Bandeira de Irajuba.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bandeira_de_Irajuba.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2914307,
+      "name": "Iramaia",
+      "uf": "BA",
+      "flag_file": "Bandeira de Iramaia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bandeira_de_Iramaia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2914653,
+      "name": "Itabela",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itabela.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_de_Itabela.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2915007,
+      "name": "Itaeté",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itaetê.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_de_Itaet%C3%AA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2915205,
+      "name": "Itagibá",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itagibá.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bandeira_de_Itagib%C3%A1.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2915502,
+      "name": "Itajuípe",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itajuípe.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bandeira_de_Itaju%C3%ADpe.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2916302,
+      "name": "Itapebi",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itapebi.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bandeira_de_Itapebi.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2916203,
+      "name": "Itapé",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itapé BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_de_Itap%C3%A9_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2916856,
+      "name": "Itatim",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itatim.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bandeira_de_Itatim.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2917102,
+      "name": "Itororó",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itororó.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_de_Itoror%C3%B3.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2917201,
+      "name": "Ituaçu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ituaçu.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bandeira_de_Itua%C3%A7u.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2917607,
+      "name": "Jaguaquara",
+      "uf": "BA",
+      "flag_file": "Bandeira de Jaguaquara.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Jaguaquara.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2917904,
+      "name": "Jandaíra",
+      "uf": "BA",
+      "flag_file": "Bandeira de Jandaíra-BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Janda%C3%ADra-BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2918456,
+      "name": "Jucuruçu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Jucuruçu.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_de_Jucuru%C3%A7u.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2918506,
+      "name": "Jussara",
+      "uf": "BA",
+      "flag_file": "Bandeira de Jussara BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Jussara_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2918605,
+      "name": "Jussiape",
+      "uf": "BA",
+      "flag_file": "Bandeira de Jussiape.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bandeira_de_Jussiape.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2919009,
+      "name": "Lajedinho",
+      "uf": "BA",
+      "flag_file": "Bandeira de Lajedinho.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bandeira_de_Lajedinho.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2919058,
+      "name": "Lajedo do Tabocal",
+      "uf": "BA",
+      "flag_file": "Bandeira de Lajedo do Tabocal BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bandeira_de_Lajedo_do_Tabocal_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2919157,
+      "name": "Lapão",
+      "uf": "BA",
+      "flag_file": "Bandeira de Lapão na Bahia.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_Lap%C3%A3o_na_Bahia.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2919306,
+      "name": "Lençóis",
+      "uf": "BA",
+      "flag_file": "Bandeira de Lençóis BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandeira_de_Len%C3%A7%C3%B3is_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2919603,
+      "name": "Macajuba",
+      "uf": "BA",
+      "flag_file": "Bandeira de Macajuba.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bandeira_de_Macajuba.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2919959,
+      "name": "Maetinga",
+      "uf": "BA",
+      "flag_file": "Bandeira de Maetinga.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bandeira_de_Maetinga.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2920452,
+      "name": "Mansidão",
+      "uf": "BA",
+      "flag_file": "Bandeira de Mansidão BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira_de_Mansid%C3%A3o_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2920700,
+      "name": "Maraú",
+      "uf": "BA",
+      "flag_file": "Bandeira de Maraú.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bandeira_de_Mara%C3%BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2920809,
+      "name": "Marcionílio Souza",
+      "uf": "BA",
+      "flag_file": "Bandeira de Marcionílio Souza BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandeira_de_Marcion%C3%ADlio_Souza_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2921054,
+      "name": "Matina",
+      "uf": "BA",
+      "flag_file": "Bandeira de Matina.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bandeira_de_Matina.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2921203,
+      "name": "Miguel Calmon",
+      "uf": "BA",
+      "flag_file": "Bandeira de Miguel Calmon.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_de_Miguel_Calmon.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2921401,
+      "name": "Mirangaba",
+      "uf": "BA",
+      "flag_file": "Bandeira de Mirangaba BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Mirangaba_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2921450,
+      "name": "Mirante",
+      "uf": "BA",
+      "flag_file": "Bandeira de Mirante Bahia.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_de_Mirante_Bahia.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2921609,
+      "name": "Morpará",
+      "uf": "BA",
+      "flag_file": "Bandeira de Morpará BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira_de_Morpar%C3%A1_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2922201,
+      "name": "Muniz Ferreira",
+      "uf": "BA",
+      "flag_file": "Bandeira de Muniz Ferreira BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bandeira_de_Muniz_Ferreira_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2922250,
+      "name": "Muquém do São Francisco",
+      "uf": "BA",
+      "flag_file": "Bandeira de Muquém do São Francisco.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandeira_de_Muqu%C3%A9m_do_S%C3%A3o_Francisco.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2922607,
+      "name": "Nilo Peçanha",
+      "uf": "BA",
+      "flag_file": "Bandeira de Nilo Peçanha.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandeira_de_Nilo_Pe%C3%A7anha.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2922730,
+      "name": "Nova Fátima",
+      "uf": "BA",
+      "flag_file": "Bandeira de Nova Fátima BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Nova_F%C3%A1tima_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2922755,
+      "name": "Nova Ibiá",
+      "uf": "BA",
+      "flag_file": "Bandeira de Nova Ibiá.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bandeira_de_Nova_Ibi%C3%A1.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2922805,
+      "name": "Nova Itarana",
+      "uf": "BA",
+      "flag_file": "Bandeira de Nova Itarana BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bandeira_de_Nova_Itarana_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2922854,
+      "name": "Nova Redenção",
+      "uf": "BA",
+      "flag_file": "Bandeira de Nova Redenção BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_de_Nova_Reden%C3%A7%C3%A3o_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2923035,
+      "name": "Novo Horizonte",
+      "uf": "BA",
+      "flag_file": "Bandeira de Novo Horizonte.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandeira_de_Novo_Horizonte.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2923050,
+      "name": "Novo Triunfo",
+      "uf": "BA",
+      "flag_file": "Bandeira de Novo Triunfo BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_de_Novo_Triunfo_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2923308,
+      "name": "Ouriçangas",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ouriçangas BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_de_Ouri%C3%A7angas_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2924108,
+      "name": "Pedrão",
+      "uf": "BA",
+      "flag_file": "Bandeira de Pedrão BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandeira_de_Pedr%C3%A3o_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2924603,
+      "name": "Pindobaçu",
+      "uf": "BA",
+      "flag_file": "Bandeira de Pindobaçu.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bandeira_de_Pindoba%C3%A7u.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2924801,
+      "name": "Piritiba",
+      "uf": "BA",
+      "flag_file": "Bandeira de Piritiba.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_de_Piritiba.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2925402,
+      "name": "Potiraguá",
+      "uf": "BA",
+      "flag_file": "Bandeira de Potiraguá.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bandeira_de_Potiragu%C3%A1.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2925600,
+      "name": "Presidente Dutra",
+      "uf": "BA",
+      "flag_file": "Bandeira de Presidente Dutra BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bandeira_de_Presidente_Dutra_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2925709,
+      "name": "Presidente Jânio Quadros",
+      "uf": "BA",
+      "flag_file": "Bandeira de Presidente Jãnio Quadros BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_de_Presidente_J%C3%A3nio_Quadros_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2925758,
+      "name": "Presidente Tancredo Neves",
+      "uf": "BA",
+      "flag_file": "Bandeira de Presidente Tancredo Neves.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_de_Presidente_Tancredo_Neves.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2924058,
+      "name": "Pé de Serra",
+      "uf": "BA",
+      "flag_file": "Bandeira de Pé de Serra BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bandeira_de_P%C3%A9_de_Serra_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2925907,
+      "name": "Quijingue",
+      "uf": "BA",
+      "flag_file": "Bandeira de Quijingue.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bandeira_de_Quijingue.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2925931,
+      "name": "Quixabeira",
+      "uf": "BA",
+      "flag_file": "Bandeira de Quixabeira BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_de_Quixabeira_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2926202,
+      "name": "Riachão das Neves",
+      "uf": "BA",
+      "flag_file": "Bandeira de Riachão das Neves.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bandeira_de_Riach%C3%A3o_das_Neves.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2926905,
+      "name": "Rio do Pires",
+      "uf": "BA",
+      "flag_file": "Bandeira de Rio do Pires (Melhorada).png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_de_Rio_do_Pires_%28Melhorada%29.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2927002,
+      "name": "Rio Real",
+      "uf": "BA",
+      "flag_file": "Bandeira de Rio Real.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandeira_de_Rio_Real.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2927309,
+      "name": "Salinas da Margarida",
+      "uf": "BA",
+      "flag_file": "Bandeira de Salinas da Margarida.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_de_Salinas_da_Margarida.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2927606,
+      "name": "Santa Brígida",
+      "uf": "BA",
+      "flag_file": "Bandeira de Santa Brígida BA.gif",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bandeira_de_Santa_Br%C3%ADgida_BA.gif",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2927804,
+      "name": "Santa Cruz da Vitória",
+      "uf": "BA",
+      "flag_file": "Bandeira de Santa Cruz da Vitória.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Santa_Cruz_da_Vit%C3%B3ria.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2927903,
+      "name": "Santa Inês",
+      "uf": "BA",
+      "flag_file": "Bandeira de Santa Inês BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bandeira_de_Santa_In%C3%AAs_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2928059,
+      "name": "Santa Luzia",
+      "uf": "BA",
+      "flag_file": "Bandeira de Santa Luzia BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bandeira_de_Santa_Luzia_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2928406,
+      "name": "Santa Rita de Cássia",
+      "uf": "BA",
+      "flag_file": "Bandeira de Santa Rita de Cássia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bandeira_de_Santa_Rita_de_C%C3%A1ssia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2928802,
+      "name": "Santo Estêvão",
+      "uf": "BA",
+      "flag_file": "Bandeira de Santo Estevâo.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bandeira_de_Santo_Estev%C3%A2o.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2929750,
+      "name": "Saubara",
+      "uf": "BA",
+      "flag_file": "Bandeira de Saubara.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bandeira_de_Saubara.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2930303,
+      "name": "Serra Dourada",
+      "uf": "BA",
+      "flag_file": "Bandeira de Serra Dourada.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bandeira_de_Serra_Dourada.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2928950,
+      "name": "São Domingos",
+      "uf": "BA",
+      "flag_file": "Bandeira de São Domingos BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bandeira_de_S%C3%A3o_Domingos_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2929008,
+      "name": "São Félix",
+      "uf": "BA",
+      "flag_file": "Bandeira de São Félix BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_de_S%C3%A3o_F%C3%A9lix_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2929255,
+      "name": "São Gabriel",
+      "uf": "BA",
+      "flag_file": "Bandeira de São Gabriel Bahia.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bandeira_de_S%C3%A3o_Gabriel_Bahia.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2929354,
+      "name": "São José da Vitória",
+      "uf": "BA",
+      "flag_file": "Bandeira de São José da Vitória.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bandeira_de_S%C3%A3o_Jos%C3%A9_da_Vit%C3%B3ria.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2929370,
+      "name": "São José do Jacuípe",
+      "uf": "BA",
+      "flag_file": "Bandeira de São José do Jacuípe.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Bandeira_de_S%C3%A3o_Jos%C3%A9_do_Jacu%C3%ADpe.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2929404,
+      "name": "São Miguel das Matas",
+      "uf": "BA",
+      "flag_file": "Bandeira de São Miguel das Matas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_de_S%C3%A3o_Miguel_das_Matas.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2931202,
+      "name": "Taperoá",
+      "uf": "BA",
+      "flag_file": "Bandeira de Taperoá.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Tapero%C3%A1.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2931707,
+      "name": "Terra Nova",
+      "uf": "BA",
+      "flag_file": "Bandeira de Terra Nova.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bandeira_de_Terra_Nova.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2932408,
+      "name": "Uibaí",
+      "uf": "BA",
+      "flag_file": "Bandeira de Uibaí.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bandeira_de_Uiba%C3%AD.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2932457,
+      "name": "Umburanas",
+      "uf": "BA",
+      "flag_file": "Bandeira de Umburanas.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandeira_de_Umburanas.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2932705,
+      "name": "Uruçuca",
+      "uf": "BA",
+      "flag_file": "Bandeira de Uruçuca.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bandeira_de_Uru%C3%A7uca.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2933174,
+      "name": "Varzedo",
+      "uf": "BA",
+      "flag_file": "Bandeira de Varzedo BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bandeira_de_Varzedo_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2933208,
+      "name": "Vera Cruz",
+      "uf": "BA",
+      "flag_file": "Bandeira de Vera Cruz.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bandeira_de_Vera_Cruz.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2933059,
+      "name": "Várzea da Roça",
+      "uf": "BA",
+      "flag_file": "Bandeira de Várzea da Roça.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bandeira_de_V%C3%A1rzea_da_Ro%C3%A7a.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2933109,
+      "name": "Várzea do Poço",
+      "uf": "BA",
+      "flag_file": "Bandeira de Várzea do Poço.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bandeira_de_V%C3%A1rzea_do_Po%C3%A7o.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2933455,
+      "name": "Wanderley",
+      "uf": "BA",
+      "flag_file": "Bandeira de Wanderley BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bandeira_de_Wanderley_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2933505,
+      "name": "Wenceslau Guimarães",
+      "uf": "BA",
+      "flag_file": "Bandeira de Wenceslau Guimarães.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bandeira_de_Wenceslau_Guimar%C3%A3es.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2910701,
+      "name": "Euclides da Cunha",
+      "uf": "BA",
+      "flag_file": "Bandeira Euclides da Cunha Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_Euclides_da_Cunha_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2913200,
+      "name": "Ibotirama",
+      "uf": "BA",
+      "flag_file": "Bandeira Ibotirama.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bandeira_Ibotirama.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2917334,
+      "name": "Iuiu",
+      "uf": "BA",
+      "flag_file": "Bandeira Iuiú.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_Iui%C3%BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2919108,
+      "name": "Lamarão",
+      "uf": "BA",
+      "flag_file": "Bandeira Lamarão BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bandeira_Lamar%C3%A3o_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2922052,
+      "name": "Mulungu do Morro",
+      "uf": "BA",
+      "flag_file": "Bandeira Mulungu do Morro.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bandeira_Mulungu_do_Morro.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2923506,
+      "name": "Palmeiras",
+      "uf": "BA",
+      "flag_file": "Bandeira Palmeiras.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bandeira_Palmeiras.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2924504,
+      "name": "Pindaí",
+      "uf": "BA",
+      "flag_file": "Bandeira Pindaí.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_Pinda%C3%AD.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2926103,
+      "name": "Retirolândia",
+      "uf": "BA",
+      "flag_file": "Bandeira Retirolândia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bandeira_Retirol%C3%A2ndia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2926509,
+      "name": "Ribeira do Amparo",
+      "uf": "BA",
+      "flag_file": "Bandeira Ribeira do Amparo Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bandeira_Ribeira_do_Amparo_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2930402,
+      "name": "Serra Preta",
+      "uf": "BA",
+      "flag_file": "Bandeira Serra Preta.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_Serra_Preta.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2930808,
+      "name": "Souto Soares",
+      "uf": "BA",
+      "flag_file": "Bandeira Souto Soares.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bandeira_Souto_Soares.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2930758,
+      "name": "Sítio do Mato",
+      "uf": "BA",
+      "flag_file": "Bandeira Sítio do Mato.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bandeira_S%C3%ADtio_do_Mato.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2931905,
+      "name": "Tucano",
+      "uf": "BA",
+      "flag_file": "Bandeira Tucano Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bandeira_Tucano_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2932002,
+      "name": "Uauá",
+      "uf": "BA",
+      "flag_file": "Bandeira Uauá Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bandeira_Uau%C3%A1_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2932200,
+      "name": "Ubaitaba",
+      "uf": "BA",
+      "flag_file": "Bandeira Ubaitaba BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bandeira_Ubaitaba_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2900405,
+      "name": "Água Fria",
+      "uf": "BA",
+      "flag_file": "Bandeira Água Fria.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_%C3%81gua_Fria.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2900900,
+      "name": "Almadina",
+      "uf": "BA",
+      "flag_file": "Bandeira, Brasão de Almadina.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira%2C_Bras%C3%A3o_de_Almadina.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2904407,
+      "name": "Brejolândia",
+      "uf": "BA",
+      "flag_file": "Bandeira, brasão de Brejolândia Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bandeira%2C_bras%C3%A3o_de_Brejol%C3%A2ndia_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2909505,
+      "name": "Cravolândia",
+      "uf": "BA",
+      "flag_file": "Bandeira, Brasão de Cravolândia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira%2C_Bras%C3%A3o_de_Cravol%C3%A2ndia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2910776,
+      "name": "Feira da Mata",
+      "uf": "BA",
+      "flag_file": "Bandeira, Brasão de Feira da Mata.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bandeira%2C_Bras%C3%A3o_de_Feira_da_Mata.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2919900,
+      "name": "Macururé",
+      "uf": "BA",
+      "flag_file": "Bandeira, brasão de Macururé.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira%2C_bras%C3%A3o_de_Macurur%C3%A9.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2926657,
+      "name": "Ribeirão do Largo",
+      "uf": "BA",
+      "flag_file": "Bandeira, brasão de Ribeirão do Largo.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bandeira%2C_bras%C3%A3o_de_Ribeir%C3%A3o_do_Largo.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2917359,
+      "name": "Jaborandi",
+      "uf": "BA",
+      "flag_file": "Bandeira, Brasão Jaborandi.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira%2C_Bras%C3%A3o_Jaborandi.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2903508,
+      "name": "Belo Campo",
+      "uf": "BA",
+      "flag_file": "Bandeira de Belo Campo.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bandeira_de_Belo_Campo.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2903706,
+      "name": "Boa Nova",
+      "uf": "BA",
+      "flag_file": "Bandeira de Boa Nova.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bandeira_de_Boa_Nova.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2904209,
+      "name": "Botuporã",
+      "uf": "BA",
+      "flag_file": "Bandeira Botuporã.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeira_Botupor%C3%A3.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2920304,
+      "name": "Malhada de Pedras",
+      "uf": "BA",
+      "flag_file": "Brasão de Malhada.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bras%C3%A3o_de_Malhada.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2916708,
+      "name": "Itaquara",
+      "uf": "BA",
+      "flag_file": "Brasão Itaquara.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bras%C3%A3o_Itaquara.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2905909,
+      "name": "Campo Alegre de Lourdes",
+      "uf": "BA",
+      "flag_file": "Campo Alegre de Lourdes Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Campo_Alegre_de_Lourdes_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (4 words)"
+    },
+    {
+      "ibge_code": 2906873,
+      "name": "Capim Grosso",
+      "uf": "BA",
+      "flag_file": "Capim Grosso Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Capim_Grosso_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2908705,
+      "name": "Condeúba",
+      "uf": "BA",
+      "flag_file": "Bandeira Condeúba BA.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira_Conde%C3%BAba_BA.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2909307,
+      "name": "Correntina",
+      "uf": "BA",
+      "flag_file": "Correntina Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Correntina_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2923209,
+      "name": "Oliveira dos Brejinhos",
+      "uf": "BA",
+      "flag_file": "Flag of Ipirá by Gustavo Oliveira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Ipir%C3%A1_by_Gustavo_Oliveira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2910859,
+      "name": "Filadélfia",
+      "uf": "BA",
+      "flag_file": "Bandeira de Filadélfia BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bandeira_de_Filad%C3%A9lfia_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2912608,
+      "name": "Ibiquera",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ibiquera.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bandeira_de_Ibiquera.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2913002,
+      "name": "Ibitiara",
+      "uf": "BA",
+      "flag_file": "Bandeira Ibitiara.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bandeira_Ibitiara.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2913804,
+      "name": "Ipecaetá",
+      "uf": "BA",
+      "flag_file": "Bandeira de Ipecaetá.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bandeira_de_Ipecaet%C3%A1.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2914406,
+      "name": "Iraquara",
+      "uf": "BA",
+      "flag_file": "Bandeira de Iraquara 3731.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandeira_de_Iraquara_3731.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2914703,
+      "name": "Itaberaba",
+      "uf": "BA",
+      "flag_file": "Itaberaba Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Itaberaba_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2915106,
+      "name": "Itagi",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itagi.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bandeira_de_Itagi.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2915403,
+      "name": "Itaju do Colônia",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itaju do Colônia.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Itaju_do_Col%C3%B4nia.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2915601,
+      "name": "Itamaraju",
+      "uf": "BA",
+      "flag_file": "Itamaraju bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Itamaraju_bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2916609,
+      "name": "Itapitanga",
+      "uf": "BA",
+      "flag_file": "Bandeira de Itapitanga.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bandeira_de_Itapitanga.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2917003,
+      "name": "Itiúba",
+      "uf": "BA",
+      "flag_file": "Itiúba Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Iti%C3%BAba_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2918555,
+      "name": "Jussari",
+      "uf": "BA",
+      "flag_file": "Bandeira de Jussari.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bandeira_de_Jussari.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2918704,
+      "name": "Lafaiete Coutinho",
+      "uf": "BA",
+      "flag_file": "Lafaiete Coutinho Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lafaiete_Coutinho_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2920403,
+      "name": "Manoel Vitorino",
+      "uf": "BA",
+      "flag_file": "Manoel Vitorino Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Manoel_Vitorino_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2920601,
+      "name": "Maragogipe",
+      "uf": "BA",
+      "flag_file": "Bandeira de Maragogipe.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bandeira_de_Maragogipe.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2921005,
+      "name": "Mata de São João",
+      "uf": "BA",
+      "flag_file": "Mata de São João bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mata_de_S%C3%A3o_Jo%C3%A3o_bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (4 words)"
+    },
+    {
+      "ibge_code": 2921906,
+      "name": "Mucugê",
+      "uf": "BA",
+      "flag_file": "Bandeira Mucugê Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bandeira_Mucug%C3%AA_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2923100,
+      "name": "Olindina",
+      "uf": "BA",
+      "flag_file": "Olindina Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Olindina_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2923704,
+      "name": "Paratinga",
+      "uf": "BA",
+      "flag_file": "Paratinga Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Paratinga_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2924207,
+      "name": "Pedro Alexandre",
+      "uf": "BA",
+      "flag_file": "Pedro Alexandre Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pedro_Alexandre_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2924306,
+      "name": "Piatã",
+      "uf": "BA",
+      "flag_file": "Bandeira Piatã Bahia.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bandeira_Piat%C3%A3_Bahia.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2925501,
+      "name": "Prado",
+      "uf": "BA",
+      "flag_file": "Prado Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Prado_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2926301,
+      "name": "Riachão do Jacuípe",
+      "uf": "BA",
+      "flag_file": "Riachão do Jacuípe Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Riach%C3%A3o_do_Jacu%C3%ADpe_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2926608,
+      "name": "Ribeira do Pombal",
+      "uf": "BA",
+      "flag_file": "Ribeira do Pombal bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ribeira_do_Pombal_bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (3 words)"
+    },
+    {
+      "ibge_code": 2926707,
+      "name": "Rio de Contas",
+      "uf": "BA",
+      "flag_file": "Bandeira Rio de Contas.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bandeira_Rio_de_Contas.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2927507,
+      "name": "Santa Bárbara",
+      "uf": "BA",
+      "flag_file": "Santa Bárbara Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Santa_B%C3%A1rbara_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2928000,
+      "name": "Santaluz",
+      "uf": "BA",
+      "flag_file": "Santaluz Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Santaluz_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2929800,
+      "name": "Saúde",
+      "uf": "BA",
+      "flag_file": "Bandeira de Saúde BA.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bandeira_de_Sa%C3%BAde_BA.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2928901,
+      "name": "São Desidério",
+      "uf": "BA",
+      "flag_file": "São Desidério Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/S%C3%A3o_Desid%C3%A9rio_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (2 words)"
+    },
+    {
+      "ibge_code": 2929206,
+      "name": "São Francisco do Conde",
+      "uf": "BA",
+      "flag_file": "São Francisco do Conde Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/S%C3%A3o_Francisco_do_Conde_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (4 words)"
+    },
+    {
+      "ibge_code": 2931004,
+      "name": "Tanhaçu",
+      "uf": "BA",
+      "flag_file": "Tanhaçu Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Tanha%C3%A7u_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2931103,
+      "name": "Tanquinho",
+      "uf": "BA",
+      "flag_file": "Tanquinho Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tanquinho_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2932309,
+      "name": "Ubatã",
+      "uf": "BA",
+      "flag_file": "Ubatã Bandeira.png",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ubat%C3%A3_Bandeira.png",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2932606,
+      "name": "Urandi",
+      "uf": "BA",
+      "flag_file": "Bandeira de Urandi.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_de_Urandi.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    },
+    {
+      "ibge_code": 2932804,
+      "name": "Utinga",
+      "uf": "BA",
+      "flag_file": "Utinga Bandeira.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Utinga_Bandeira.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "partial (1 words)"
+    },
+    {
+      "ibge_code": 2933406,
+      "name": "Wagner",
+      "uf": "BA",
+      "flag_file": "Bandeira de Wagner.jpg",
+      "flag_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bandeira_de_Wagner.jpg",
+      "category": "Flags of municipalities of Bahia",
+      "matched_by": "exact"
+    }
+  ],
+  "unmatched_files": [
+    {
+      "filename": "File:Bandeira Água Branca.png",
+      "extracted_name": "Água Branca",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:AL - Bandeira de Jacuípe.jpg",
+      "extracted_name": "AL - Bandeira de Jacuípe",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Al-barra-de-sao-miguel-bandeira.jpg",
+      "extracted_name": "Al-barra-de-sao-miguel-bandeira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Al-belem-bandeira.jpg",
+      "extracted_name": "Al-belem-bandeira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Anadia.png",
+      "extracted_name": "Anadia",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Antiga Bandeira de Coruripe.png",
+      "extracted_name": "Antiga Bandeira de Coruripe",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Boca da Mata.jpg",
+      "extracted_name": "Boca da Mata",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Atalaia AL.png",
+      "extracted_name": "Atalaia AL",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Belo Monte - AL.jpg",
+      "extracted_name": "Belo Monte",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Belém, AL.png",
+      "extracted_name": "Belém, AL",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Chã Preta-AL.jpg",
+      "extracted_name": "Chã Preta",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Chã Preta-Alagoas 2.jpg",
+      "extracted_name": "Chã Preta",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Chã Preta-Alagoas.jpg",
+      "extracted_name": "Chã Preta",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:BANDEIRA DE COLÉGIO.jpg",
+      "extracted_name": "COLÉGIO",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Colônia Leopoldina.png",
+      "extracted_name": "Colônia Leopoldina",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Coruripe.PNG",
+      "extracted_name": "Coruripe",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Delmiro Gouveia.jpg",
+      "extracted_name": "Delmiro Gouveia",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Inhapi.jpg",
+      "extracted_name": "Inhapi",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de matrizdecamaragibe.jpg",
+      "extracted_name": "matrizdecamaragibe",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:BANDEIRA DE NOVO LINO AL 1366x768.jpg",
+      "extracted_name": "NOVO LINO AL 1366x768",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:BANDEIRA DE NOVO LINO.jpg",
+      "extracted_name": "NOVO LINO",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Paripueira Original.jpg",
+      "extracted_name": "Paripueira Original",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Paripueira.jpg",
+      "extracted_name": "Paripueira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Pilar (Alagoas).jpg",
+      "extracted_name": "Pilar",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira De Santa Luzia Do Norte.png",
+      "extracted_name": "Santa Luzia Do Norte",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de São Luiz do Quitunde.jpg",
+      "extracted_name": "São Luiz do Quitunde",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de união dos palmares.png",
+      "extracted_name": "união dos palmares",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira do município de Paripueira.png",
+      "extracted_name": "Paripueira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira do município de Santa Luzia do Norte.png",
+      "extracted_name": "Santa Luzia do Norte",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:BANDEIRA JAPARATINGA.png",
+      "extracted_name": "JAPARATINGA",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira oficial de Piaçabuçu.jpg",
+      "extracted_name": "oficial de Piaçabuçu",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Oficial do Município de União dos Palmares.jpg",
+      "extracted_name": "Oficial do Município de União dos Palmares",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira satuba.jpg",
+      "extracted_name": "satuba",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:BANDEIRA+DE+CARNEIROS+-+AL.jpg",
+      "extracted_name": "BANDEIRA+DE+CARNEIROS+-+AL",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira-arapiraca.jpg",
+      "extracted_name": "Bandeira-arapiraca",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira-feira-grande.jpg",
+      "extracted_name": "Bandeira-feira-grande",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira-paripueira.jpg",
+      "extracted_name": "Bandeira-paripueira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeiracoitedonoia.jpg",
+      "extracted_name": "Bandeiracoitedonoia",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeirasaojosedalaje.jpg",
+      "extracted_name": "Bandeirasaojosedalaje",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeirasaomigueldoscampos.jpg",
+      "extracted_name": "Bandeirasaomigueldoscampos",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeirasatuba.jpg",
+      "extracted_name": "Bandeirasatuba",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeirauniaodospalmares.jpg",
+      "extracted_name": "Bandeirauniaodospalmares",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Batalha.png",
+      "extracted_name": "Batalha",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Cacimbinhas.jpg",
+      "extracted_name": "Cacimbinhas",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Cajueiro bandeira.png",
+      "extracted_name": "Cajueiro bandeira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Campestre.JPG",
+      "extracted_name": "Campestre",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Capela.png",
+      "extracted_name": "Capela",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Chapreta bandeira.jpg",
+      "extracted_name": "Chapreta bandeira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Colônia Leopoldina.png",
+      "extracted_name": "Colônia Leopoldina",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Craibas.png",
+      "extracted_name": "Craibas",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Flag of Dois Riachos - AL - Brazil.png",
+      "extracted_name": "Dois Riachos",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Flexeiras Bandeira.png",
+      "extracted_name": "Flexeiras Bandeira",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Jequia da Praia.png",
+      "extracted_name": "Jequia da Praia",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Lagoa da Canoa.JPG",
+      "extracted_name": "Lagoa da Canoa",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Maceio.png",
+      "extracted_name": "Maceio",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de matrizdecamaragibe thumb.jpg",
+      "extracted_name": "matrizdecamaragibe thumb",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Municipio Marechal Deodoro.png",
+      "extracted_name": "Municipio Marechal Deodoro",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Novo lino - al.jpg",
+      "extracted_name": "Novo lino - al",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Ouro Branco (Alagoas).jpg",
+      "extracted_name": "Ouro Branco",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira-palmeiradosindios.jpg",
+      "extracted_name": "Bandeira-palmeiradosindios",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Pao de Acucar.jpg",
+      "extracted_name": "Pao de Acucar",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Penedo.jpg",
+      "extracted_name": "Penedo",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Penedo.png",
+      "extracted_name": "Penedo",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira prc.jpg",
+      "extracted_name": "prc",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira-quebrangulo.png",
+      "extracted_name": "Bandeira-quebrangulo",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira sdoipanema.jpg",
+      "extracted_name": "sdoipanema",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira Santana do Mundau.png",
+      "extracted_name": "Santana do Mundau",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira-teotoniovilela.png",
+      "extracted_name": "Bandeira-teotoniovilela",
+      "uf": "AL"
+    },
+    {
+      "filename": "File:Bandeira de Laranjal do Jari - AP 1262660092256 f.jpg",
+      "extracted_name": "Laranjal do Jari",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira de Laranjal do Jari.gif",
+      "extracted_name": "Laranjal do Jari",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira de Laranjal.JPG",
+      "extracted_name": "Laranjal",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira de Pedra Branca do Amapari.jpg",
+      "extracted_name": "Pedra Branca do Amapari",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira de Santana.jpg",
+      "extracted_name": "Santana",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira Município de Amapá.jpg",
+      "extracted_name": "Município de Amapá",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira Oficial Porto Grande.jpg",
+      "extracted_name": "Oficial Porto Grande",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Itaubalbandeiraamabra.PNG",
+      "extracted_name": "Itaubalbandeiraamabra",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira Macapa AP.jpg",
+      "extracted_name": "Macapa AP",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Vitória do Jari.gif",
+      "extracted_name": "Vitória do Jari",
+      "uf": "AP"
+    },
+    {
+      "filename": "File:Bandeira de Alagoinhas.jpg",
+      "extracted_name": "Alagoinhas",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Alcobacabandeira.jpg",
+      "extracted_name": "Alcobacabandeira",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira Alcobaça Bahia.jpg",
+      "extracted_name": "Alcobaça Bahia",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:BANDEIRA DE AMARGOSA2.JPG",
+      "extracted_name": "AMARGOSA2",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira-ameliarodrigues.png",
+      "extracted_name": "Bandeira-ameliarodrigues",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Ba-anage-bandeira.jpg",
+      "extracted_name": "Ba-anage-bandeira",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Anguera.jpg",
+      "extracted_name": "Anguera",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Aporá-BA.jpg",
+      "extracted_name": "Aporá",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira Aracatu.jpg",
+      "extracted_name": "Aracatu",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Araci.jpg",
+      "extracted_name": "Araci",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira Cafarnaum.jpg",
+      "extracted_name": "Cafarnaum",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira da cidade São Gonçalo dos Campos-BA.png",
+      "extracted_name": "cidade São Gonçalo dos Campos",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Abaré.png",
+      "extracted_name": "Abaré",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Adustina.jpg",
+      "extracted_name": "Adustina",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Araçás.png",
+      "extracted_name": "Araçás",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Cardeal da Silva.png",
+      "extracted_name": "Cardeal da Silva",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Crisópolis.png",
+      "extracted_name": "Crisópolis",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Côcos BA.png",
+      "extracted_name": "Côcos BA",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Ibititá.png",
+      "extracted_name": "Ibititá",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Itambé BA.jpg",
+      "extracted_name": "Itambé BA",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:Bandeira de Medeiros neto.png",
+      "extracted_name": "Medeiros neto",
+      "uf": "BA"
+    },
+    {
+      "filename": "File:BANDEIRA DE POJUCA.jpg",
+      "extracted_name": "POJUCA",
+      "uf": "BA"
+    }
+  ]
+}
