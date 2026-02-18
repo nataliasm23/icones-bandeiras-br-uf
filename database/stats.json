@@ -1,0 +1,230 @@
+{
+  "total_municipios": 5571,
+  "total_with_raw_flag": 4366,
+  "total_with_icons": 4366,
+  "raw_coverage_pct": 78.4,
+  "icon_coverage_pct": 78.4,
+  "total_ufs": 27,
+  "styles": [
+    "full",
+    "rounded",
+    "circle",
+    "square-rounded"
+  ],
+  "formats": {
+    "svg": [
+      "full/svg",
+      "rounded/svg",
+      "circle/svg",
+      "square-rounded/svg"
+    ],
+    "png-200": [
+      "full/png-200",
+      "rounded/png-200",
+      "circle/png-200",
+      "square-rounded/png-200"
+    ],
+    "png-800": [
+      "full/png-800",
+      "rounded/png-800",
+      "circle/png-800",
+      "square-rounded/png-800"
+    ]
+  },
+  "by_uf": {
+    "AC": {
+      "total": 22,
+      "with_flag": 14,
+      "with_icons": 14,
+      "coverage_pct": 63.6
+    },
+    "AL": {
+      "total": 102,
+      "with_flag": 65,
+      "with_icons": 65,
+      "coverage_pct": 63.7
+    },
+    "AM": {
+      "total": 62,
+      "with_flag": 47,
+      "with_icons": 47,
+      "coverage_pct": 75.8
+    },
+    "AP": {
+      "total": 16,
+      "with_flag": 11,
+      "with_icons": 11,
+      "coverage_pct": 68.8
+    },
+    "BA": {
+      "total": 417,
+      "with_flag": 350,
+      "with_icons": 350,
+      "coverage_pct": 83.9
+    },
+    "CE": {
+      "total": 184,
+      "with_flag": 165,
+      "with_icons": 165,
+      "coverage_pct": 89.7
+    },
+    "DF": {
+      "total": 1,
+      "with_flag": 1,
+      "with_icons": 1,
+      "coverage_pct": 100.0
+    },
+    "ES": {
+      "total": 78,
+      "with_flag": 65,
+      "with_icons": 65,
+      "coverage_pct": 83.3
+    },
+    "GO": {
+      "total": 246,
+      "with_flag": 182,
+      "with_icons": 182,
+      "coverage_pct": 74.0
+    },
+    "MA": {
+      "total": 217,
+      "with_flag": 135,
+      "with_icons": 135,
+      "coverage_pct": 62.2
+    },
+    "MG": {
+      "total": 853,
+      "with_flag": 602,
+      "with_icons": 602,
+      "coverage_pct": 70.6
+    },
+    "MS": {
+      "total": 79,
+      "with_flag": 75,
+      "with_icons": 75,
+      "coverage_pct": 94.9
+    },
+    "MT": {
+      "total": 142,
+      "with_flag": 86,
+      "with_icons": 86,
+      "coverage_pct": 60.6
+    },
+    "PA": {
+      "total": 144,
+      "with_flag": 105,
+      "with_icons": 105,
+      "coverage_pct": 72.9
+    },
+    "PB": {
+      "total": 223,
+      "with_flag": 201,
+      "with_icons": 201,
+      "coverage_pct": 90.1
+    },
+    "PE": {
+      "total": 185,
+      "with_flag": 135,
+      "with_icons": 135,
+      "coverage_pct": 73.0
+    },
+    "PI": {
+      "total": 224,
+      "with_flag": 93,
+      "with_icons": 93,
+      "coverage_pct": 41.5
+    },
+    "PR": {
+      "total": 399,
+      "with_flag": 275,
+      "with_icons": 275,
+      "coverage_pct": 68.9
+    },
+    "RJ": {
+      "total": 92,
+      "with_flag": 92,
+      "with_icons": 92,
+      "coverage_pct": 100.0
+    },
+    "RN": {
+      "total": 167,
+      "with_flag": 127,
+      "with_icons": 127,
+      "coverage_pct": 76.0
+    },
+    "RO": {
+      "total": 52,
+      "with_flag": 46,
+      "with_icons": 46,
+      "coverage_pct": 88.5
+    },
+    "RR": {
+      "total": 15,
+      "with_flag": 15,
+      "with_icons": 15,
+      "coverage_pct": 100.0
+    },
+    "RS": {
+      "total": 497,
+      "with_flag": 470,
+      "with_icons": 470,
+      "coverage_pct": 94.6
+    },
+    "SC": {
+      "total": 295,
+      "with_flag": 278,
+      "with_icons": 278,
+      "coverage_pct": 94.2
+    },
+    "SE": {
+      "total": 75,
+      "with_flag": 61,
+      "with_icons": 61,
+      "coverage_pct": 81.3
+    },
+    "SP": {
+      "total": 645,
+      "with_flag": 631,
+      "with_icons": 631,
+      "coverage_pct": 97.8
+    },
+    "TO": {
+      "total": 139,
+      "with_flag": 39,
+      "with_icons": 39,
+      "coverage_pct": 28.1
+    }
+  },
+  "by_region": {
+    "Centro-Oeste": {
+      "total": 468,
+      "with_flag": 344,
+      "with_icons": 344,
+      "coverage_pct": 73.5
+    },
+    "Nordeste": {
+      "total": 1794,
+      "with_flag": 1332,
+      "with_icons": 1332,
+      "coverage_pct": 74.2
+    },
+    "Norte": {
+      "total": 450,
+      "with_flag": 277,
+      "with_icons": 277,
+      "coverage_pct": 61.6
+    },
+    "Sudeste": {
+      "total": 1668,
+      "with_flag": 1390,
+      "with_icons": 1390,
+      "coverage_pct": 83.3
+    },
+    "Sul": {
+      "total": 1191,
+      "with_flag": 1023,
+      "with_icons": 1023,
+      "coverage_pct": 85.9
+    }
+  }
+}

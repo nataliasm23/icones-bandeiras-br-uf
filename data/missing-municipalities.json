@@ -1,0 +1,6020 @@
+[
+  {
+    "ibge_code": 1200252,
+    "name": "Epitaciolândia",
+    "uf": "AC",
+    "slug": "epitaciolandia"
+  },
+  {
+    "ibge_code": 1200328,
+    "name": "Jordão",
+    "uf": "AC",
+    "slug": "jordao"
+  },
+  {
+    "ibge_code": 1200344,
+    "name": "Manoel Urbano",
+    "uf": "AC",
+    "slug": "manoel-urbano"
+  },
+  {
+    "ibge_code": 1200351,
+    "name": "Marechal Thaumaturgo",
+    "uf": "AC",
+    "slug": "marechal-thaumaturgo"
+  },
+  {
+    "ibge_code": 1200807,
+    "name": "Porto Acre",
+    "uf": "AC",
+    "slug": "porto-acre"
+  },
+  {
+    "ibge_code": 1200427,
+    "name": "Rodrigues Alves",
+    "uf": "AC",
+    "slug": "rodrigues-alves"
+  },
+  {
+    "ibge_code": 1200435,
+    "name": "Santa Rosa do Purus",
+    "uf": "AC",
+    "slug": "santa-rosa-do-purus"
+  },
+  {
+    "ibge_code": 1200609,
+    "name": "Tarauacá",
+    "uf": "AC",
+    "slug": "tarauaca"
+  },
+  {
+    "ibge_code": 2701100,
+    "name": "Branquinha",
+    "uf": "AL",
+    "slug": "branquinha"
+  },
+  {
+    "ibge_code": 2701506,
+    "name": "Campo Grande",
+    "uf": "AL",
+    "slug": "campo-grande"
+  },
+  {
+    "ibge_code": 2701605,
+    "name": "Canapi",
+    "uf": "AL",
+    "slug": "canapi"
+  },
+  {
+    "ibge_code": 2702207,
+    "name": "Coqueiro Seco",
+    "uf": "AL",
+    "slug": "coqueiro-seco"
+  },
+  {
+    "ibge_code": 2702553,
+    "name": "Estrela de Alagoas",
+    "uf": "AL",
+    "slug": "estrela-de-alagoas"
+  },
+  {
+    "ibge_code": 2702702,
+    "name": "Feliz Deserto",
+    "uf": "AL",
+    "slug": "feliz-deserto"
+  },
+  {
+    "ibge_code": 2703106,
+    "name": "Igaci",
+    "uf": "AL",
+    "slug": "igaci"
+  },
+  {
+    "ibge_code": 2703205,
+    "name": "Igreja Nova",
+    "uf": "AL",
+    "slug": "igreja-nova"
+  },
+  {
+    "ibge_code": 2703403,
+    "name": "Jacaré dos Homens",
+    "uf": "AL",
+    "slug": "jacare-dos-homens"
+  },
+  {
+    "ibge_code": 2703700,
+    "name": "Jaramataia",
+    "uf": "AL",
+    "slug": "jaramataia"
+  },
+  {
+    "ibge_code": 2703809,
+    "name": "Joaquim Gomes",
+    "uf": "AL",
+    "slug": "joaquim-gomes"
+  },
+  {
+    "ibge_code": 2703908,
+    "name": "Jundiá",
+    "uf": "AL",
+    "slug": "jundia"
+  },
+  {
+    "ibge_code": 2704005,
+    "name": "Junqueiro",
+    "uf": "AL",
+    "slug": "junqueiro"
+  },
+  {
+    "ibge_code": 2704906,
+    "name": "Mar Vermelho",
+    "uf": "AL",
+    "slug": "mar-vermelho"
+  },
+  {
+    "ibge_code": 2704500,
+    "name": "Maragogi",
+    "uf": "AL",
+    "slug": "maragogi"
+  },
+  {
+    "ibge_code": 2704807,
+    "name": "Maribondo",
+    "uf": "AL",
+    "slug": "maribondo"
+  },
+  {
+    "ibge_code": 2705200,
+    "name": "Messias",
+    "uf": "AL",
+    "slug": "messias"
+  },
+  {
+    "ibge_code": 2705309,
+    "name": "Minador do Negrão",
+    "uf": "AL",
+    "slug": "minador-do-negrao"
+  },
+  {
+    "ibge_code": 2705408,
+    "name": "Monteirópolis",
+    "uf": "AL",
+    "slug": "monteiropolis"
+  },
+  {
+    "ibge_code": 2705804,
+    "name": "Olho d'Água do Casado",
+    "uf": "AL",
+    "slug": "olho-d-agua-do-casado"
+  },
+  {
+    "ibge_code": 2706208,
+    "name": "Palestina",
+    "uf": "AL",
+    "slug": "palestina"
+  },
+  {
+    "ibge_code": 2706422,
+    "name": "Pariconha",
+    "uf": "AL",
+    "slug": "pariconha"
+  },
+  {
+    "ibge_code": 2706505,
+    "name": "Passo de Camaragibe",
+    "uf": "AL",
+    "slug": "passo-de-camaragibe"
+  },
+  {
+    "ibge_code": 2706604,
+    "name": "Paulo Jacinto",
+    "uf": "AL",
+    "slug": "paulo-jacinto"
+  },
+  {
+    "ibge_code": 2707008,
+    "name": "Pindoba",
+    "uf": "AL",
+    "slug": "pindoba"
+  },
+  {
+    "ibge_code": 2707107,
+    "name": "Piranhas",
+    "uf": "AL",
+    "slug": "piranhas"
+  },
+  {
+    "ibge_code": 2707404,
+    "name": "Porto de Pedras",
+    "uf": "AL",
+    "slug": "porto-de-pedras"
+  },
+  {
+    "ibge_code": 2707206,
+    "name": "Poço das Trincheiras",
+    "uf": "AL",
+    "slug": "poco-das-trincheiras"
+  },
+  {
+    "ibge_code": 2707701,
+    "name": "Rio Largo",
+    "uf": "AL",
+    "slug": "rio-largo"
+  },
+  {
+    "ibge_code": 2707800,
+    "name": "Roteiro",
+    "uf": "AL",
+    "slug": "roteiro"
+  },
+  {
+    "ibge_code": 2708204,
+    "name": "São Brás",
+    "uf": "AL",
+    "slug": "sao-bras"
+  },
+  {
+    "ibge_code": 2708402,
+    "name": "São José da Tapera",
+    "uf": "AL",
+    "slug": "sao-jose-da-tapera"
+  },
+  {
+    "ibge_code": 2708709,
+    "name": "São Miguel dos Milagres",
+    "uf": "AL",
+    "slug": "sao-miguel-dos-milagres"
+  },
+  {
+    "ibge_code": 2709004,
+    "name": "Tanque d'Arca",
+    "uf": "AL",
+    "slug": "tanque-d-arca"
+  },
+  {
+    "ibge_code": 2709103,
+    "name": "Taquarana",
+    "uf": "AL",
+    "slug": "taquarana"
+  },
+  {
+    "ibge_code": 1300631,
+    "name": "Beruri",
+    "uf": "AM",
+    "slug": "beruri"
+  },
+  {
+    "ibge_code": 1300706,
+    "name": "Boca do Acre",
+    "uf": "AM",
+    "slug": "boca-do-acre"
+  },
+  {
+    "ibge_code": 1301951,
+    "name": "Itamarati",
+    "uf": "AM",
+    "slug": "itamarati"
+  },
+  {
+    "ibge_code": 1302009,
+    "name": "Itapiranga",
+    "uf": "AM",
+    "slug": "itapiranga"
+  },
+  {
+    "ibge_code": 1302553,
+    "name": "Manaquiri",
+    "uf": "AM",
+    "slug": "manaquiri"
+  },
+  {
+    "ibge_code": 1302603,
+    "name": "Manaus",
+    "uf": "AM",
+    "slug": "manaus"
+  },
+  {
+    "ibge_code": 1302801,
+    "name": "Maraã",
+    "uf": "AM",
+    "slug": "maraa"
+  },
+  {
+    "ibge_code": 1303205,
+    "name": "Novo Airão",
+    "uf": "AM",
+    "slug": "novo-airao"
+  },
+  {
+    "ibge_code": 1303502,
+    "name": "Pauini",
+    "uf": "AM",
+    "slug": "pauini"
+  },
+  {
+    "ibge_code": 1303908,
+    "name": "São Paulo de Olivença",
+    "uf": "AM",
+    "slug": "sao-paulo-de-olivenca"
+  },
+  {
+    "ibge_code": 1304104,
+    "name": "Tapauá",
+    "uf": "AM",
+    "slug": "tapaua"
+  },
+  {
+    "ibge_code": 1304237,
+    "name": "Tonantins",
+    "uf": "AM",
+    "slug": "tonantins"
+  },
+  {
+    "ibge_code": 1304260,
+    "name": "Uarini",
+    "uf": "AM",
+    "slug": "uarini"
+  },
+  {
+    "ibge_code": 1304302,
+    "name": "Urucará",
+    "uf": "AM",
+    "slug": "urucara"
+  },
+  {
+    "ibge_code": 1304401,
+    "name": "Urucurituba",
+    "uf": "AM",
+    "slug": "urucurituba"
+  },
+  {
+    "ibge_code": 1600212,
+    "name": "Cutias",
+    "uf": "AP",
+    "slug": "cutias"
+  },
+  {
+    "ibge_code": 1600253,
+    "name": "Itaubal",
+    "uf": "AP",
+    "slug": "itaubal"
+  },
+  {
+    "ibge_code": 1600402,
+    "name": "Mazagão",
+    "uf": "AP",
+    "slug": "mazagao"
+  },
+  {
+    "ibge_code": 1600550,
+    "name": "Pracuúba",
+    "uf": "AP",
+    "slug": "pracuuba"
+  },
+  {
+    "ibge_code": 1600055,
+    "name": "Serra do Navio",
+    "uf": "AP",
+    "slug": "serra-do-navio"
+  },
+  {
+    "ibge_code": 2900108,
+    "name": "Abaíra",
+    "uf": "BA",
+    "slug": "abaira"
+  },
+  {
+    "ibge_code": 2900900,
+    "name": "Almadina",
+    "uf": "BA",
+    "slug": "almadina"
+  },
+  {
+    "ibge_code": 2901155,
+    "name": "América Dourada",
+    "uf": "BA",
+    "slug": "america-dourada"
+  },
+  {
+    "ibge_code": 2901304,
+    "name": "Andaraí",
+    "uf": "BA",
+    "slug": "andarai"
+  },
+  {
+    "ibge_code": 2901353,
+    "name": "Andorinha",
+    "uf": "BA",
+    "slug": "andorinha"
+  },
+  {
+    "ibge_code": 2901403,
+    "name": "Angical",
+    "uf": "BA",
+    "slug": "angical"
+  },
+  {
+    "ibge_code": 2901601,
+    "name": "Antas",
+    "uf": "BA",
+    "slug": "antas"
+  },
+  {
+    "ibge_code": 2901809,
+    "name": "Antônio Gonçalves",
+    "uf": "BA",
+    "slug": "antonio-goncalves"
+  },
+  {
+    "ibge_code": 2901957,
+    "name": "Apuarema",
+    "uf": "BA",
+    "slug": "apuarema"
+  },
+  {
+    "ibge_code": 2902203,
+    "name": "Aramari",
+    "uf": "BA",
+    "slug": "aramari"
+  },
+  {
+    "ibge_code": 2902252,
+    "name": "Arataca",
+    "uf": "BA",
+    "slug": "arataca"
+  },
+  {
+    "ibge_code": 2902302,
+    "name": "Aratuípe",
+    "uf": "BA",
+    "slug": "aratuipe"
+  },
+  {
+    "ibge_code": 2902401,
+    "name": "Aurelino Leal",
+    "uf": "BA",
+    "slug": "aurelino-leal"
+  },
+  {
+    "ibge_code": 2902500,
+    "name": "Baianópolis",
+    "uf": "BA",
+    "slug": "baianopolis"
+  },
+  {
+    "ibge_code": 2903102,
+    "name": "Barra do Rocha",
+    "uf": "BA",
+    "slug": "barra-do-rocha"
+  },
+  {
+    "ibge_code": 2903300,
+    "name": "Barro Preto",
+    "uf": "BA",
+    "slug": "barro-preto"
+  },
+  {
+    "ibge_code": 2903276,
+    "name": "Barrocas",
+    "uf": "BA",
+    "slug": "barrocas"
+  },
+  {
+    "ibge_code": 2903409,
+    "name": "Belmonte",
+    "uf": "BA",
+    "slug": "belmonte"
+  },
+  {
+    "ibge_code": 2903508,
+    "name": "Belo Campo",
+    "uf": "BA",
+    "slug": "belo-campo"
+  },
+  {
+    "ibge_code": 2903607,
+    "name": "Biritinga",
+    "uf": "BA",
+    "slug": "biritinga"
+  },
+  {
+    "ibge_code": 2903706,
+    "name": "Boa Nova",
+    "uf": "BA",
+    "slug": "boa-nova"
+  },
+  {
+    "ibge_code": 2903805,
+    "name": "Boa Vista do Tupim",
+    "uf": "BA",
+    "slug": "boa-vista-do-tupim"
+  },
+  {
+    "ibge_code": 2903953,
+    "name": "Bom Jesus da Serra",
+    "uf": "BA",
+    "slug": "bom-jesus-da-serra"
+  },
+  {
+    "ibge_code": 2904209,
+    "name": "Botuporã",
+    "uf": "BA",
+    "slug": "botupora"
+  },
+  {
+    "ibge_code": 2904407,
+    "name": "Brejolândia",
+    "uf": "BA",
+    "slug": "brejolandia"
+  },
+  {
+    "ibge_code": 2904704,
+    "name": "Buerarema",
+    "uf": "BA",
+    "slug": "buerarema"
+  },
+  {
+    "ibge_code": 2904753,
+    "name": "Buritirama",
+    "uf": "BA",
+    "slug": "buritirama"
+  },
+  {
+    "ibge_code": 2904852,
+    "name": "Cabaceiras do Paraguaçu",
+    "uf": "BA",
+    "slug": "cabaceiras-do-paraguacu"
+  },
+  {
+    "ibge_code": 2905156,
+    "name": "Caetanos",
+    "uf": "BA",
+    "slug": "caetanos"
+  },
+  {
+    "ibge_code": 2905404,
+    "name": "Cairu",
+    "uf": "BA",
+    "slug": "cairu"
+  },
+  {
+    "ibge_code": 2905503,
+    "name": "Caldeirão Grande",
+    "uf": "BA",
+    "slug": "caldeirao-grande"
+  },
+  {
+    "ibge_code": 2905800,
+    "name": "Camamu",
+    "uf": "BA",
+    "slug": "camamu"
+  },
+  {
+    "ibge_code": 2905909,
+    "name": "Campo Alegre de Lourdes",
+    "uf": "BA",
+    "slug": "campo-alegre-de-lourdes"
+  },
+  {
+    "ibge_code": 2906402,
+    "name": "Candeal",
+    "uf": "BA",
+    "slug": "candeal"
+  },
+  {
+    "ibge_code": 2906501,
+    "name": "Candeias",
+    "uf": "BA",
+    "slug": "candeias"
+  },
+  {
+    "ibge_code": 2906824,
+    "name": "Canudos",
+    "uf": "BA",
+    "slug": "canudos"
+  },
+  {
+    "ibge_code": 2906857,
+    "name": "Capela do Alto Alegre",
+    "uf": "BA",
+    "slug": "capela-do-alto-alegre"
+  },
+  {
+    "ibge_code": 2906873,
+    "name": "Capim Grosso",
+    "uf": "BA",
+    "slug": "capim-grosso"
+  },
+  {
+    "ibge_code": 2906899,
+    "name": "Caraíbas",
+    "uf": "BA",
+    "slug": "caraibas"
+  },
+  {
+    "ibge_code": 2907103,
+    "name": "Carinhanha",
+    "uf": "BA",
+    "slug": "carinhanha"
+  },
+  {
+    "ibge_code": 2907301,
+    "name": "Castro Alves",
+    "uf": "BA",
+    "slug": "castro-alves"
+  },
+  {
+    "ibge_code": 2913457,
+    "name": "Igrapiúna",
+    "uf": "BA",
+    "slug": "igrapiuna"
+  },
+  {
+    "ibge_code": 2914505,
+    "name": "Irará",
+    "uf": "BA",
+    "slug": "irara"
+  },
+  {
+    "ibge_code": 2914901,
+    "name": "Itacaré",
+    "uf": "BA",
+    "slug": "itacare"
+  },
+  {
+    "ibge_code": 2915908,
+    "name": "Itanagra",
+    "uf": "BA",
+    "slug": "itanagra"
+  },
+  {
+    "ibge_code": 2916906,
+    "name": "Itiruçu",
+    "uf": "BA",
+    "slug": "itirucu"
+  },
+  {
+    "ibge_code": 2917300,
+    "name": "Ituberá",
+    "uf": "BA",
+    "slug": "itubera"
+  },
+  {
+    "ibge_code": 2917706,
+    "name": "Jaguarari",
+    "uf": "BA",
+    "slug": "jaguarari"
+  },
+  {
+    "ibge_code": 2920007,
+    "name": "Maiquinique",
+    "uf": "BA",
+    "slug": "maiquinique"
+  },
+  {
+    "ibge_code": 2921302,
+    "name": "Milagres",
+    "uf": "BA",
+    "slug": "milagres"
+  },
+  {
+    "ibge_code": 2923357,
+    "name": "Ourolândia",
+    "uf": "BA",
+    "slug": "ourolandia"
+  },
+  {
+    "ibge_code": 2925105,
+    "name": "Poções",
+    "uf": "BA",
+    "slug": "pocoes"
+  },
+  {
+    "ibge_code": 2925956,
+    "name": "Rafael Jambeiro",
+    "uf": "BA",
+    "slug": "rafael-jambeiro"
+  },
+  {
+    "ibge_code": 2926004,
+    "name": "Remanso",
+    "uf": "BA",
+    "slug": "remanso"
+  },
+  {
+    "ibge_code": 2927200,
+    "name": "Ruy Barbosa",
+    "uf": "BA",
+    "slug": "ruy-barbosa"
+  },
+  {
+    "ibge_code": 2928307,
+    "name": "Santanópolis",
+    "uf": "BA",
+    "slug": "santanopolis"
+  },
+  {
+    "ibge_code": 2929909,
+    "name": "Seabra",
+    "uf": "BA",
+    "slug": "seabra"
+  },
+  {
+    "ibge_code": 2933257,
+    "name": "Vereda",
+    "uf": "BA",
+    "slug": "vereda"
+  },
+  {
+    "ibge_code": 2300408,
+    "name": "Aiuaba",
+    "uf": "CE",
+    "slug": "aiuaba"
+  },
+  {
+    "ibge_code": 2300754,
+    "name": "Amontada",
+    "uf": "CE",
+    "slug": "amontada"
+  },
+  {
+    "ibge_code": 2301505,
+    "name": "Arneiroz",
+    "uf": "CE",
+    "slug": "arneiroz"
+  },
+  {
+    "ibge_code": 2303303,
+    "name": "Cariús",
+    "uf": "CE",
+    "slug": "carius"
+  },
+  {
+    "ibge_code": 2303402,
+    "name": "Carnaubal",
+    "uf": "CE",
+    "slug": "carnaubal"
+  },
+  {
+    "ibge_code": 2303907,
+    "name": "Chaval",
+    "uf": "CE",
+    "slug": "chaval"
+  },
+  {
+    "ibge_code": 2306009,
+    "name": "Iracema",
+    "uf": "CE",
+    "slug": "iracema"
+  },
+  {
+    "ibge_code": 2306504,
+    "name": "Itapiúna",
+    "uf": "CE",
+    "slug": "itapiuna"
+  },
+  {
+    "ibge_code": 2307205,
+    "name": "Jati",
+    "uf": "CE",
+    "slug": "jati"
+  },
+  {
+    "ibge_code": 2307635,
+    "name": "Madalena",
+    "uf": "CE",
+    "slug": "madalena"
+  },
+  {
+    "ibge_code": 2308302,
+    "name": "Milagres",
+    "uf": "CE",
+    "slug": "milagres"
+  },
+  {
+    "ibge_code": 2308377,
+    "name": "Miraíma",
+    "uf": "CE",
+    "slug": "miraima"
+  },
+  {
+    "ibge_code": 2309458,
+    "name": "Ocara",
+    "uf": "CE",
+    "slug": "ocara"
+  },
+  {
+    "ibge_code": 2310902,
+    "name": "Piquet Carneiro",
+    "uf": "CE",
+    "slug": "piquet-carneiro"
+  },
+  {
+    "ibge_code": 2310951,
+    "name": "Pires Ferreira",
+    "uf": "CE",
+    "slug": "pires-ferreira"
+  },
+  {
+    "ibge_code": 2311231,
+    "name": "Potiretama",
+    "uf": "CE",
+    "slug": "potiretama"
+  },
+  {
+    "ibge_code": 2313252,
+    "name": "Tarrafas",
+    "uf": "CE",
+    "slug": "tarrafas"
+  },
+  {
+    "ibge_code": 5300108,
+    "name": "Brasília",
+    "uf": "DF",
+    "slug": "brasilia"
+  },
+  {
+    "ibge_code": 3200508,
+    "name": "Apiacá",
+    "uf": "ES",
+    "slug": "apiaca"
+  },
+  {
+    "ibge_code": 3201159,
+    "name": "Brejetuba",
+    "uf": "ES",
+    "slug": "brejetuba"
+  },
+  {
+    "ibge_code": 3201803,
+    "name": "Divino de São Lourenço",
+    "uf": "ES",
+    "slug": "divino-de-sao-lourenco"
+  },
+  {
+    "ibge_code": 3202009,
+    "name": "Dores do Rio Preto",
+    "uf": "ES",
+    "slug": "dores-do-rio-preto"
+  },
+  {
+    "ibge_code": 3202454,
+    "name": "Ibatiba",
+    "uf": "ES",
+    "slug": "ibatiba"
+  },
+  {
+    "ibge_code": 3202553,
+    "name": "Ibitirama",
+    "uf": "ES",
+    "slug": "ibitirama"
+  },
+  {
+    "ibge_code": 3202900,
+    "name": "Itarana",
+    "uf": "ES",
+    "slug": "itarana"
+  },
+  {
+    "ibge_code": 3203163,
+    "name": "Laranja da Terra",
+    "uf": "ES",
+    "slug": "laranja-da-terra"
+  },
+  {
+    "ibge_code": 3204708,
+    "name": "São Gabriel da Palha",
+    "uf": "ES",
+    "slug": "sao-gabriel-da-palha"
+  },
+  {
+    "ibge_code": 3204807,
+    "name": "São José do Calçado",
+    "uf": "ES",
+    "slug": "sao-jose-do-calcado"
+  },
+  {
+    "ibge_code": 3204955,
+    "name": "São Roque do Canaã",
+    "uf": "ES",
+    "slug": "sao-roque-do-canaa"
+  },
+  {
+    "ibge_code": 3205036,
+    "name": "Vargem Alta",
+    "uf": "ES",
+    "slug": "vargem-alta"
+  },
+  {
+    "ibge_code": 5201801,
+    "name": "Aragoiânia",
+    "uf": "GO",
+    "slug": "aragoiania"
+  },
+  {
+    "ibge_code": 5202155,
+    "name": "Araguapaz",
+    "uf": "GO",
+    "slug": "araguapaz"
+  },
+  {
+    "ibge_code": 5202353,
+    "name": "Arenópolis",
+    "uf": "GO",
+    "slug": "arenopolis"
+  },
+  {
+    "ibge_code": 5202502,
+    "name": "Aruanã",
+    "uf": "GO",
+    "slug": "aruana"
+  },
+  {
+    "ibge_code": 5202601,
+    "name": "Aurilândia",
+    "uf": "GO",
+    "slug": "aurilandia"
+  },
+  {
+    "ibge_code": 5202809,
+    "name": "Avelinópolis",
+    "uf": "GO",
+    "slug": "avelinopolis"
+  },
+  {
+    "ibge_code": 5203104,
+    "name": "Baliza",
+    "uf": "GO",
+    "slug": "baliza"
+  },
+  {
+    "ibge_code": 5203575,
+    "name": "Bonópolis",
+    "uf": "GO",
+    "slug": "bonopolis"
+  },
+  {
+    "ibge_code": 5203962,
+    "name": "Buritinópolis",
+    "uf": "GO",
+    "slug": "buritinopolis"
+  },
+  {
+    "ibge_code": 5204656,
+    "name": "Campinaçu",
+    "uf": "GO",
+    "slug": "campinacu"
+  },
+  {
+    "ibge_code": 5204706,
+    "name": "Campinorte",
+    "uf": "GO",
+    "slug": "campinorte"
+  },
+  {
+    "ibge_code": 5205059,
+    "name": "Castelândia",
+    "uf": "GO",
+    "slug": "castelandia"
+  },
+  {
+    "ibge_code": 5205307,
+    "name": "Cavalcante",
+    "uf": "GO",
+    "slug": "cavalcante"
+  },
+  {
+    "ibge_code": 5205802,
+    "name": "Corumbá de Goiás",
+    "uf": "GO",
+    "slug": "corumba-de-goias"
+  },
+  {
+    "ibge_code": 5206701,
+    "name": "Damianópolis",
+    "uf": "GO",
+    "slug": "damianopolis"
+  },
+  {
+    "ibge_code": 5207105,
+    "name": "Diorama",
+    "uf": "GO",
+    "slug": "diorama"
+  },
+  {
+    "ibge_code": 5207352,
+    "name": "Edealina",
+    "uf": "GO",
+    "slug": "edealina"
+  },
+  {
+    "ibge_code": 5207907,
+    "name": "Flores de Goiás",
+    "uf": "GO",
+    "slug": "flores-de-goias"
+  },
+  {
+    "ibge_code": 5208103,
+    "name": "Formoso",
+    "uf": "GO",
+    "slug": "formoso"
+  },
+  {
+    "ibge_code": 5208152,
+    "name": "Gameleira de Goiás",
+    "uf": "GO",
+    "slug": "gameleira-de-goias"
+  },
+  {
+    "ibge_code": 5208806,
+    "name": "Goianira",
+    "uf": "GO",
+    "slug": "goianira"
+  },
+  {
+    "ibge_code": 5208905,
+    "name": "Goiás",
+    "uf": "GO",
+    "slug": "goias"
+  },
+  {
+    "ibge_code": 5209200,
+    "name": "Guapó",
+    "uf": "GO",
+    "slug": "guapo"
+  },
+  {
+    "ibge_code": 5209408,
+    "name": "Guarani de Goiás",
+    "uf": "GO",
+    "slug": "guarani-de-goias"
+  },
+  {
+    "ibge_code": 5209291,
+    "name": "Guaraíta",
+    "uf": "GO",
+    "slug": "guaraita"
+  },
+  {
+    "ibge_code": 5209457,
+    "name": "Guarinos",
+    "uf": "GO",
+    "slug": "guarinos"
+  },
+  {
+    "ibge_code": 5209705,
+    "name": "Hidrolândia",
+    "uf": "GO",
+    "slug": "hidrolandia"
+  },
+  {
+    "ibge_code": 5209903,
+    "name": "Iaciara",
+    "uf": "GO",
+    "slug": "iaciara"
+  },
+  {
+    "ibge_code": 5209952,
+    "name": "Indiara",
+    "uf": "GO",
+    "slug": "indiara"
+  },
+  {
+    "ibge_code": 5210158,
+    "name": "Ipiranga de Goiás",
+    "uf": "GO",
+    "slug": "ipiranga-de-goias"
+  },
+  {
+    "ibge_code": 5211206,
+    "name": "Itapuranga",
+    "uf": "GO",
+    "slug": "itapuranga"
+  },
+  {
+    "ibge_code": 5212105,
+    "name": "Joviânia",
+    "uf": "GO",
+    "slug": "joviania"
+  },
+  {
+    "ibge_code": 5212808,
+    "name": "Mara Rosa",
+    "uf": "GO",
+    "slug": "mara-rosa"
+  },
+  {
+    "ibge_code": 5212907,
+    "name": "Marzagão",
+    "uf": "GO",
+    "slug": "marzagao"
+  },
+  {
+    "ibge_code": 5213053,
+    "name": "Mimoso de Goiás",
+    "uf": "GO",
+    "slug": "mimoso-de-goias"
+  },
+  {
+    "ibge_code": 5213855,
+    "name": "Morro Agudo de Goiás",
+    "uf": "GO",
+    "slug": "morro-agudo-de-goias"
+  },
+  {
+    "ibge_code": 5214861,
+    "name": "Nova Glória",
+    "uf": "GO",
+    "slug": "nova-gloria"
+  },
+  {
+    "ibge_code": 5215009,
+    "name": "Nova Veneza",
+    "uf": "GO",
+    "slug": "nova-veneza"
+  },
+  {
+    "ibge_code": 5215900,
+    "name": "Palminópolis",
+    "uf": "GO",
+    "slug": "palminopolis"
+  },
+  {
+    "ibge_code": 5216809,
+    "name": "Petrolina de Goiás",
+    "uf": "GO",
+    "slug": "petrolina-de-goias"
+  },
+  {
+    "ibge_code": 5216908,
+    "name": "Pilar de Goiás",
+    "uf": "GO",
+    "slug": "pilar-de-goias"
+  },
+  {
+    "ibge_code": 5218102,
+    "name": "Portelândia",
+    "uf": "GO",
+    "slug": "portelandia"
+  },
+  {
+    "ibge_code": 5218607,
+    "name": "Rialma",
+    "uf": "GO",
+    "slug": "rialma"
+  },
+  {
+    "ibge_code": 5218706,
+    "name": "Rianápolis",
+    "uf": "GO",
+    "slug": "rianapolis"
+  },
+  {
+    "ibge_code": 5218789,
+    "name": "Rio Quente",
+    "uf": "GO",
+    "slug": "rio-quente"
+  },
+  {
+    "ibge_code": 5218904,
+    "name": "Rubiataba",
+    "uf": "GO",
+    "slug": "rubiataba"
+  },
+  {
+    "ibge_code": 5219001,
+    "name": "Sanclerlândia",
+    "uf": "GO",
+    "slug": "sanclerlandia"
+  },
+  {
+    "ibge_code": 5219605,
+    "name": "Santa Tereza de Goiás",
+    "uf": "GO",
+    "slug": "santa-tereza-de-goias"
+  },
+  {
+    "ibge_code": 5219753,
+    "name": "Santo Antônio do Descoberto",
+    "uf": "GO",
+    "slug": "santo-antonio-do-descoberto"
+  },
+  {
+    "ibge_code": 5220157,
+    "name": "São Luiz do Norte",
+    "uf": "GO",
+    "slug": "sao-luiz-do-norte"
+  },
+  {
+    "ibge_code": 5220280,
+    "name": "São Patrício",
+    "uf": "GO",
+    "slug": "sao-patricio"
+  },
+  {
+    "ibge_code": 5220702,
+    "name": "Sítio d'Abadia",
+    "uf": "GO",
+    "slug": "sitio-d-abadia"
+  },
+  {
+    "ibge_code": 5221551,
+    "name": "Turvelândia",
+    "uf": "GO",
+    "slug": "turvelandia"
+  },
+  {
+    "ibge_code": 5221700,
+    "name": "Uruana",
+    "uf": "GO",
+    "slug": "uruana"
+  },
+  {
+    "ibge_code": 5221908,
+    "name": "Varjão",
+    "uf": "GO",
+    "slug": "varjao"
+  },
+  {
+    "ibge_code": 2100105,
+    "name": "Afonso Cunha",
+    "uf": "MA",
+    "slug": "afonso-cunha"
+  },
+  {
+    "ibge_code": 2100709,
+    "name": "Anajatuba",
+    "uf": "MA",
+    "slug": "anajatuba"
+  },
+  {
+    "ibge_code": 2100808,
+    "name": "Anapurus",
+    "uf": "MA",
+    "slug": "anapurus"
+  },
+  {
+    "ibge_code": 2100873,
+    "name": "Araguanã",
+    "uf": "MA",
+    "slug": "araguana"
+  },
+  {
+    "ibge_code": 2101301,
+    "name": "Bacuri",
+    "uf": "MA",
+    "slug": "bacuri"
+  },
+  {
+    "ibge_code": 2101350,
+    "name": "Bacurituba",
+    "uf": "MA",
+    "slug": "bacurituba"
+  },
+  {
+    "ibge_code": 2101772,
+    "name": "Bela Vista do Maranhão",
+    "uf": "MA",
+    "slug": "bela-vista-do-maranhao"
+  },
+  {
+    "ibge_code": 2101731,
+    "name": "Belágua",
+    "uf": "MA",
+    "slug": "belagua"
+  },
+  {
+    "ibge_code": 2101939,
+    "name": "Bernardo do Mearim",
+    "uf": "MA",
+    "slug": "bernardo-do-mearim"
+  },
+  {
+    "ibge_code": 2102077,
+    "name": "Bom Lugar",
+    "uf": "MA",
+    "slug": "bom-lugar"
+  },
+  {
+    "ibge_code": 2102374,
+    "name": "Cachoeira Grande",
+    "uf": "MA",
+    "slug": "cachoeira-grande"
+  },
+  {
+    "ibge_code": 2103158,
+    "name": "Centro do Guilherme",
+    "uf": "MA",
+    "slug": "centro-do-guilherme"
+  },
+  {
+    "ibge_code": 2103901,
+    "name": "Duque Bacelar",
+    "uf": "MA",
+    "slug": "duque-bacelar"
+  },
+  {
+    "ibge_code": 2104073,
+    "name": "Feira Nova do Maranhão",
+    "uf": "MA",
+    "slug": "feira-nova-do-maranhao"
+  },
+  {
+    "ibge_code": 2104099,
+    "name": "Formosa da Serra Negra",
+    "uf": "MA",
+    "slug": "formosa-da-serra-negra"
+  },
+  {
+    "ibge_code": 2104107,
+    "name": "Fortaleza dos Nogueiras",
+    "uf": "MA",
+    "slug": "fortaleza-dos-nogueiras"
+  },
+  {
+    "ibge_code": 2104602,
+    "name": "Governador Eugênio Barros",
+    "uf": "MA",
+    "slug": "governador-eugenio-barros"
+  },
+  {
+    "ibge_code": 2104628,
+    "name": "Governador Luiz Rocha",
+    "uf": "MA",
+    "slug": "governador-luiz-rocha"
+  },
+  {
+    "ibge_code": 2104651,
+    "name": "Governador Newton Bello",
+    "uf": "MA",
+    "slug": "governador-newton-bello"
+  },
+  {
+    "ibge_code": 2104701,
+    "name": "Graça Aranha",
+    "uf": "MA",
+    "slug": "graca-aranha"
+  },
+  {
+    "ibge_code": 2105203,
+    "name": "Igarapé Grande",
+    "uf": "MA",
+    "slug": "igarape-grande"
+  },
+  {
+    "ibge_code": 2105351,
+    "name": "Itaipava do Grajaú",
+    "uf": "MA",
+    "slug": "itaipava-do-grajau"
+  },
+  {
+    "ibge_code": 2105450,
+    "name": "Jatobá",
+    "uf": "MA",
+    "slug": "jatoba"
+  },
+  {
+    "ibge_code": 2105476,
+    "name": "Jenipapo dos Vieiras",
+    "uf": "MA",
+    "slug": "jenipapo-dos-vieiras"
+  },
+  {
+    "ibge_code": 2105658,
+    "name": "Junco do Maranhão",
+    "uf": "MA",
+    "slug": "junco-do-maranhao"
+  },
+  {
+    "ibge_code": 2105807,
+    "name": "Lago do Junco",
+    "uf": "MA",
+    "slug": "lago-do-junco"
+  },
+  {
+    "ibge_code": 2105948,
+    "name": "Lago dos Rodrigues",
+    "uf": "MA",
+    "slug": "lago-dos-rodrigues"
+  },
+  {
+    "ibge_code": 2105963,
+    "name": "Lagoa Grande do Maranhão",
+    "uf": "MA",
+    "slug": "lagoa-grande-do-maranhao"
+  },
+  {
+    "ibge_code": 2105922,
+    "name": "Lagoa do Mato",
+    "uf": "MA",
+    "slug": "lagoa-do-mato"
+  },
+  {
+    "ibge_code": 2105989,
+    "name": "Lajeado Novo",
+    "uf": "MA",
+    "slug": "lajeado-novo"
+  },
+  {
+    "ibge_code": 2106102,
+    "name": "Loreto",
+    "uf": "MA",
+    "slug": "loreto"
+  },
+  {
+    "ibge_code": 2106300,
+    "name": "Magalhães de Almeida",
+    "uf": "MA",
+    "slug": "magalhaes-de-almeida"
+  },
+  {
+    "ibge_code": 2106631,
+    "name": "Matões do Norte",
+    "uf": "MA",
+    "slug": "matoes-do-norte"
+  },
+  {
+    "ibge_code": 2106672,
+    "name": "Milagres do Maranhão",
+    "uf": "MA",
+    "slug": "milagres-do-maranhao"
+  },
+  {
+    "ibge_code": 2107001,
+    "name": "Montes Altos",
+    "uf": "MA",
+    "slug": "montes-altos"
+  },
+  {
+    "ibge_code": 2107100,
+    "name": "Morros",
+    "uf": "MA",
+    "slug": "morros"
+  },
+  {
+    "ibge_code": 2107209,
+    "name": "Nina Rodrigues",
+    "uf": "MA",
+    "slug": "nina-rodrigues"
+  },
+  {
+    "ibge_code": 2107258,
+    "name": "Nova Colinas",
+    "uf": "MA",
+    "slug": "nova-colinas"
+  },
+  {
+    "ibge_code": 2107407,
+    "name": "Olho d'Água das Cunhãs",
+    "uf": "MA",
+    "slug": "olho-d-agua-das-cunhas"
+  },
+  {
+    "ibge_code": 2107456,
+    "name": "Olinda Nova do Maranhão",
+    "uf": "MA",
+    "slug": "olinda-nova-do-maranhao"
+  },
+  {
+    "ibge_code": 2107605,
+    "name": "Palmeirândia",
+    "uf": "MA",
+    "slug": "palmeirandia"
+  },
+  {
+    "ibge_code": 2107704,
+    "name": "Paraibano",
+    "uf": "MA",
+    "slug": "paraibano"
+  },
+  {
+    "ibge_code": 2107902,
+    "name": "Passagem Franca",
+    "uf": "MA",
+    "slug": "passagem-franca"
+  },
+  {
+    "ibge_code": 2108256,
+    "name": "Pedro do Rosário",
+    "uf": "MA",
+    "slug": "pedro-do-rosario"
+  },
+  {
+    "ibge_code": 2108405,
+    "name": "Peri Mirim",
+    "uf": "MA",
+    "slug": "peri-mirim"
+  },
+  {
+    "ibge_code": 2108454,
+    "name": "Peritoró",
+    "uf": "MA",
+    "slug": "peritoro"
+  },
+  {
+    "ibge_code": 2108504,
+    "name": "Pindaré-Mirim",
+    "uf": "MA",
+    "slug": "pindare-mirim"
+  },
+  {
+    "ibge_code": 2108801,
+    "name": "Pirapemas",
+    "uf": "MA",
+    "slug": "pirapemas"
+  },
+  {
+    "ibge_code": 2109056,
+    "name": "Porto Rico do Maranhão",
+    "uf": "MA",
+    "slug": "porto-rico-do-maranhao"
+  },
+  {
+    "ibge_code": 2108900,
+    "name": "Poção de Pedras",
+    "uf": "MA",
+    "slug": "pocao-de-pedras"
+  },
+  {
+    "ibge_code": 2109205,
+    "name": "Presidente Juscelino",
+    "uf": "MA",
+    "slug": "presidente-juscelino"
+  },
+  {
+    "ibge_code": 2109270,
+    "name": "Presidente Sarney",
+    "uf": "MA",
+    "slug": "presidente-sarney"
+  },
+  {
+    "ibge_code": 2109403,
+    "name": "Primeira Cruz",
+    "uf": "MA",
+    "slug": "primeira-cruz"
+  },
+  {
+    "ibge_code": 2109502,
+    "name": "Riachão",
+    "uf": "MA",
+    "slug": "riachao"
+  },
+  {
+    "ibge_code": 2109551,
+    "name": "Ribamar Fiquene",
+    "uf": "MA",
+    "slug": "ribamar-fiquene"
+  },
+  {
+    "ibge_code": 2109700,
+    "name": "Sambaíba",
+    "uf": "MA",
+    "slug": "sambaiba"
+  },
+  {
+    "ibge_code": 2110278,
+    "name": "Santo Amaro do Maranhão",
+    "uf": "MA",
+    "slug": "santo-amaro-do-maranhao"
+  },
+  {
+    "ibge_code": 2110302,
+    "name": "Santo Antônio dos Lopes",
+    "uf": "MA",
+    "slug": "santo-antonio-dos-lopes"
+  },
+  {
+    "ibge_code": 2111722,
+    "name": "Satubinha",
+    "uf": "MA",
+    "slug": "satubinha"
+  },
+  {
+    "ibge_code": 2111789,
+    "name": "Serrano do Maranhão",
+    "uf": "MA",
+    "slug": "serrano-do-maranhao"
+  },
+  {
+    "ibge_code": 2111904,
+    "name": "Sucupira do Norte",
+    "uf": "MA",
+    "slug": "sucupira-do-norte"
+  },
+  {
+    "ibge_code": 2111953,
+    "name": "Sucupira do Riachão",
+    "uf": "MA",
+    "slug": "sucupira-do-riachao"
+  },
+  {
+    "ibge_code": 2110658,
+    "name": "São Domingos do Azeitão",
+    "uf": "MA",
+    "slug": "sao-domingos-do-azeitao"
+  },
+  {
+    "ibge_code": 2110856,
+    "name": "São Francisco do Brejão",
+    "uf": "MA",
+    "slug": "sao-francisco-do-brejao"
+  },
+  {
+    "ibge_code": 2110906,
+    "name": "São Francisco do Maranhão",
+    "uf": "MA",
+    "slug": "sao-francisco-do-maranhao"
+  },
+  {
+    "ibge_code": 2111052,
+    "name": "São João do Paraíso",
+    "uf": "MA",
+    "slug": "sao-joao-do-paraiso"
+  },
+  {
+    "ibge_code": 2111078,
+    "name": "São João do Soter",
+    "uf": "MA",
+    "slug": "sao-joao-do-soter"
+  },
+  {
+    "ibge_code": 2111532,
+    "name": "São Pedro da Água Branca",
+    "uf": "MA",
+    "slug": "sao-pedro-da-agua-branca"
+  },
+  {
+    "ibge_code": 2111573,
+    "name": "São Pedro dos Crentes",
+    "uf": "MA",
+    "slug": "sao-pedro-dos-crentes"
+  },
+  {
+    "ibge_code": 2111805,
+    "name": "Sítio Novo",
+    "uf": "MA",
+    "slug": "sitio-novo"
+  },
+  {
+    "ibge_code": 2112274,
+    "name": "Tufilândia",
+    "uf": "MA",
+    "slug": "tufilandia"
+  },
+  {
+    "ibge_code": 2112852,
+    "name": "Vila Nova dos Martírios",
+    "uf": "MA",
+    "slug": "vila-nova-dos-martirios"
+  },
+  {
+    "ibge_code": 2100154,
+    "name": "Água Doce do Maranhão",
+    "uf": "MA",
+    "slug": "agua-doce-do-maranhao"
+  },
+  {
+    "ibge_code": 3101706,
+    "name": "Almenara",
+    "uf": "MG",
+    "slug": "almenara"
+  },
+  {
+    "ibge_code": 3113503,
+    "name": "Carbonita",
+    "uf": "MG",
+    "slug": "carbonita"
+  },
+  {
+    "ibge_code": 3114600,
+    "name": "Carrancas",
+    "uf": "MG",
+    "slug": "carrancas"
+  },
+  {
+    "ibge_code": 3120508,
+    "name": "Cristina",
+    "uf": "MG",
+    "slug": "cristina"
+  },
+  {
+    "ibge_code": 3127073,
+    "name": "Fruta de Leite",
+    "uf": "MG",
+    "slug": "fruta-de-leite"
+  },
+  {
+    "ibge_code": 3127339,
+    "name": "Gameleiras",
+    "uf": "MG",
+    "slug": "gameleiras"
+  },
+  {
+    "ibge_code": 3127909,
+    "name": "Grupiara",
+    "uf": "MG",
+    "slug": "grupiara"
+  },
+  {
+    "ibge_code": 3130408,
+    "name": "Ijaci",
+    "uf": "MG",
+    "slug": "ijaci"
+  },
+  {
+    "ibge_code": 3130606,
+    "name": "Inconfidentes",
+    "uf": "MG",
+    "slug": "inconfidentes"
+  },
+  {
+    "ibge_code": 3130705,
+    "name": "Indianópolis",
+    "uf": "MG",
+    "slug": "indianopolis"
+  },
+  {
+    "ibge_code": 3130804,
+    "name": "Ingaí",
+    "uf": "MG",
+    "slug": "ingai"
+  },
+  {
+    "ibge_code": 3131000,
+    "name": "Inhaúma",
+    "uf": "MG",
+    "slug": "inhauma"
+  },
+  {
+    "ibge_code": 3131109,
+    "name": "Inimutaba",
+    "uf": "MG",
+    "slug": "inimutaba"
+  },
+  {
+    "ibge_code": 3131158,
+    "name": "Ipaba",
+    "uf": "MG",
+    "slug": "ipaba"
+  },
+  {
+    "ibge_code": 3131406,
+    "name": "Ipiaçu",
+    "uf": "MG",
+    "slug": "ipiacu"
+  },
+  {
+    "ibge_code": 3131505,
+    "name": "Ipuiúna",
+    "uf": "MG",
+    "slug": "ipuiuna"
+  },
+  {
+    "ibge_code": 3131604,
+    "name": "Iraí de Minas",
+    "uf": "MG",
+    "slug": "irai-de-minas"
+  },
+  {
+    "ibge_code": 3131802,
+    "name": "Itabirinha",
+    "uf": "MG",
+    "slug": "itabirinha"
+  },
+  {
+    "ibge_code": 3132008,
+    "name": "Itacambira",
+    "uf": "MG",
+    "slug": "itacambira"
+  },
+  {
+    "ibge_code": 3132107,
+    "name": "Itacarambi",
+    "uf": "MG",
+    "slug": "itacarambi"
+  },
+  {
+    "ibge_code": 3132206,
+    "name": "Itaguara",
+    "uf": "MG",
+    "slug": "itaguara"
+  },
+  {
+    "ibge_code": 3132602,
+    "name": "Itamarati de Minas",
+    "uf": "MG",
+    "slug": "itamarati-de-minas"
+  },
+  {
+    "ibge_code": 3132701,
+    "name": "Itambacuri",
+    "uf": "MG",
+    "slug": "itambacuri"
+  },
+  {
+    "ibge_code": 3132909,
+    "name": "Itamogi",
+    "uf": "MG",
+    "slug": "itamogi"
+  },
+  {
+    "ibge_code": 3133105,
+    "name": "Itanhandu",
+    "uf": "MG",
+    "slug": "itanhandu"
+  },
+  {
+    "ibge_code": 3133204,
+    "name": "Itanhomi",
+    "uf": "MG",
+    "slug": "itanhomi"
+  },
+  {
+    "ibge_code": 3133402,
+    "name": "Itapagipe",
+    "uf": "MG",
+    "slug": "itapagipe"
+  },
+  {
+    "ibge_code": 3133501,
+    "name": "Itapecerica",
+    "uf": "MG",
+    "slug": "itapecerica"
+  },
+  {
+    "ibge_code": 3134301,
+    "name": "Itumirim",
+    "uf": "MG",
+    "slug": "itumirim"
+  },
+  {
+    "ibge_code": 3135076,
+    "name": "Jampruca",
+    "uf": "MG",
+    "slug": "jampruca"
+  },
+  {
+    "ibge_code": 3135308,
+    "name": "Japaraíba",
+    "uf": "MG",
+    "slug": "japaraiba"
+  },
+  {
+    "ibge_code": 3135357,
+    "name": "Japonvar",
+    "uf": "MG",
+    "slug": "japonvar"
+  },
+  {
+    "ibge_code": 3135050,
+    "name": "Jaíba",
+    "uf": "MG",
+    "slug": "jaiba"
+  },
+  {
+    "ibge_code": 3135456,
+    "name": "Jenipapo de Minas",
+    "uf": "MG",
+    "slug": "jenipapo-de-minas"
+  },
+  {
+    "ibge_code": 3135506,
+    "name": "Jequeri",
+    "uf": "MG",
+    "slug": "jequeri"
+  },
+  {
+    "ibge_code": 3135605,
+    "name": "Jequitaí",
+    "uf": "MG",
+    "slug": "jequitai"
+  },
+  {
+    "ibge_code": 3135803,
+    "name": "Jequitinhonha",
+    "uf": "MG",
+    "slug": "jequitinhonha"
+  },
+  {
+    "ibge_code": 3135902,
+    "name": "Jesuânia",
+    "uf": "MG",
+    "slug": "jesuania"
+  },
+  {
+    "ibge_code": 3136108,
+    "name": "Joanésia",
+    "uf": "MG",
+    "slug": "joanesia"
+  },
+  {
+    "ibge_code": 3136504,
+    "name": "Jordânia",
+    "uf": "MG",
+    "slug": "jordania"
+  },
+  {
+    "ibge_code": 3136579,
+    "name": "Josenópolis",
+    "uf": "MG",
+    "slug": "josenopolis"
+  },
+  {
+    "ibge_code": 3136520,
+    "name": "José Gonçalves de Minas",
+    "uf": "MG",
+    "slug": "jose-goncalves-de-minas"
+  },
+  {
+    "ibge_code": 3136553,
+    "name": "José Raydan",
+    "uf": "MG",
+    "slug": "jose-raydan"
+  },
+  {
+    "ibge_code": 3136801,
+    "name": "Juramento",
+    "uf": "MG",
+    "slug": "juramento"
+  },
+  {
+    "ibge_code": 3136900,
+    "name": "Juruaia",
+    "uf": "MG",
+    "slug": "juruaia"
+  },
+  {
+    "ibge_code": 3137007,
+    "name": "Ladainha",
+    "uf": "MG",
+    "slug": "ladainha"
+  },
+  {
+    "ibge_code": 3138005,
+    "name": "Laranjal",
+    "uf": "MG",
+    "slug": "laranjal"
+  },
+  {
+    "ibge_code": 3138104,
+    "name": "Lassance",
+    "uf": "MG",
+    "slug": "lassance"
+  },
+  {
+    "ibge_code": 3138302,
+    "name": "Leandro Ferreira",
+    "uf": "MG",
+    "slug": "leandro-ferreira"
+  },
+  {
+    "ibge_code": 3138500,
+    "name": "Liberdade",
+    "uf": "MG",
+    "slug": "liberdade"
+  },
+  {
+    "ibge_code": 3138609,
+    "name": "Lima Duarte",
+    "uf": "MG",
+    "slug": "lima-duarte"
+  },
+  {
+    "ibge_code": 3138625,
+    "name": "Limeira do Oeste",
+    "uf": "MG",
+    "slug": "limeira-do-oeste"
+  },
+  {
+    "ibge_code": 3138658,
+    "name": "Lontra",
+    "uf": "MG",
+    "slug": "lontra"
+  },
+  {
+    "ibge_code": 3138682,
+    "name": "Luislândia",
+    "uf": "MG",
+    "slug": "luislandia"
+  },
+  {
+    "ibge_code": 3138906,
+    "name": "Machacalis",
+    "uf": "MG",
+    "slug": "machacalis"
+  },
+  {
+    "ibge_code": 3139201,
+    "name": "Malacacheta",
+    "uf": "MG",
+    "slug": "malacacheta"
+  },
+  {
+    "ibge_code": 3139706,
+    "name": "Maravilhas",
+    "uf": "MG",
+    "slug": "maravilhas"
+  },
+  {
+    "ibge_code": 3140100,
+    "name": "Marilac",
+    "uf": "MG",
+    "slug": "marilac"
+  },
+  {
+    "ibge_code": 3140209,
+    "name": "Maripá de Minas",
+    "uf": "MG",
+    "slug": "maripa-de-minas"
+  },
+  {
+    "ibge_code": 3140605,
+    "name": "Materlândia",
+    "uf": "MG",
+    "slug": "materlandia"
+  },
+  {
+    "ibge_code": 3171501,
+    "name": "Mathias Lobato",
+    "uf": "MG",
+    "slug": "mathias-lobato"
+  },
+  {
+    "ibge_code": 3140852,
+    "name": "Matias Cardoso",
+    "uf": "MG",
+    "slug": "matias-cardoso"
+  },
+  {
+    "ibge_code": 3140902,
+    "name": "Matipó",
+    "uf": "MG",
+    "slug": "matipo"
+  },
+  {
+    "ibge_code": 3142106,
+    "name": "Miradouro",
+    "uf": "MG",
+    "slug": "miradouro"
+  },
+  {
+    "ibge_code": 3142304,
+    "name": "Moeda",
+    "uf": "MG",
+    "slug": "moeda"
+  },
+  {
+    "ibge_code": 3142403,
+    "name": "Moema",
+    "uf": "MG",
+    "slug": "moema"
+  },
+  {
+    "ibge_code": 3142601,
+    "name": "Monsenhor Paulo",
+    "uf": "MG",
+    "slug": "monsenhor-paulo"
+  },
+  {
+    "ibge_code": 3143450,
+    "name": "Montezuma",
+    "uf": "MG",
+    "slug": "montezuma"
+  },
+  {
+    "ibge_code": 3143609,
+    "name": "Morro da Garça",
+    "uf": "MG",
+    "slug": "morro-da-garca"
+  },
+  {
+    "ibge_code": 3143708,
+    "name": "Morro do Pilar",
+    "uf": "MG",
+    "slug": "morro-do-pilar"
+  },
+  {
+    "ibge_code": 3144201,
+    "name": "Nacip Raydan",
+    "uf": "MG",
+    "slug": "nacip-raydan"
+  },
+  {
+    "ibge_code": 3144375,
+    "name": "Natalândia",
+    "uf": "MG",
+    "slug": "natalandia"
+  },
+  {
+    "ibge_code": 3144409,
+    "name": "Natércia",
+    "uf": "MG",
+    "slug": "natercia"
+  },
+  {
+    "ibge_code": 3144508,
+    "name": "Nazareno",
+    "uf": "MG",
+    "slug": "nazareno"
+  },
+  {
+    "ibge_code": 3144607,
+    "name": "Nepomuceno",
+    "uf": "MG",
+    "slug": "nepomuceno"
+  },
+  {
+    "ibge_code": 3144672,
+    "name": "Nova Belém",
+    "uf": "MG",
+    "slug": "nova-belem"
+  },
+  {
+    "ibge_code": 3145372,
+    "name": "Novorizonte",
+    "uf": "MG",
+    "slug": "novorizonte"
+  },
+  {
+    "ibge_code": 3145406,
+    "name": "Olaria",
+    "uf": "MG",
+    "slug": "olaria"
+  },
+  {
+    "ibge_code": 3145455,
+    "name": "Olhos-d'Água",
+    "uf": "MG",
+    "slug": "olhos-d-agua"
+  },
+  {
+    "ibge_code": 3145877,
+    "name": "Orizânia",
+    "uf": "MG",
+    "slug": "orizania"
+  },
+  {
+    "ibge_code": 3146255,
+    "name": "Padre Carvalho",
+    "uf": "MG",
+    "slug": "padre-carvalho"
+  },
+  {
+    "ibge_code": 3146552,
+    "name": "Pai Pedro",
+    "uf": "MG",
+    "slug": "pai-pedro"
+  },
+  {
+    "ibge_code": 3146404,
+    "name": "Paineiras",
+    "uf": "MG",
+    "slug": "paineiras"
+  },
+  {
+    "ibge_code": 3146602,
+    "name": "Paiva",
+    "uf": "MG",
+    "slug": "paiva"
+  },
+  {
+    "ibge_code": 3146750,
+    "name": "Palmópolis",
+    "uf": "MG",
+    "slug": "palmopolis"
+  },
+  {
+    "ibge_code": 3146909,
+    "name": "Papagaios",
+    "uf": "MG",
+    "slug": "papagaios"
+  },
+  {
+    "ibge_code": 3147501,
+    "name": "Passabém",
+    "uf": "MG",
+    "slug": "passabem"
+  },
+  {
+    "ibge_code": 3147956,
+    "name": "Patis",
+    "uf": "MG",
+    "slug": "patis"
+  },
+  {
+    "ibge_code": 3148301,
+    "name": "Paula Cândido",
+    "uf": "MG",
+    "slug": "paula-candido"
+  },
+  {
+    "ibge_code": 3148400,
+    "name": "Paulistas",
+    "uf": "MG",
+    "slug": "paulistas"
+  },
+  {
+    "ibge_code": 3148756,
+    "name": "Pedra Bonita",
+    "uf": "MG",
+    "slug": "pedra-bonita"
+  },
+  {
+    "ibge_code": 3149002,
+    "name": "Pedra Dourada",
+    "uf": "MG",
+    "slug": "pedra-dourada"
+  },
+  {
+    "ibge_code": 3148806,
+    "name": "Pedra do Anta",
+    "uf": "MG",
+    "slug": "pedra-do-anta"
+  },
+  {
+    "ibge_code": 3149150,
+    "name": "Pedras de Maria da Cruz",
+    "uf": "MG",
+    "slug": "pedras-de-maria-da-cruz"
+  },
+  {
+    "ibge_code": 3149200,
+    "name": "Pedrinópolis",
+    "uf": "MG",
+    "slug": "pedrinopolis"
+  },
+  {
+    "ibge_code": 3149408,
+    "name": "Pedro Teixeira",
+    "uf": "MG",
+    "slug": "pedro-teixeira"
+  },
+  {
+    "ibge_code": 3149606,
+    "name": "Pequi",
+    "uf": "MG",
+    "slug": "pequi"
+  },
+  {
+    "ibge_code": 3149705,
+    "name": "Perdigão",
+    "uf": "MG",
+    "slug": "perdigao"
+  },
+  {
+    "ibge_code": 3149804,
+    "name": "Perdizes",
+    "uf": "MG",
+    "slug": "perdizes"
+  },
+  {
+    "ibge_code": 3149903,
+    "name": "Perdões",
+    "uf": "MG",
+    "slug": "perdoes"
+  },
+  {
+    "ibge_code": 3150000,
+    "name": "Pescador",
+    "uf": "MG",
+    "slug": "pescador"
+  },
+  {
+    "ibge_code": 3148608,
+    "name": "Peçanha",
+    "uf": "MG",
+    "slug": "pecanha"
+  },
+  {
+    "ibge_code": 3150208,
+    "name": "Piedade de Ponte Nova",
+    "uf": "MG",
+    "slug": "piedade-de-ponte-nova"
+  },
+  {
+    "ibge_code": 3150406,
+    "name": "Piedade dos Gerais",
+    "uf": "MG",
+    "slug": "piedade-dos-gerais"
+  },
+  {
+    "ibge_code": 3150505,
+    "name": "Pimenta",
+    "uf": "MG",
+    "slug": "pimenta"
+  },
+  {
+    "ibge_code": 3150539,
+    "name": "Pingo-d'Água",
+    "uf": "MG",
+    "slug": "pingo-d-agua"
+  },
+  {
+    "ibge_code": 3150570,
+    "name": "Pintópolis",
+    "uf": "MG",
+    "slug": "pintopolis"
+  },
+  {
+    "ibge_code": 3150802,
+    "name": "Piranga",
+    "uf": "MG",
+    "slug": "piranga"
+  },
+  {
+    "ibge_code": 3150901,
+    "name": "Piranguçu",
+    "uf": "MG",
+    "slug": "pirangucu"
+  },
+  {
+    "ibge_code": 3151305,
+    "name": "Piraúba",
+    "uf": "MG",
+    "slug": "pirauba"
+  },
+  {
+    "ibge_code": 3151503,
+    "name": "Piumhi",
+    "uf": "MG",
+    "slug": "piumhi"
+  },
+  {
+    "ibge_code": 3151602,
+    "name": "Planura",
+    "uf": "MG",
+    "slug": "planura"
+  },
+  {
+    "ibge_code": 3151909,
+    "name": "Pocrane",
+    "uf": "MG",
+    "slug": "pocrane"
+  },
+  {
+    "ibge_code": 3152006,
+    "name": "Pompéu",
+    "uf": "MG",
+    "slug": "pompeu"
+  },
+  {
+    "ibge_code": 3152131,
+    "name": "Ponto Chique",
+    "uf": "MG",
+    "slug": "ponto-chique"
+  },
+  {
+    "ibge_code": 3152204,
+    "name": "Porteirinha",
+    "uf": "MG",
+    "slug": "porteirinha"
+  },
+  {
+    "ibge_code": 3153004,
+    "name": "Pratinha",
+    "uf": "MG",
+    "slug": "pratinha"
+  },
+  {
+    "ibge_code": 3153202,
+    "name": "Presidente Juscelino",
+    "uf": "MG",
+    "slug": "presidente-juscelino"
+  },
+  {
+    "ibge_code": 3153608,
+    "name": "Prudente de Morais",
+    "uf": "MG",
+    "slug": "prudente-de-morais"
+  },
+  {
+    "ibge_code": 3153806,
+    "name": "Queluzito",
+    "uf": "MG",
+    "slug": "queluzito"
+  },
+  {
+    "ibge_code": 3154150,
+    "name": "Reduto",
+    "uf": "MG",
+    "slug": "reduto"
+  },
+  {
+    "ibge_code": 3154457,
+    "name": "Riachinho",
+    "uf": "MG",
+    "slug": "riachinho"
+  },
+  {
+    "ibge_code": 3154507,
+    "name": "Riacho dos Machados",
+    "uf": "MG",
+    "slug": "riacho-dos-machados"
+  },
+  {
+    "ibge_code": 3154804,
+    "name": "Rio Acima",
+    "uf": "MG",
+    "slug": "rio-acima"
+  },
+  {
+    "ibge_code": 3155009,
+    "name": "Rio Doce",
+    "uf": "MG",
+    "slug": "rio-doce"
+  },
+  {
+    "ibge_code": 3155306,
+    "name": "Rio Manso",
+    "uf": "MG",
+    "slug": "rio-manso"
+  },
+  {
+    "ibge_code": 3156106,
+    "name": "Ritápolis",
+    "uf": "MG",
+    "slug": "ritapolis"
+  },
+  {
+    "ibge_code": 3156304,
+    "name": "Rodeiro",
+    "uf": "MG",
+    "slug": "rodeiro"
+  },
+  {
+    "ibge_code": 3156452,
+    "name": "Rosário da Limeira",
+    "uf": "MG",
+    "slug": "rosario-da-limeira"
+  },
+  {
+    "ibge_code": 3156809,
+    "name": "Sabinópolis",
+    "uf": "MG",
+    "slug": "sabinopolis"
+  },
+  {
+    "ibge_code": 3157302,
+    "name": "Santa Bárbara do Tugúrio",
+    "uf": "MG",
+    "slug": "santa-barbara-do-tugurio"
+  },
+  {
+    "ibge_code": 3157401,
+    "name": "Santa Cruz do Escalvado",
+    "uf": "MG",
+    "slug": "santa-cruz-do-escalvado"
+  },
+  {
+    "ibge_code": 3157500,
+    "name": "Santa Efigênia de Minas",
+    "uf": "MG",
+    "slug": "santa-efigenia-de-minas"
+  },
+  {
+    "ibge_code": 3157658,
+    "name": "Santa Helena de Minas",
+    "uf": "MG",
+    "slug": "santa-helena-de-minas"
+  },
+  {
+    "ibge_code": 3157708,
+    "name": "Santa Juliana",
+    "uf": "MG",
+    "slug": "santa-juliana"
+  },
+  {
+    "ibge_code": 3157906,
+    "name": "Santa Margarida",
+    "uf": "MG",
+    "slug": "santa-margarida"
+  },
+  {
+    "ibge_code": 3159407,
+    "name": "Santa Rita de Ibitipoca",
+    "uf": "MG",
+    "slug": "santa-rita-de-ibitipoca"
+  },
+  {
+    "ibge_code": 3159357,
+    "name": "Santa Rita de Minas",
+    "uf": "MG",
+    "slug": "santa-rita-de-minas"
+  },
+  {
+    "ibge_code": 3159506,
+    "name": "Santa Rita do Itueto",
+    "uf": "MG",
+    "slug": "santa-rita-do-itueto"
+  },
+  {
+    "ibge_code": 3158300,
+    "name": "Santana da Vargem",
+    "uf": "MG",
+    "slug": "santana-da-vargem"
+  },
+  {
+    "ibge_code": 3158409,
+    "name": "Santana de Cataguases",
+    "uf": "MG",
+    "slug": "santana-de-cataguases"
+  },
+  {
+    "ibge_code": 3158508,
+    "name": "Santana de Pirapama",
+    "uf": "MG",
+    "slug": "santana-de-pirapama"
+  },
+  {
+    "ibge_code": 3158706,
+    "name": "Santana do Garambéu",
+    "uf": "MG",
+    "slug": "santana-do-garambeu"
+  },
+  {
+    "ibge_code": 3158953,
+    "name": "Santana do Paraíso",
+    "uf": "MG",
+    "slug": "santana-do-paraiso"
+  },
+  {
+    "ibge_code": 3159001,
+    "name": "Santana do Riacho",
+    "uf": "MG",
+    "slug": "santana-do-riacho"
+  },
+  {
+    "ibge_code": 3160207,
+    "name": "Santo Antônio do Itambé",
+    "uf": "MG",
+    "slug": "santo-antonio-do-itambe"
+  },
+  {
+    "ibge_code": 3160454,
+    "name": "Santo Antônio do Retiro",
+    "uf": "MG",
+    "slug": "santo-antonio-do-retiro"
+  },
+  {
+    "ibge_code": 3160603,
+    "name": "Santo Hipólito",
+    "uf": "MG",
+    "slug": "santo-hipolito"
+  },
+  {
+    "ibge_code": 3165503,
+    "name": "Sardoá",
+    "uf": "MG",
+    "slug": "sardoa"
+  },
+  {
+    "ibge_code": 3165537,
+    "name": "Sarzedo",
+    "uf": "MG",
+    "slug": "sarzedo"
+  },
+  {
+    "ibge_code": 3165560,
+    "name": "Sem-Peixe",
+    "uf": "MG",
+    "slug": "sem-peixe"
+  },
+  {
+    "ibge_code": 3165909,
+    "name": "Senador Modestino Gonçalves",
+    "uf": "MG",
+    "slug": "senador-modestino-goncalves"
+  },
+  {
+    "ibge_code": 3166402,
+    "name": "Seritinga",
+    "uf": "MG",
+    "slug": "seritinga"
+  },
+  {
+    "ibge_code": 3166501,
+    "name": "Serra Azul de Minas",
+    "uf": "MG",
+    "slug": "serra-azul-de-minas"
+  },
+  {
+    "ibge_code": 3166808,
+    "name": "Serra do Salitre",
+    "uf": "MG",
+    "slug": "serra-do-salitre"
+  },
+  {
+    "ibge_code": 3167004,
+    "name": "Serranos",
+    "uf": "MG",
+    "slug": "serranos"
+  },
+  {
+    "ibge_code": 3166956,
+    "name": "Serranópolis de Minas",
+    "uf": "MG",
+    "slug": "serranopolis-de-minas"
+  },
+  {
+    "ibge_code": 3167301,
+    "name": "Silveirânia",
+    "uf": "MG",
+    "slug": "silveirania"
+  },
+  {
+    "ibge_code": 3167400,
+    "name": "Silvianópolis",
+    "uf": "MG",
+    "slug": "silvianopolis"
+  },
+  {
+    "ibge_code": 3167509,
+    "name": "Simão Pereira",
+    "uf": "MG",
+    "slug": "simao-pereira"
+  },
+  {
+    "ibge_code": 3167707,
+    "name": "Sobrália",
+    "uf": "MG",
+    "slug": "sobralia"
+  },
+  {
+    "ibge_code": 3161403,
+    "name": "São Francisco do Glória",
+    "uf": "MG",
+    "slug": "sao-francisco-do-gloria"
+  },
+  {
+    "ibge_code": 3162955,
+    "name": "São José da Lapa",
+    "uf": "MG",
+    "slug": "sao-jose-da-lapa"
+  },
+  {
+    "ibge_code": 3163003,
+    "name": "São José da Safira",
+    "uf": "MG",
+    "slug": "sao-jose-da-safira"
+  },
+  {
+    "ibge_code": 3163201,
+    "name": "São José do Alegre",
+    "uf": "MG",
+    "slug": "sao-jose-do-alegre"
+  },
+  {
+    "ibge_code": 3163409,
+    "name": "São José do Goiabal",
+    "uf": "MG",
+    "slug": "sao-jose-do-goiabal"
+  },
+  {
+    "ibge_code": 3163607,
+    "name": "São José do Mantimento",
+    "uf": "MG",
+    "slug": "sao-jose-do-mantimento"
+  },
+  {
+    "ibge_code": 3162450,
+    "name": "São João das Missões",
+    "uf": "MG",
+    "slug": "sao-joao-das-missoes"
+  },
+  {
+    "ibge_code": 3162559,
+    "name": "São João do Manhuaçu",
+    "uf": "MG",
+    "slug": "sao-joao-do-manhuacu"
+  },
+  {
+    "ibge_code": 3162575,
+    "name": "São João do Manteninha",
+    "uf": "MG",
+    "slug": "sao-joao-do-manteninha"
+  },
+  {
+    "ibge_code": 3162658,
+    "name": "São João do Pacuí",
+    "uf": "MG",
+    "slug": "sao-joao-do-pacui"
+  },
+  {
+    "ibge_code": 3163805,
+    "name": "São Miguel do Anta",
+    "uf": "MG",
+    "slug": "sao-miguel-do-anta"
+  },
+  {
+    "ibge_code": 3164100,
+    "name": "São Pedro do Suaçuí",
+    "uf": "MG",
+    "slug": "sao-pedro-do-suacui"
+  },
+  {
+    "ibge_code": 3164209,
+    "name": "São Romão",
+    "uf": "MG",
+    "slug": "sao-romao"
+  },
+  {
+    "ibge_code": 3164506,
+    "name": "São Sebastião do Maranhão",
+    "uf": "MG",
+    "slug": "sao-sebastiao-do-maranhao"
+  },
+  {
+    "ibge_code": 3164605,
+    "name": "São Sebastião do Oeste",
+    "uf": "MG",
+    "slug": "sao-sebastiao-do-oeste"
+  },
+  {
+    "ibge_code": 3164803,
+    "name": "São Sebastião do Rio Preto",
+    "uf": "MG",
+    "slug": "sao-sebastiao-do-rio-preto"
+  },
+  {
+    "ibge_code": 3165107,
+    "name": "São Tomás de Aquino",
+    "uf": "MG",
+    "slug": "sao-tomas-de-aquino"
+  },
+  {
+    "ibge_code": 3165305,
+    "name": "São Vicente de Minas",
+    "uf": "MG",
+    "slug": "sao-vicente-de-minas"
+  },
+  {
+    "ibge_code": 3167905,
+    "name": "Tabuleiro",
+    "uf": "MG",
+    "slug": "tabuleiro"
+  },
+  {
+    "ibge_code": 3168051,
+    "name": "Taparuba",
+    "uf": "MG",
+    "slug": "taparuba"
+  },
+  {
+    "ibge_code": 3168200,
+    "name": "Tapiraí",
+    "uf": "MG",
+    "slug": "tapirai"
+  },
+  {
+    "ibge_code": 3168309,
+    "name": "Taquaraçu de Minas",
+    "uf": "MG",
+    "slug": "taquaracu-de-minas"
+  },
+  {
+    "ibge_code": 3168507,
+    "name": "Teixeiras",
+    "uf": "MG",
+    "slug": "teixeiras"
+  },
+  {
+    "ibge_code": 3168804,
+    "name": "Tiradentes",
+    "uf": "MG",
+    "slug": "tiradentes"
+  },
+  {
+    "ibge_code": 3169000,
+    "name": "Tocantins",
+    "uf": "MG",
+    "slug": "tocantins"
+  },
+  {
+    "ibge_code": 3169059,
+    "name": "Tocos do Moji",
+    "uf": "MG",
+    "slug": "tocos-do-moji"
+  },
+  {
+    "ibge_code": 3169802,
+    "name": "Turvolândia",
+    "uf": "MG",
+    "slug": "turvolandia"
+  },
+  {
+    "ibge_code": 3170305,
+    "name": "Umburatiba",
+    "uf": "MG",
+    "slug": "umburatiba"
+  },
+  {
+    "ibge_code": 3170479,
+    "name": "Uruana de Minas",
+    "uf": "MG",
+    "slug": "uruana-de-minas"
+  },
+  {
+    "ibge_code": 3170503,
+    "name": "Urucânia",
+    "uf": "MG",
+    "slug": "urucania"
+  },
+  {
+    "ibge_code": 3170578,
+    "name": "Vargem Alegre",
+    "uf": "MG",
+    "slug": "vargem-alegre"
+  },
+  {
+    "ibge_code": 3170602,
+    "name": "Vargem Bonita",
+    "uf": "MG",
+    "slug": "vargem-bonita"
+  },
+  {
+    "ibge_code": 3170651,
+    "name": "Vargem Grande do Rio Pardo",
+    "uf": "MG",
+    "slug": "vargem-grande-do-rio-pardo"
+  },
+  {
+    "ibge_code": 3170750,
+    "name": "Varjão de Minas",
+    "uf": "MG",
+    "slug": "varjao-de-minas"
+  },
+  {
+    "ibge_code": 3171006,
+    "name": "Vazante",
+    "uf": "MG",
+    "slug": "vazante"
+  },
+  {
+    "ibge_code": 3171030,
+    "name": "Verdelândia",
+    "uf": "MG",
+    "slug": "verdelandia"
+  },
+  {
+    "ibge_code": 3171071,
+    "name": "Veredinha",
+    "uf": "MG",
+    "slug": "veredinha"
+  },
+  {
+    "ibge_code": 3171105,
+    "name": "Veríssimo",
+    "uf": "MG",
+    "slug": "verissimo"
+  },
+  {
+    "ibge_code": 3171402,
+    "name": "Vieiras",
+    "uf": "MG",
+    "slug": "vieiras"
+  },
+  {
+    "ibge_code": 3171808,
+    "name": "Virginópolis",
+    "uf": "MG",
+    "slug": "virginopolis"
+  },
+  {
+    "ibge_code": 3171907,
+    "name": "Virgolândia",
+    "uf": "MG",
+    "slug": "virgolandia"
+  },
+  {
+    "ibge_code": 3171709,
+    "name": "Virgínia",
+    "uf": "MG",
+    "slug": "virginia"
+  },
+  {
+    "ibge_code": 3172103,
+    "name": "Volta Grande",
+    "uf": "MG",
+    "slug": "volta-grande"
+  },
+  {
+    "ibge_code": 3172202,
+    "name": "Wenceslau Braz",
+    "uf": "MG",
+    "slug": "wenceslau-braz"
+  },
+  {
+    "ibge_code": 5002100,
+    "name": "Bela Vista",
+    "uf": "MS",
+    "slug": "bela-vista"
+  },
+  {
+    "ibge_code": 5002209,
+    "name": "Bonito",
+    "uf": "MS",
+    "slug": "bonito"
+  },
+  {
+    "ibge_code": 5003454,
+    "name": "Deodápolis",
+    "uf": "MS",
+    "slug": "deodapolis"
+  },
+  {
+    "ibge_code": 5007307,
+    "name": "Rio Negro",
+    "uf": "MS",
+    "slug": "rio-negro"
+  },
+  {
+    "ibge_code": 5100102,
+    "name": "Acorizal",
+    "uf": "MT",
+    "slug": "acorizal"
+  },
+  {
+    "ibge_code": 5100607,
+    "name": "Alto Taquari",
+    "uf": "MT",
+    "slug": "alto-taquari"
+  },
+  {
+    "ibge_code": 5100805,
+    "name": "Apiacás",
+    "uf": "MT",
+    "slug": "apiacas"
+  },
+  {
+    "ibge_code": 5101001,
+    "name": "Araguaiana",
+    "uf": "MT",
+    "slug": "araguaiana"
+  },
+  {
+    "ibge_code": 5101258,
+    "name": "Araputanga",
+    "uf": "MT",
+    "slug": "araputanga"
+  },
+  {
+    "ibge_code": 5101308,
+    "name": "Arenápolis",
+    "uf": "MT",
+    "slug": "arenapolis"
+  },
+  {
+    "ibge_code": 5101605,
+    "name": "Barão de Melgaço",
+    "uf": "MT",
+    "slug": "barao-de-melgaco"
+  },
+  {
+    "ibge_code": 5101852,
+    "name": "Bom Jesus do Araguaia",
+    "uf": "MT",
+    "slug": "bom-jesus-do-araguaia"
+  },
+  {
+    "ibge_code": 5102603,
+    "name": "Campinápolis",
+    "uf": "MT",
+    "slug": "campinapolis"
+  },
+  {
+    "ibge_code": 5103056,
+    "name": "Cláudia",
+    "uf": "MT",
+    "slug": "claudia"
+  },
+  {
+    "ibge_code": 5103106,
+    "name": "Cocalinho",
+    "uf": "MT",
+    "slug": "cocalinho"
+  },
+  {
+    "ibge_code": 5103254,
+    "name": "Colniza",
+    "uf": "MT",
+    "slug": "colniza"
+  },
+  {
+    "ibge_code": 5103437,
+    "name": "Curvelândia",
+    "uf": "MT",
+    "slug": "curvelandia"
+  },
+  {
+    "ibge_code": 5103858,
+    "name": "Gaúcha do Norte",
+    "uf": "MT",
+    "slug": "gaucha-do-norte"
+  },
+  {
+    "ibge_code": 5103908,
+    "name": "General Carneiro",
+    "uf": "MT",
+    "slug": "general-carneiro"
+  },
+  {
+    "ibge_code": 5104500,
+    "name": "Indiavaí",
+    "uf": "MT",
+    "slug": "indiavai"
+  },
+  {
+    "ibge_code": 5104526,
+    "name": "Ipiranga do Norte",
+    "uf": "MT",
+    "slug": "ipiranga-do-norte"
+  },
+  {
+    "ibge_code": 5104542,
+    "name": "Itanhangá",
+    "uf": "MT",
+    "slug": "itanhanga"
+  },
+  {
+    "ibge_code": 5104559,
+    "name": "Itaúba",
+    "uf": "MT",
+    "slug": "itauba"
+  },
+  {
+    "ibge_code": 5104906,
+    "name": "Jangada",
+    "uf": "MT",
+    "slug": "jangada"
+  },
+  {
+    "ibge_code": 5105176,
+    "name": "Juruena",
+    "uf": "MT",
+    "slug": "juruena"
+  },
+  {
+    "ibge_code": 5105200,
+    "name": "Juscimeira",
+    "uf": "MT",
+    "slug": "juscimeira"
+  },
+  {
+    "ibge_code": 5105234,
+    "name": "Lambari D'Oeste",
+    "uf": "MT",
+    "slug": "lambari-d-oeste"
+  },
+  {
+    "ibge_code": 5105309,
+    "name": "Luciara",
+    "uf": "MT",
+    "slug": "luciara"
+  },
+  {
+    "ibge_code": 5105606,
+    "name": "Matupá",
+    "uf": "MT",
+    "slug": "matupa"
+  },
+  {
+    "ibge_code": 5106216,
+    "name": "Nova Canaã do Norte",
+    "uf": "MT",
+    "slug": "nova-canaa-do-norte"
+  },
+  {
+    "ibge_code": 5108808,
+    "name": "Nova Guarita",
+    "uf": "MT",
+    "slug": "nova-guarita"
+  },
+  {
+    "ibge_code": 5108857,
+    "name": "Nova Marilândia",
+    "uf": "MT",
+    "slug": "nova-marilandia"
+  },
+  {
+    "ibge_code": 5108907,
+    "name": "Nova Maringá",
+    "uf": "MT",
+    "slug": "nova-maringa"
+  },
+  {
+    "ibge_code": 5106174,
+    "name": "Nova Nazaré",
+    "uf": "MT",
+    "slug": "nova-nazare"
+  },
+  {
+    "ibge_code": 5106307,
+    "name": "Paranatinga",
+    "uf": "MT",
+    "slug": "paranatinga"
+  },
+  {
+    "ibge_code": 5106828,
+    "name": "Porto Esperidião",
+    "uf": "MT",
+    "slug": "porto-esperidiao"
+  },
+  {
+    "ibge_code": 5106802,
+    "name": "Porto dos Gaúchos",
+    "uf": "MT",
+    "slug": "porto-dos-gauchos"
+  },
+  {
+    "ibge_code": 5107065,
+    "name": "Querência",
+    "uf": "MT",
+    "slug": "querencia"
+  },
+  {
+    "ibge_code": 5107206,
+    "name": "Rio Branco",
+    "uf": "MT",
+    "slug": "rio-branco"
+  },
+  {
+    "ibge_code": 5107578,
+    "name": "Rondolândia",
+    "uf": "MT",
+    "slug": "rondolandia"
+  },
+  {
+    "ibge_code": 5107701,
+    "name": "Rosário Oeste",
+    "uf": "MT",
+    "slug": "rosario-oeste"
+  },
+  {
+    "ibge_code": 5107750,
+    "name": "Salto do Céu",
+    "uf": "MT",
+    "slug": "salto-do-ceu"
+  },
+  {
+    "ibge_code": 5107263,
+    "name": "Santo Afonso",
+    "uf": "MT",
+    "slug": "santo-afonso"
+  },
+  {
+    "ibge_code": 5107883,
+    "name": "Serra Nova Dourada",
+    "uf": "MT",
+    "slug": "serra-nova-dourada"
+  },
+  {
+    "ibge_code": 5107354,
+    "name": "São José do Xingu",
+    "uf": "MT",
+    "slug": "sao-jose-do-xingu"
+  },
+  {
+    "ibge_code": 5107941,
+    "name": "Tabaporã",
+    "uf": "MT",
+    "slug": "tabapora"
+  },
+  {
+    "ibge_code": 5108055,
+    "name": "Terra Nova do Norte",
+    "uf": "MT",
+    "slug": "terra-nova-do-norte"
+  },
+  {
+    "ibge_code": 5108105,
+    "name": "Tesouro",
+    "uf": "MT",
+    "slug": "tesouro"
+  },
+  {
+    "ibge_code": 5108204,
+    "name": "Torixoréu",
+    "uf": "MT",
+    "slug": "torixoreu"
+  },
+  {
+    "ibge_code": 5108303,
+    "name": "União do Sul",
+    "uf": "MT",
+    "slug": "uniao-do-sul"
+  },
+  {
+    "ibge_code": 5108501,
+    "name": "Vera",
+    "uf": "MT",
+    "slug": "vera"
+  },
+  {
+    "ibge_code": 5108600,
+    "name": "Vila Rica",
+    "uf": "MT",
+    "slug": "vila-rica"
+  },
+  {
+    "ibge_code": 1501253,
+    "name": "Bannach",
+    "uf": "PA",
+    "slug": "bannach"
+  },
+  {
+    "ibge_code": 1501907,
+    "name": "Bujaru",
+    "uf": "PA",
+    "slug": "bujaru"
+  },
+  {
+    "ibge_code": 1502608,
+    "name": "Colares",
+    "uf": "PA",
+    "slug": "colares"
+  },
+  {
+    "ibge_code": 1502855,
+    "name": "Curuá",
+    "uf": "PA",
+    "slug": "curua"
+  },
+  {
+    "ibge_code": 1503200,
+    "name": "Igarapé-Açu",
+    "uf": "PA",
+    "slug": "igarape-acu"
+  },
+  {
+    "ibge_code": 1503507,
+    "name": "Irituia",
+    "uf": "PA",
+    "slug": "irituia"
+  },
+  {
+    "ibge_code": 1504000,
+    "name": "Limoeiro do Ajuru",
+    "uf": "PA",
+    "slug": "limoeiro-do-ajuru"
+  },
+  {
+    "ibge_code": 1504109,
+    "name": "Magalhães Barata",
+    "uf": "PA",
+    "slug": "magalhaes-barata"
+  },
+  {
+    "ibge_code": 1504406,
+    "name": "Marapanim",
+    "uf": "PA",
+    "slug": "marapanim"
+  },
+  {
+    "ibge_code": 1504455,
+    "name": "Medicilândia",
+    "uf": "PA",
+    "slug": "medicilandia"
+  },
+  {
+    "ibge_code": 1504802,
+    "name": "Monte Alegre",
+    "uf": "PA",
+    "slug": "monte-alegre"
+  },
+  {
+    "ibge_code": 1505205,
+    "name": "Oeiras do Pará",
+    "uf": "PA",
+    "slug": "oeiras-do-para"
+  },
+  {
+    "ibge_code": 1505494,
+    "name": "Palestina do Pará",
+    "uf": "PA",
+    "slug": "palestina-do-para"
+  },
+  {
+    "ibge_code": 1505551,
+    "name": "Pau D'Arco",
+    "uf": "PA",
+    "slug": "pau-d-arco"
+  },
+  {
+    "ibge_code": 1505601,
+    "name": "Peixe-Boi",
+    "uf": "PA",
+    "slug": "peixe-boi"
+  },
+  {
+    "ibge_code": 1505635,
+    "name": "Piçarra",
+    "uf": "PA",
+    "slug": "picarra"
+  },
+  {
+    "ibge_code": 1505650,
+    "name": "Placas",
+    "uf": "PA",
+    "slug": "placas"
+  },
+  {
+    "ibge_code": 1505908,
+    "name": "Porto de Moz",
+    "uf": "PA",
+    "slug": "porto-de-moz"
+  },
+  {
+    "ibge_code": 1506104,
+    "name": "Primavera",
+    "uf": "PA",
+    "slug": "primavera"
+  },
+  {
+    "ibge_code": 1506161,
+    "name": "Rio Maria",
+    "uf": "PA",
+    "slug": "rio-maria"
+  },
+  {
+    "ibge_code": 1506583,
+    "name": "Santa Maria das Barreiras",
+    "uf": "PA",
+    "slug": "santa-maria-das-barreiras"
+  },
+  {
+    "ibge_code": 1506609,
+    "name": "Santa Maria do Pará",
+    "uf": "PA",
+    "slug": "santa-maria-do-para"
+  },
+  {
+    "ibge_code": 1507755,
+    "name": "Sapucaia",
+    "uf": "PA",
+    "slug": "sapucaia"
+  },
+  {
+    "ibge_code": 1507102,
+    "name": "São Caetano de Odivelas",
+    "uf": "PA",
+    "slug": "sao-caetano-de-odivelas"
+  },
+  {
+    "ibge_code": 1507201,
+    "name": "São Domingos do Capim",
+    "uf": "PA",
+    "slug": "sao-domingos-do-capim"
+  },
+  {
+    "ibge_code": 1507409,
+    "name": "São Francisco do Pará",
+    "uf": "PA",
+    "slug": "sao-francisco-do-para"
+  },
+  {
+    "ibge_code": 1507474,
+    "name": "São João de Pirabas",
+    "uf": "PA",
+    "slug": "sao-joao-de-pirabas"
+  },
+  {
+    "ibge_code": 1508035,
+    "name": "Tracuateua",
+    "uf": "PA",
+    "slug": "tracuateua"
+  },
+  {
+    "ibge_code": 1508050,
+    "name": "Trairão",
+    "uf": "PA",
+    "slug": "trairao"
+  },
+  {
+    "ibge_code": 1508209,
+    "name": "Vigia",
+    "uf": "PA",
+    "slug": "vigia"
+  },
+  {
+    "ibge_code": 1508357,
+    "name": "Vitória do Xingu",
+    "uf": "PA",
+    "slug": "vitoria-do-xingu"
+  },
+  {
+    "ibge_code": 2502706,
+    "name": "Borborema",
+    "uf": "PB",
+    "slug": "borborema"
+  },
+  {
+    "ibge_code": 2504850,
+    "name": "Coxixola",
+    "uf": "PB",
+    "slug": "coxixola"
+  },
+  {
+    "ibge_code": 2505303,
+    "name": "Curral Velho",
+    "uf": "PB",
+    "slug": "curral-velho"
+  },
+  {
+    "ibge_code": 2506509,
+    "name": "Gurjão",
+    "uf": "PB",
+    "slug": "gurjao"
+  },
+  {
+    "ibge_code": 2507200,
+    "name": "Itatuba",
+    "uf": "PB",
+    "slug": "itatuba"
+  },
+  {
+    "ibge_code": 2509602,
+    "name": "Monte Horebe",
+    "uf": "PB",
+    "slug": "monte-horebe"
+  },
+  {
+    "ibge_code": 2510006,
+    "name": "Nazarezinho",
+    "uf": "PB",
+    "slug": "nazarezinho"
+  },
+  {
+    "ibge_code": 2510600,
+    "name": "Ouro Velho",
+    "uf": "PB",
+    "slug": "ouro-velho"
+  },
+  {
+    "ibge_code": 2513000,
+    "name": "Salgadinho",
+    "uf": "PB",
+    "slug": "salgadinho"
+  },
+  {
+    "ibge_code": 2513505,
+    "name": "Santana de Mangueira",
+    "uf": "PB",
+    "slug": "santana-de-mangueira"
+  },
+  {
+    "ibge_code": 2515971,
+    "name": "Sobrado",
+    "uf": "PB",
+    "slug": "sobrado"
+  },
+  {
+    "ibge_code": 2514503,
+    "name": "São José de Piranhas",
+    "uf": "PB",
+    "slug": "sao-jose-de-piranhas"
+  },
+  {
+    "ibge_code": 2517209,
+    "name": "Vieirópolis",
+    "uf": "PB",
+    "slug": "vieiropolis"
+  },
+  {
+    "ibge_code": 2602100,
+    "name": "Bom Conselho",
+    "uf": "PE",
+    "slug": "bom-conselho"
+  },
+  {
+    "ibge_code": 2603108,
+    "name": "Cachoeirinha",
+    "uf": "PE",
+    "slug": "cachoeirinha"
+  },
+  {
+    "ibge_code": 2603603,
+    "name": "Camutanga",
+    "uf": "PE",
+    "slug": "camutanga"
+  },
+  {
+    "ibge_code": 2603801,
+    "name": "Capoeiras",
+    "uf": "PE",
+    "slug": "capoeiras"
+  },
+  {
+    "ibge_code": 2603926,
+    "name": "Carnaubeira da Penha",
+    "uf": "PE",
+    "slug": "carnaubeira-da-penha"
+  },
+  {
+    "ibge_code": 2604155,
+    "name": "Casinhas",
+    "uf": "PE",
+    "slug": "casinhas"
+  },
+  {
+    "ibge_code": 2604205,
+    "name": "Catende",
+    "uf": "PE",
+    "slug": "catende"
+  },
+  {
+    "ibge_code": 2604403,
+    "name": "Chã de Alegria",
+    "uf": "PE",
+    "slug": "cha-de-alegria"
+  },
+  {
+    "ibge_code": 2604601,
+    "name": "Condado",
+    "uf": "PE",
+    "slug": "condado"
+  },
+  {
+    "ibge_code": 2604809,
+    "name": "Cortês",
+    "uf": "PE",
+    "slug": "cortes"
+  },
+  {
+    "ibge_code": 2604908,
+    "name": "Cumaru",
+    "uf": "PE",
+    "slug": "cumaru"
+  },
+  {
+    "ibge_code": 2605152,
+    "name": "Dormentes",
+    "uf": "PE",
+    "slug": "dormentes"
+  },
+  {
+    "ibge_code": 2605400,
+    "name": "Feira Nova",
+    "uf": "PE",
+    "slug": "feira-nova"
+  },
+  {
+    "ibge_code": 2605806,
+    "name": "Frei Miguelinho",
+    "uf": "PE",
+    "slug": "frei-miguelinho"
+  },
+  {
+    "ibge_code": 2606101,
+    "name": "Glória do Goitá",
+    "uf": "PE",
+    "slug": "gloria-do-goita"
+  },
+  {
+    "ibge_code": 2606705,
+    "name": "Ibirajuba",
+    "uf": "PE",
+    "slug": "ibirajuba"
+  },
+  {
+    "ibge_code": 2607703,
+    "name": "Itapetim",
+    "uf": "PE",
+    "slug": "itapetim"
+  },
+  {
+    "ibge_code": 2607505,
+    "name": "Itaíba",
+    "uf": "PE",
+    "slug": "itaiba"
+  },
+  {
+    "ibge_code": 2608008,
+    "name": "Jataúba",
+    "uf": "PE",
+    "slug": "jatauba"
+  },
+  {
+    "ibge_code": 2608057,
+    "name": "Jatobá",
+    "uf": "PE",
+    "slug": "jatoba"
+  },
+  {
+    "ibge_code": 2608255,
+    "name": "Jucati",
+    "uf": "PE",
+    "slug": "jucati"
+  },
+  {
+    "ibge_code": 2608453,
+    "name": "Lagoa do Carro",
+    "uf": "PE",
+    "slug": "lagoa-do-carro"
+  },
+  {
+    "ibge_code": 2608602,
+    "name": "Lagoa do Ouro",
+    "uf": "PE",
+    "slug": "lagoa-do-ouro"
+  },
+  {
+    "ibge_code": 2608701,
+    "name": "Lagoa dos Gatos",
+    "uf": "PE",
+    "slug": "lagoa-dos-gatos"
+  },
+  {
+    "ibge_code": 2609006,
+    "name": "Macaparana",
+    "uf": "PE",
+    "slug": "macaparana"
+  },
+  {
+    "ibge_code": 2609105,
+    "name": "Machados",
+    "uf": "PE",
+    "slug": "machados"
+  },
+  {
+    "ibge_code": 2610202,
+    "name": "Panelas",
+    "uf": "PE",
+    "slug": "panelas"
+  },
+  {
+    "ibge_code": 2610806,
+    "name": "Pedra",
+    "uf": "PE",
+    "slug": "pedra"
+  },
+  {
+    "ibge_code": 2611408,
+    "name": "Primavera",
+    "uf": "PE",
+    "slug": "primavera"
+  },
+  {
+    "ibge_code": 2612307,
+    "name": "Saloá",
+    "uf": "PE",
+    "slug": "saloa"
+  },
+  {
+    "ibge_code": 2613107,
+    "name": "São Caitano",
+    "uf": "PE",
+    "slug": "sao-caitano"
+  },
+  {
+    "ibge_code": 2613305,
+    "name": "São Joaquim do Monte",
+    "uf": "PE",
+    "slug": "sao-joaquim-do-monte"
+  },
+  {
+    "ibge_code": 2613404,
+    "name": "São José da Coroa Grande",
+    "uf": "PE",
+    "slug": "sao-jose-da-coroa-grande"
+  },
+  {
+    "ibge_code": 2614709,
+    "name": "Tacaimbó",
+    "uf": "PE",
+    "slug": "tacaimbo"
+  },
+  {
+    "ibge_code": 2614808,
+    "name": "Tacaratu",
+    "uf": "PE",
+    "slug": "tacaratu"
+  },
+  {
+    "ibge_code": 2614857,
+    "name": "Tamandaré",
+    "uf": "PE",
+    "slug": "tamandare"
+  },
+  {
+    "ibge_code": 2615003,
+    "name": "Taquaritinga do Norte",
+    "uf": "PE",
+    "slug": "taquaritinga-do-norte"
+  },
+  {
+    "ibge_code": 2615409,
+    "name": "Toritama",
+    "uf": "PE",
+    "slug": "toritama"
+  },
+  {
+    "ibge_code": 2615508,
+    "name": "Tracunhaém",
+    "uf": "PE",
+    "slug": "tracunhaem"
+  },
+  {
+    "ibge_code": 2616001,
+    "name": "Venturosa",
+    "uf": "PE",
+    "slug": "venturosa"
+  },
+  {
+    "ibge_code": 2616100,
+    "name": "Verdejante",
+    "uf": "PE",
+    "slug": "verdejante"
+  },
+  {
+    "ibge_code": 2616183,
+    "name": "Vertente do Lério",
+    "uf": "PE",
+    "slug": "vertente-do-lerio"
+  },
+  {
+    "ibge_code": 2616209,
+    "name": "Vertentes",
+    "uf": "PE",
+    "slug": "vertentes"
+  },
+  {
+    "ibge_code": 2200103,
+    "name": "Agricolândia",
+    "uf": "PI",
+    "slug": "agricolandia"
+  },
+  {
+    "ibge_code": 2200707,
+    "name": "Anísio de Abreu",
+    "uf": "PI",
+    "slug": "anisio-de-abreu"
+  },
+  {
+    "ibge_code": 2201176,
+    "name": "Barra D'Alcântara",
+    "uf": "PI",
+    "slug": "barra-d-alcantara"
+  },
+  {
+    "ibge_code": 2201309,
+    "name": "Barreiras do Piauí",
+    "uf": "PI",
+    "slug": "barreiras-do-piaui"
+  },
+  {
+    "ibge_code": 2201408,
+    "name": "Barro Duro",
+    "uf": "PI",
+    "slug": "barro-duro"
+  },
+  {
+    "ibge_code": 2201556,
+    "name": "Bela Vista do Piauí",
+    "uf": "PI",
+    "slug": "bela-vista-do-piaui"
+  },
+  {
+    "ibge_code": 2201572,
+    "name": "Belém do Piauí",
+    "uf": "PI",
+    "slug": "belem-do-piaui"
+  },
+  {
+    "ibge_code": 2201705,
+    "name": "Bertolínia",
+    "uf": "PI",
+    "slug": "bertolinia"
+  },
+  {
+    "ibge_code": 2201739,
+    "name": "Betânia do Piauí",
+    "uf": "PI",
+    "slug": "betania-do-piaui"
+  },
+  {
+    "ibge_code": 2201770,
+    "name": "Boa Hora",
+    "uf": "PI",
+    "slug": "boa-hora"
+  },
+  {
+    "ibge_code": 2201804,
+    "name": "Bocaina",
+    "uf": "PI",
+    "slug": "bocaina"
+  },
+  {
+    "ibge_code": 2201919,
+    "name": "Bom Princípio do Piauí",
+    "uf": "PI",
+    "slug": "bom-principio-do-piaui"
+  },
+  {
+    "ibge_code": 2201929,
+    "name": "Bonfim do Piauí",
+    "uf": "PI",
+    "slug": "bonfim-do-piaui"
+  },
+  {
+    "ibge_code": 2201945,
+    "name": "Boqueirão do Piauí",
+    "uf": "PI",
+    "slug": "boqueirao-do-piaui"
+  },
+  {
+    "ibge_code": 2201988,
+    "name": "Brejo do Piauí",
+    "uf": "PI",
+    "slug": "brejo-do-piaui"
+  },
+  {
+    "ibge_code": 2202026,
+    "name": "Buriti dos Montes",
+    "uf": "PI",
+    "slug": "buriti-dos-montes"
+  },
+  {
+    "ibge_code": 2202059,
+    "name": "Cabeceiras do Piauí",
+    "uf": "PI",
+    "slug": "cabeceiras-do-piaui"
+  },
+  {
+    "ibge_code": 2202083,
+    "name": "Cajueiro da Praia",
+    "uf": "PI",
+    "slug": "cajueiro-da-praia"
+  },
+  {
+    "ibge_code": 2202091,
+    "name": "Caldeirão Grande do Piauí",
+    "uf": "PI",
+    "slug": "caldeirao-grande-do-piaui"
+  },
+  {
+    "ibge_code": 2202109,
+    "name": "Campinas do Piauí",
+    "uf": "PI",
+    "slug": "campinas-do-piaui"
+  },
+  {
+    "ibge_code": 2202133,
+    "name": "Campo Grande do Piauí",
+    "uf": "PI",
+    "slug": "campo-grande-do-piaui"
+  },
+  {
+    "ibge_code": 2202174,
+    "name": "Campo Largo do Piauí",
+    "uf": "PI",
+    "slug": "campo-largo-do-piaui"
+  },
+  {
+    "ibge_code": 2202455,
+    "name": "Capitão Gervásio Oliveira",
+    "uf": "PI",
+    "slug": "capitao-gervasio-oliveira"
+  },
+  {
+    "ibge_code": 2202406,
+    "name": "Capitão de Campos",
+    "uf": "PI",
+    "slug": "capitao-de-campos"
+  },
+  {
+    "ibge_code": 2202505,
+    "name": "Caracol",
+    "uf": "PI",
+    "slug": "caracol"
+  },
+  {
+    "ibge_code": 2202539,
+    "name": "Caraúbas do Piauí",
+    "uf": "PI",
+    "slug": "caraubas-do-piaui"
+  },
+  {
+    "ibge_code": 2202554,
+    "name": "Caridade do Piauí",
+    "uf": "PI",
+    "slug": "caridade-do-piaui"
+  },
+  {
+    "ibge_code": 2202653,
+    "name": "Caxingó",
+    "uf": "PI",
+    "slug": "caxingo"
+  },
+  {
+    "ibge_code": 2202737,
+    "name": "Coivaras",
+    "uf": "PI",
+    "slug": "coivaras"
+  },
+  {
+    "ibge_code": 2202752,
+    "name": "Colônia do Gurguéia",
+    "uf": "PI",
+    "slug": "colonia-do-gurgueia"
+  },
+  {
+    "ibge_code": 2202778,
+    "name": "Colônia do Piauí",
+    "uf": "PI",
+    "slug": "colonia-do-piaui"
+  },
+  {
+    "ibge_code": 2202802,
+    "name": "Conceição do Canindé",
+    "uf": "PI",
+    "slug": "conceicao-do-caninde"
+  },
+  {
+    "ibge_code": 2202851,
+    "name": "Coronel José Dias",
+    "uf": "PI",
+    "slug": "coronel-jose-dias"
+  },
+  {
+    "ibge_code": 2203008,
+    "name": "Cristalândia do Piauí",
+    "uf": "PI",
+    "slug": "cristalandia-do-piaui"
+  },
+  {
+    "ibge_code": 2203107,
+    "name": "Cristino Castro",
+    "uf": "PI",
+    "slug": "cristino-castro"
+  },
+  {
+    "ibge_code": 2203206,
+    "name": "Curimatá",
+    "uf": "PI",
+    "slug": "curimata"
+  },
+  {
+    "ibge_code": 2203230,
+    "name": "Currais",
+    "uf": "PI",
+    "slug": "currais"
+  },
+  {
+    "ibge_code": 2203271,
+    "name": "Curral Novo do Piauí",
+    "uf": "PI",
+    "slug": "curral-novo-do-piaui"
+  },
+  {
+    "ibge_code": 2203255,
+    "name": "Curralinhos",
+    "uf": "PI",
+    "slug": "curralinhos"
+  },
+  {
+    "ibge_code": 2203453,
+    "name": "Dom Inocêncio",
+    "uf": "PI",
+    "slug": "dom-inocencio"
+  },
+  {
+    "ibge_code": 2203420,
+    "name": "Domingos Mourão",
+    "uf": "PI",
+    "slug": "domingos-mourao"
+  },
+  {
+    "ibge_code": 2203602,
+    "name": "Eliseu Martins",
+    "uf": "PI",
+    "slug": "eliseu-martins"
+  },
+  {
+    "ibge_code": 2203750,
+    "name": "Fartura do Piauí",
+    "uf": "PI",
+    "slug": "fartura-do-piaui"
+  },
+  {
+    "ibge_code": 2203800,
+    "name": "Flores do Piauí",
+    "uf": "PI",
+    "slug": "flores-do-piaui"
+  },
+  {
+    "ibge_code": 2204006,
+    "name": "Francinópolis",
+    "uf": "PI",
+    "slug": "francinopolis"
+  },
+  {
+    "ibge_code": 2204204,
+    "name": "Francisco Santos",
+    "uf": "PI",
+    "slug": "francisco-santos"
+  },
+  {
+    "ibge_code": 2204352,
+    "name": "Geminiano",
+    "uf": "PI",
+    "slug": "geminiano"
+  },
+  {
+    "ibge_code": 2204659,
+    "name": "Ilha Grande",
+    "uf": "PI",
+    "slug": "ilha-grande"
+  },
+  {
+    "ibge_code": 2204709,
+    "name": "Inhuma",
+    "uf": "PI",
+    "slug": "inhuma"
+  },
+  {
+    "ibge_code": 2204808,
+    "name": "Ipiranga do Piauí",
+    "uf": "PI",
+    "slug": "ipiranga-do-piaui"
+  },
+  {
+    "ibge_code": 2205003,
+    "name": "Itainópolis",
+    "uf": "PI",
+    "slug": "itainopolis"
+  },
+  {
+    "ibge_code": 2205250,
+    "name": "Jardim do Mulato",
+    "uf": "PI",
+    "slug": "jardim-do-mulato"
+  },
+  {
+    "ibge_code": 2205300,
+    "name": "Jerumenha",
+    "uf": "PI",
+    "slug": "jerumenha"
+  },
+  {
+    "ibge_code": 2205409,
+    "name": "Joaquim Pires",
+    "uf": "PI",
+    "slug": "joaquim-pires"
+  },
+  {
+    "ibge_code": 2205359,
+    "name": "João Costa",
+    "uf": "PI",
+    "slug": "joao-costa"
+  },
+  {
+    "ibge_code": 2205516,
+    "name": "Juazeiro do Piauí",
+    "uf": "PI",
+    "slug": "juazeiro-do-piaui"
+  },
+  {
+    "ibge_code": 2205532,
+    "name": "Jurema",
+    "uf": "PI",
+    "slug": "jurema"
+  },
+  {
+    "ibge_code": 2205524,
+    "name": "Júlio Borges",
+    "uf": "PI",
+    "slug": "julio-borges"
+  },
+  {
+    "ibge_code": 2205557,
+    "name": "Lagoa Alegre",
+    "uf": "PI",
+    "slug": "lagoa-alegre"
+  },
+  {
+    "ibge_code": 2205581,
+    "name": "Lagoa do Piauí",
+    "uf": "PI",
+    "slug": "lagoa-do-piaui"
+  },
+  {
+    "ibge_code": 2205599,
+    "name": "Lagoa do Sítio",
+    "uf": "PI",
+    "slug": "lagoa-do-sitio"
+  },
+  {
+    "ibge_code": 2205540,
+    "name": "Lagoinha do Piauí",
+    "uf": "PI",
+    "slug": "lagoinha-do-piaui"
+  },
+  {
+    "ibge_code": 2205607,
+    "name": "Landri Sales",
+    "uf": "PI",
+    "slug": "landri-sales"
+  },
+  {
+    "ibge_code": 2205854,
+    "name": "Madeiro",
+    "uf": "PI",
+    "slug": "madeiro"
+  },
+  {
+    "ibge_code": 2205904,
+    "name": "Manoel Emídio",
+    "uf": "PI",
+    "slug": "manoel-emidio"
+  },
+  {
+    "ibge_code": 2205953,
+    "name": "Marcolândia",
+    "uf": "PI",
+    "slug": "marcolandia"
+  },
+  {
+    "ibge_code": 2206001,
+    "name": "Marcos Parente",
+    "uf": "PI",
+    "slug": "marcos-parente"
+  },
+  {
+    "ibge_code": 2206050,
+    "name": "Massapê do Piauí",
+    "uf": "PI",
+    "slug": "massape-do-piaui"
+  },
+  {
+    "ibge_code": 2206308,
+    "name": "Miguel Leão",
+    "uf": "PI",
+    "slug": "miguel-leao"
+  },
+  {
+    "ibge_code": 2206357,
+    "name": "Milton Brandão",
+    "uf": "PI",
+    "slug": "milton-brandao"
+  },
+  {
+    "ibge_code": 2206605,
+    "name": "Monte Alegre do Piauí",
+    "uf": "PI",
+    "slug": "monte-alegre-do-piaui"
+  },
+  {
+    "ibge_code": 2206654,
+    "name": "Morro Cabeça no Tempo",
+    "uf": "PI",
+    "slug": "morro-cabeca-no-tempo"
+  },
+  {
+    "ibge_code": 2206670,
+    "name": "Morro do Chapéu do Piauí",
+    "uf": "PI",
+    "slug": "morro-do-chapeu-do-piaui"
+  },
+  {
+    "ibge_code": 2206720,
+    "name": "Nazária",
+    "uf": "PI",
+    "slug": "nazaria"
+  },
+  {
+    "ibge_code": 2206902,
+    "name": "Novo Oriente do Piauí",
+    "uf": "PI",
+    "slug": "novo-oriente-do-piaui"
+  },
+  {
+    "ibge_code": 2207108,
+    "name": "Olho D'Água do Piauí",
+    "uf": "PI",
+    "slug": "olho-d-agua-do-piaui"
+  },
+  {
+    "ibge_code": 2207207,
+    "name": "Padre Marcos",
+    "uf": "PI",
+    "slug": "padre-marcos"
+  },
+  {
+    "ibge_code": 2207306,
+    "name": "Paes Landim",
+    "uf": "PI",
+    "slug": "paes-landim"
+  },
+  {
+    "ibge_code": 2207355,
+    "name": "Pajeú do Piauí",
+    "uf": "PI",
+    "slug": "pajeu-do-piaui"
+  },
+  {
+    "ibge_code": 2207603,
+    "name": "Parnaguá",
+    "uf": "PI",
+    "slug": "parnagua"
+  },
+  {
+    "ibge_code": 2207751,
+    "name": "Passagem Franca do Piauí",
+    "uf": "PI",
+    "slug": "passagem-franca-do-piaui"
+  },
+  {
+    "ibge_code": 2207777,
+    "name": "Patos do Piauí",
+    "uf": "PI",
+    "slug": "patos-do-piaui"
+  },
+  {
+    "ibge_code": 2207793,
+    "name": "Pau D'Arco do Piauí",
+    "uf": "PI",
+    "slug": "pau-d-arco-do-piaui"
+  },
+  {
+    "ibge_code": 2207801,
+    "name": "Paulistana",
+    "uf": "PI",
+    "slug": "paulistana"
+  },
+  {
+    "ibge_code": 2207850,
+    "name": "Pavussu",
+    "uf": "PI",
+    "slug": "pavussu"
+  },
+  {
+    "ibge_code": 2207934,
+    "name": "Pedro Laurentino",
+    "uf": "PI",
+    "slug": "pedro-laurentino"
+  },
+  {
+    "ibge_code": 2208551,
+    "name": "Porto Alegre do Piauí",
+    "uf": "PI",
+    "slug": "porto-alegre-do-piaui"
+  },
+  {
+    "ibge_code": 2208601,
+    "name": "Prata do Piauí",
+    "uf": "PI",
+    "slug": "prata-do-piaui"
+  },
+  {
+    "ibge_code": 2208700,
+    "name": "Redenção do Gurguéia",
+    "uf": "PI",
+    "slug": "redencao-do-gurgueia"
+  },
+  {
+    "ibge_code": 2208809,
+    "name": "Regeneração",
+    "uf": "PI",
+    "slug": "regeneracao"
+  },
+  {
+    "ibge_code": 2208874,
+    "name": "Ribeira do Piauí",
+    "uf": "PI",
+    "slug": "ribeira-do-piaui"
+  },
+  {
+    "ibge_code": 2208908,
+    "name": "Ribeiro Gonçalves",
+    "uf": "PI",
+    "slug": "ribeiro-goncalves"
+  },
+  {
+    "ibge_code": 2209005,
+    "name": "Rio Grande do Piauí",
+    "uf": "PI",
+    "slug": "rio-grande-do-piaui"
+  },
+  {
+    "ibge_code": 2209104,
+    "name": "Santa Cruz do Piauí",
+    "uf": "PI",
+    "slug": "santa-cruz-do-piaui"
+  },
+  {
+    "ibge_code": 2209203,
+    "name": "Santa Filomena",
+    "uf": "PI",
+    "slug": "santa-filomena"
+  },
+  {
+    "ibge_code": 2209351,
+    "name": "Santana do Piauí",
+    "uf": "PI",
+    "slug": "santana-do-piaui"
+  },
+  {
+    "ibge_code": 2209450,
+    "name": "Santo Antônio dos Milagres",
+    "uf": "PI",
+    "slug": "santo-antonio-dos-milagres"
+  },
+  {
+    "ibge_code": 2210938,
+    "name": "Sussuapara",
+    "uf": "PI",
+    "slug": "sussuapara"
+  },
+  {
+    "ibge_code": 2209559,
+    "name": "São Braz do Piauí",
+    "uf": "PI",
+    "slug": "sao-braz-do-piaui"
+  },
+  {
+    "ibge_code": 2209658,
+    "name": "São Francisco de Assis do Piauí",
+    "uf": "PI",
+    "slug": "sao-francisco-de-assis-do-piaui"
+  },
+  {
+    "ibge_code": 2209757,
+    "name": "São Gonçalo do Gurguéia",
+    "uf": "PI",
+    "slug": "sao-goncalo-do-gurgueia"
+  },
+  {
+    "ibge_code": 2209807,
+    "name": "São Gonçalo do Piauí",
+    "uf": "PI",
+    "slug": "sao-goncalo-do-piaui"
+  },
+  {
+    "ibge_code": 2210201,
+    "name": "São José do Piauí",
+    "uf": "PI",
+    "slug": "sao-jose-do-piaui"
+  },
+  {
+    "ibge_code": 2209906,
+    "name": "São João da Serra",
+    "uf": "PI",
+    "slug": "sao-joao-da-serra"
+  },
+  {
+    "ibge_code": 2210300,
+    "name": "São Julião",
+    "uf": "PI",
+    "slug": "sao-juliao"
+  },
+  {
+    "ibge_code": 2210359,
+    "name": "São Lourenço do Piauí",
+    "uf": "PI",
+    "slug": "sao-lourenco-do-piaui"
+  },
+  {
+    "ibge_code": 2210375,
+    "name": "São Luis do Piauí",
+    "uf": "PI",
+    "slug": "sao-luis-do-piaui"
+  },
+  {
+    "ibge_code": 2210391,
+    "name": "São Miguel do Fidalgo",
+    "uf": "PI",
+    "slug": "sao-miguel-do-fidalgo"
+  },
+  {
+    "ibge_code": 2210409,
+    "name": "São Miguel do Tapuio",
+    "uf": "PI",
+    "slug": "sao-miguel-do-tapuio"
+  },
+  {
+    "ibge_code": 2210953,
+    "name": "Tamboril do Piauí",
+    "uf": "PI",
+    "slug": "tamboril-do-piaui"
+  },
+  {
+    "ibge_code": 2210979,
+    "name": "Tanque do Piauí",
+    "uf": "PI",
+    "slug": "tanque-do-piaui"
+  },
+  {
+    "ibge_code": 2211308,
+    "name": "Valença do Piauí",
+    "uf": "PI",
+    "slug": "valenca-do-piaui"
+  },
+  {
+    "ibge_code": 2211605,
+    "name": "Vila Nova do Piauí",
+    "uf": "PI",
+    "slug": "vila-nova-do-piaui"
+  },
+  {
+    "ibge_code": 2211357,
+    "name": "Várzea Branca",
+    "uf": "PI",
+    "slug": "varzea-branca"
+  },
+  {
+    "ibge_code": 2211407,
+    "name": "Várzea Grande",
+    "uf": "PI",
+    "slug": "varzea-grande"
+  },
+  {
+    "ibge_code": 2211704,
+    "name": "Wall Ferraz",
+    "uf": "PI",
+    "slug": "wall-ferraz"
+  },
+  {
+    "ibge_code": 2200202,
+    "name": "Água Branca",
+    "uf": "PI",
+    "slug": "agua-branca"
+  },
+  {
+    "ibge_code": 4100202,
+    "name": "Adrianópolis",
+    "uf": "PR",
+    "slug": "adrianopolis"
+  },
+  {
+    "ibge_code": 4100301,
+    "name": "Agudos do Sul",
+    "uf": "PR",
+    "slug": "agudos-do-sul"
+  },
+  {
+    "ibge_code": 4100707,
+    "name": "Alto Piquiri",
+    "uf": "PR",
+    "slug": "alto-piquiri"
+  },
+  {
+    "ibge_code": 4100905,
+    "name": "Amaporã",
+    "uf": "PR",
+    "slug": "amapora"
+  },
+  {
+    "ibge_code": 4101051,
+    "name": "Anahy",
+    "uf": "PR",
+    "slug": "anahy"
+  },
+  {
+    "ibge_code": 4102208,
+    "name": "Atalaia",
+    "uf": "PR",
+    "slug": "atalaia"
+  },
+  {
+    "ibge_code": 4102505,
+    "name": "Barbosa Ferraz",
+    "uf": "PR",
+    "slug": "barbosa-ferraz"
+  },
+  {
+    "ibge_code": 4102752,
+    "name": "Bela Vista da Caroba",
+    "uf": "PR",
+    "slug": "bela-vista-da-caroba"
+  },
+  {
+    "ibge_code": 4103040,
+    "name": "Boa Ventura de São Roque",
+    "uf": "PR",
+    "slug": "boa-ventura-de-sao-roque"
+  },
+  {
+    "ibge_code": 4103057,
+    "name": "Boa Vista da Aparecida",
+    "uf": "PR",
+    "slug": "boa-vista-da-aparecida"
+  },
+  {
+    "ibge_code": 4103107,
+    "name": "Bocaiúva do Sul",
+    "uf": "PR",
+    "slug": "bocaiuva-do-sul"
+  },
+  {
+    "ibge_code": 4103305,
+    "name": "Borrazópolis",
+    "uf": "PR",
+    "slug": "borrazopolis"
+  },
+  {
+    "ibge_code": 4103354,
+    "name": "Braganey",
+    "uf": "PR",
+    "slug": "braganey"
+  },
+  {
+    "ibge_code": 4103370,
+    "name": "Brasilândia do Sul",
+    "uf": "PR",
+    "slug": "brasilandia-do-sul"
+  },
+  {
+    "ibge_code": 4103479,
+    "name": "Cafezal do Sul",
+    "uf": "PR",
+    "slug": "cafezal-do-sul"
+  },
+  {
+    "ibge_code": 4104105,
+    "name": "Campo do Tenente",
+    "uf": "PR",
+    "slug": "campo-do-tenente"
+  },
+  {
+    "ibge_code": 4104428,
+    "name": "Candói",
+    "uf": "PR",
+    "slug": "candoi"
+  },
+  {
+    "ibge_code": 4104451,
+    "name": "Cantagalo",
+    "uf": "PR",
+    "slug": "cantagalo"
+  },
+  {
+    "ibge_code": 4105003,
+    "name": "Catanduvas",
+    "uf": "PR",
+    "slug": "catanduvas"
+  },
+  {
+    "ibge_code": 4105409,
+    "name": "Chopinzinho",
+    "uf": "PR",
+    "slug": "chopinzinho"
+  },
+  {
+    "ibge_code": 4106001,
+    "name": "Congonhinhas",
+    "uf": "PR",
+    "slug": "congonhinhas"
+  },
+  {
+    "ibge_code": 4106555,
+    "name": "Corumbataí do Sul",
+    "uf": "PR",
+    "slug": "corumbatai-do-sul"
+  },
+  {
+    "ibge_code": 4106605,
+    "name": "Cruzeiro do Oeste",
+    "uf": "PR",
+    "slug": "cruzeiro-do-oeste"
+  },
+  {
+    "ibge_code": 4106852,
+    "name": "Cruzmaltina",
+    "uf": "PR",
+    "slug": "cruzmaltina"
+  },
+  {
+    "ibge_code": 4104402,
+    "name": "Cândido de Abreu",
+    "uf": "PR",
+    "slug": "candido-de-abreu"
+  },
+  {
+    "ibge_code": 4128633,
+    "name": "Doutor Ulysses",
+    "uf": "PR",
+    "slug": "doutor-ulysses"
+  },
+  {
+    "ibge_code": 4107405,
+    "name": "Enéas Marques",
+    "uf": "PR",
+    "slug": "eneas-marques"
+  },
+  {
+    "ibge_code": 4107546,
+    "name": "Espigão Alto do Iguaçu",
+    "uf": "PR",
+    "slug": "espigao-alto-do-iguacu"
+  },
+  {
+    "ibge_code": 4107736,
+    "name": "Fernandes Pinheiro",
+    "uf": "PR",
+    "slug": "fernandes-pinheiro"
+  },
+  {
+    "ibge_code": 4108205,
+    "name": "Formosa do Oeste",
+    "uf": "PR",
+    "slug": "formosa-do-oeste"
+  },
+  {
+    "ibge_code": 4107702,
+    "name": "Fênix",
+    "uf": "PR",
+    "slug": "fenix"
+  },
+  {
+    "ibge_code": 4108551,
+    "name": "Godoy Moreira",
+    "uf": "PR",
+    "slug": "godoy-moreira"
+  },
+  {
+    "ibge_code": 4108650,
+    "name": "Goioxim",
+    "uf": "PR",
+    "slug": "goioxim"
+  },
+  {
+    "ibge_code": 4108908,
+    "name": "Guairaçá",
+    "uf": "PR",
+    "slug": "guairaca"
+  },
+  {
+    "ibge_code": 4108957,
+    "name": "Guamiranga",
+    "uf": "PR",
+    "slug": "guamiranga"
+  },
+  {
+    "ibge_code": 4109005,
+    "name": "Guapirama",
+    "uf": "PR",
+    "slug": "guapirama"
+  },
+  {
+    "ibge_code": 4109104,
+    "name": "Guaporema",
+    "uf": "PR",
+    "slug": "guaporema"
+  },
+  {
+    "ibge_code": 4109302,
+    "name": "Guaraniaçu",
+    "uf": "PR",
+    "slug": "guaraniacu"
+  },
+  {
+    "ibge_code": 4109500,
+    "name": "Guaraqueçaba",
+    "uf": "PR",
+    "slug": "guaraquecaba"
+  },
+  {
+    "ibge_code": 4109757,
+    "name": "Ibema",
+    "uf": "PR",
+    "slug": "ibema"
+  },
+  {
+    "ibge_code": 4110003,
+    "name": "Iguaraçu",
+    "uf": "PR",
+    "slug": "iguaracu"
+  },
+  {
+    "ibge_code": 4110052,
+    "name": "Iguatu",
+    "uf": "PR",
+    "slug": "iguatu"
+  },
+  {
+    "ibge_code": 4110656,
+    "name": "Iracema do Oeste",
+    "uf": "PR",
+    "slug": "iracema-do-oeste"
+  },
+  {
+    "ibge_code": 4110904,
+    "name": "Itaguajé",
+    "uf": "PR",
+    "slug": "itaguaje"
+  },
+  {
+    "ibge_code": 4111001,
+    "name": "Itambaracá",
+    "uf": "PR",
+    "slug": "itambaraca"
+  },
+  {
+    "ibge_code": 4111605,
+    "name": "Ivatuba",
+    "uf": "PR",
+    "slug": "ivatuba"
+  },
+  {
+    "ibge_code": 4112009,
+    "name": "Jaguariaíva",
+    "uf": "PR",
+    "slug": "jaguariaiva"
+  },
+  {
+    "ibge_code": 4112751,
+    "name": "Jesuítas",
+    "uf": "PR",
+    "slug": "jesuitas"
+  },
+  {
+    "ibge_code": 4112801,
+    "name": "Joaquim Távora",
+    "uf": "PR",
+    "slug": "joaquim-tavora"
+  },
+  {
+    "ibge_code": 4112900,
+    "name": "Jundiaí do Sul",
+    "uf": "PR",
+    "slug": "jundiai-do-sul"
+  },
+  {
+    "ibge_code": 4113106,
+    "name": "Kaloré",
+    "uf": "PR",
+    "slug": "kalore"
+  },
+  {
+    "ibge_code": 4113429,
+    "name": "Lidianópolis",
+    "uf": "PR",
+    "slug": "lidianopolis"
+  },
+  {
+    "ibge_code": 4113452,
+    "name": "Lindoeste",
+    "uf": "PR",
+    "slug": "lindoeste"
+  },
+  {
+    "ibge_code": 4113734,
+    "name": "Luiziana",
+    "uf": "PR",
+    "slug": "luiziana"
+  },
+  {
+    "ibge_code": 4113908,
+    "name": "Mallet",
+    "uf": "PR",
+    "slug": "mallet"
+  },
+  {
+    "ibge_code": 4114005,
+    "name": "Mamborê",
+    "uf": "PR",
+    "slug": "mambore"
+  },
+  {
+    "ibge_code": 4114351,
+    "name": "Manfrinópolis",
+    "uf": "PR",
+    "slug": "manfrinopolis"
+  },
+  {
+    "ibge_code": 4114708,
+    "name": "Maria Helena",
+    "uf": "PR",
+    "slug": "maria-helena"
+  },
+  {
+    "ibge_code": 4114906,
+    "name": "Marilândia do Sul",
+    "uf": "PR",
+    "slug": "marilandia-do-sul"
+  },
+  {
+    "ibge_code": 4115457,
+    "name": "Marquinho",
+    "uf": "PR",
+    "slug": "marquinho"
+  },
+  {
+    "ibge_code": 4115507,
+    "name": "Marumbi",
+    "uf": "PR",
+    "slug": "marumbi"
+  },
+  {
+    "ibge_code": 4115739,
+    "name": "Mato Rico",
+    "uf": "PR",
+    "slug": "mato-rico"
+  },
+  {
+    "ibge_code": 4116000,
+    "name": "Miraselva",
+    "uf": "PR",
+    "slug": "miraselva"
+  },
+  {
+    "ibge_code": 4116109,
+    "name": "Moreira Sales",
+    "uf": "PR",
+    "slug": "moreira-sales"
+  },
+  {
+    "ibge_code": 4116307,
+    "name": "Munhoz de Melo",
+    "uf": "PR",
+    "slug": "munhoz-de-melo"
+  },
+  {
+    "ibge_code": 4116406,
+    "name": "Nossa Senhora das Graças",
+    "uf": "PR",
+    "slug": "nossa-senhora-das-gracas"
+  },
+  {
+    "ibge_code": 4116604,
+    "name": "Nova América da Colina",
+    "uf": "PR",
+    "slug": "nova-america-da-colina"
+  },
+  {
+    "ibge_code": 4116802,
+    "name": "Nova Cantu",
+    "uf": "PR",
+    "slug": "nova-cantu"
+  },
+  {
+    "ibge_code": 4116950,
+    "name": "Nova Esperança do Sudoeste",
+    "uf": "PR",
+    "slug": "nova-esperanca-do-sudoeste"
+  },
+  {
+    "ibge_code": 4117008,
+    "name": "Nova Fátima",
+    "uf": "PR",
+    "slug": "nova-fatima"
+  },
+  {
+    "ibge_code": 4117453,
+    "name": "Ouro Verde do Oeste",
+    "uf": "PR",
+    "slug": "ouro-verde-do-oeste"
+  },
+  {
+    "ibge_code": 4118303,
+    "name": "Paranapoema",
+    "uf": "PR",
+    "slug": "paranapoema"
+  },
+  {
+    "ibge_code": 4118600,
+    "name": "Paula Freitas",
+    "uf": "PR",
+    "slug": "paula-freitas"
+  },
+  {
+    "ibge_code": 4119657,
+    "name": "Pitangueiras",
+    "uf": "PR",
+    "slug": "pitangueiras"
+  },
+  {
+    "ibge_code": 4119707,
+    "name": "Planaltina do Paraná",
+    "uf": "PR",
+    "slug": "planaltina-do-parana"
+  },
+  {
+    "ibge_code": 4120309,
+    "name": "Porto Vitória",
+    "uf": "PR",
+    "slug": "porto-vitoria"
+  },
+  {
+    "ibge_code": 4120333,
+    "name": "Prado Ferreira",
+    "uf": "PR",
+    "slug": "prado-ferreira"
+  },
+  {
+    "ibge_code": 4120358,
+    "name": "Pranchita",
+    "uf": "PR",
+    "slug": "pranchita"
+  },
+  {
+    "ibge_code": 4120408,
+    "name": "Presidente Castelo Branco",
+    "uf": "PR",
+    "slug": "presidente-castelo-branco"
+  },
+  {
+    "ibge_code": 4120507,
+    "name": "Primeiro de Maio",
+    "uf": "PR",
+    "slug": "primeiro-de-maio"
+  },
+  {
+    "ibge_code": 4121109,
+    "name": "Quinta do Sol",
+    "uf": "PR",
+    "slug": "quinta-do-sol"
+  },
+  {
+    "ibge_code": 4121257,
+    "name": "Ramilândia",
+    "uf": "PR",
+    "slug": "ramilandia"
+  },
+  {
+    "ibge_code": 4121604,
+    "name": "Renascença",
+    "uf": "PR",
+    "slug": "renascenca"
+  },
+  {
+    "ibge_code": 4122107,
+    "name": "Rio Bom",
+    "uf": "PR",
+    "slug": "rio-bom"
+  },
+  {
+    "ibge_code": 4122172,
+    "name": "Rio Branco do Ivaí",
+    "uf": "PR",
+    "slug": "rio-branco-do-ivai"
+  },
+  {
+    "ibge_code": 4122800,
+    "name": "Salgado Filho",
+    "uf": "PR",
+    "slug": "salgado-filho"
+  },
+  {
+    "ibge_code": 4122909,
+    "name": "Salto do Itararé",
+    "uf": "PR",
+    "slug": "salto-do-itarare"
+  },
+  {
+    "ibge_code": 4123006,
+    "name": "Salto do Lontra",
+    "uf": "PR",
+    "slug": "salto-do-lontra"
+  },
+  {
+    "ibge_code": 4123600,
+    "name": "Santa Inês",
+    "uf": "PR",
+    "slug": "santa-ines"
+  },
+  {
+    "ibge_code": 4123709,
+    "name": "Santa Isabel do Ivaí",
+    "uf": "PR",
+    "slug": "santa-isabel-do-ivai"
+  },
+  {
+    "ibge_code": 4123824,
+    "name": "Santa Lúcia",
+    "uf": "PR",
+    "slug": "santa-lucia"
+  },
+  {
+    "ibge_code": 4123956,
+    "name": "Santa Mônica",
+    "uf": "PR",
+    "slug": "santa-monica"
+  },
+  {
+    "ibge_code": 4124020,
+    "name": "Santa Tereza do Oeste",
+    "uf": "PR",
+    "slug": "santa-tereza-do-oeste"
+  },
+  {
+    "ibge_code": 4126272,
+    "name": "Saudade do Iguaçu",
+    "uf": "PR",
+    "slug": "saudade-do-iguacu"
+  },
+  {
+    "ibge_code": 4125753,
+    "name": "São Pedro do Iguaçu",
+    "uf": "PR",
+    "slug": "sao-pedro-do-iguacu"
+  },
+  {
+    "ibge_code": 4125902,
+    "name": "São Pedro do Paraná",
+    "uf": "PR",
+    "slug": "sao-pedro-do-parana"
+  },
+  {
+    "ibge_code": 4126108,
+    "name": "São Tomé",
+    "uf": "PR",
+    "slug": "sao-tome"
+  },
+  {
+    "ibge_code": 4127908,
+    "name": "Tuneiras do Oeste",
+    "uf": "PR",
+    "slug": "tuneiras-do-oeste"
+  },
+  {
+    "ibge_code": 4127957,
+    "name": "Tupãssi",
+    "uf": "PR",
+    "slug": "tupassi"
+  },
+  {
+    "ibge_code": 4128005,
+    "name": "Ubiratã",
+    "uf": "PR",
+    "slug": "ubirata"
+  },
+  {
+    "ibge_code": 4128302,
+    "name": "Uniflor",
+    "uf": "PR",
+    "slug": "uniflor"
+  },
+  {
+    "ibge_code": 4128401,
+    "name": "Uraí",
+    "uf": "PR",
+    "slug": "urai"
+  },
+  {
+    "ibge_code": 4128534,
+    "name": "Ventania",
+    "uf": "PR",
+    "slug": "ventania"
+  },
+  {
+    "ibge_code": 4101150,
+    "name": "Ângulo",
+    "uf": "PR",
+    "slug": "angulo"
+  },
+  {
+    "ibge_code": 2401206,
+    "name": "Arês",
+    "uf": "RN",
+    "slug": "ares"
+  },
+  {
+    "ibge_code": 2401453,
+    "name": "Baraúna",
+    "uf": "RN",
+    "slug": "barauna"
+  },
+  {
+    "ibge_code": 2401602,
+    "name": "Bento Fernandes",
+    "uf": "RN",
+    "slug": "bento-fernandes"
+  },
+  {
+    "ibge_code": 2402808,
+    "name": "Coronel Ezequiel",
+    "uf": "RN",
+    "slug": "coronel-ezequiel"
+  },
+  {
+    "ibge_code": 2403707,
+    "name": "Felipe Guerra",
+    "uf": "RN",
+    "slug": "felipe-guerra"
+  },
+  {
+    "ibge_code": 2404101,
+    "name": "Galinhos",
+    "uf": "RN",
+    "slug": "galinhos"
+  },
+  {
+    "ibge_code": 2404309,
+    "name": "Governador Dix-Sept Rosado",
+    "uf": "RN",
+    "slug": "governador-dix-sept-rosado"
+  },
+  {
+    "ibge_code": 2404408,
+    "name": "Grossos",
+    "uf": "RN",
+    "slug": "grossos"
+  },
+  {
+    "ibge_code": 2405207,
+    "name": "Janduís",
+    "uf": "RN",
+    "slug": "janduis"
+  },
+  {
+    "ibge_code": 2405009,
+    "name": "Jaçanã",
+    "uf": "RN",
+    "slug": "jacana"
+  },
+  {
+    "ibge_code": 2405900,
+    "name": "João Dias",
+    "uf": "RN",
+    "slug": "joao-dias"
+  },
+  {
+    "ibge_code": 2406155,
+    "name": "Jundiá",
+    "uf": "RN",
+    "slug": "jundia"
+  },
+  {
+    "ibge_code": 2406205,
+    "name": "Lagoa d'Anta",
+    "uf": "RN",
+    "slug": "lagoa-d-anta"
+  },
+  {
+    "ibge_code": 2406908,
+    "name": "Lucrécia",
+    "uf": "RN",
+    "slug": "lucrecia"
+  },
+  {
+    "ibge_code": 2407708,
+    "name": "Montanhas",
+    "uf": "RN",
+    "slug": "montanhas"
+  },
+  {
+    "ibge_code": 2409209,
+    "name": "Passagem",
+    "uf": "RN",
+    "slug": "passagem"
+  },
+  {
+    "ibge_code": 2410256,
+    "name": "Porto do Mangue",
+    "uf": "RN",
+    "slug": "porto-do-mangue"
+  },
+  {
+    "ibge_code": 2408953,
+    "name": "Rio do Fogo",
+    "uf": "RN",
+    "slug": "rio-do-fogo"
+  },
+  {
+    "ibge_code": 2411106,
+    "name": "Ruy Barbosa",
+    "uf": "RN",
+    "slug": "ruy-barbosa"
+  },
+  {
+    "ibge_code": 2413508,
+    "name": "Serrinha",
+    "uf": "RN",
+    "slug": "serrinha"
+  },
+  {
+    "ibge_code": 2412906,
+    "name": "São Tomé",
+    "uf": "RN",
+    "slug": "sao-tome"
+  },
+  {
+    "ibge_code": 2413706,
+    "name": "Sítio Novo",
+    "uf": "RN",
+    "slug": "sitio-novo"
+  },
+  {
+    "ibge_code": 2414001,
+    "name": "Tangará",
+    "uf": "RN",
+    "slug": "tangara"
+  },
+  {
+    "ibge_code": 2411056,
+    "name": "Tibau",
+    "uf": "RN",
+    "slug": "tibau"
+  },
+  {
+    "ibge_code": 2414456,
+    "name": "Triunfo Potiguar",
+    "uf": "RN",
+    "slug": "triunfo-potiguar"
+  },
+  {
+    "ibge_code": 2414753,
+    "name": "Venha-Ver",
+    "uf": "RN",
+    "slug": "venha-ver"
+  },
+  {
+    "ibge_code": 2415008,
+    "name": "Vila Flor",
+    "uf": "RN",
+    "slug": "vila-flor"
+  },
+  {
+    "ibge_code": 1100031,
+    "name": "Cabixi",
+    "uf": "RO",
+    "slug": "cabixi"
+  },
+  {
+    "ibge_code": 1100908,
+    "name": "Castanheiras",
+    "uf": "RO",
+    "slug": "castanheiras"
+  },
+  {
+    "ibge_code": 1100080,
+    "name": "Costa Marques",
+    "uf": "RO",
+    "slug": "costa-marques"
+  },
+  {
+    "ibge_code": 1100940,
+    "name": "Cujubim",
+    "uf": "RO",
+    "slug": "cujubim"
+  },
+  {
+    "ibge_code": 1101476,
+    "name": "Primavera de Rondônia",
+    "uf": "RO",
+    "slug": "primavera-de-rondonia"
+  },
+  {
+    "ibge_code": 1101559,
+    "name": "Teixeirópolis",
+    "uf": "RO",
+    "slug": "teixeiropolis"
+  },
+  {
+    "ibge_code": 4308656,
+    "name": "Garruchos",
+    "uf": "RS",
+    "slug": "garruchos"
+  },
+  {
+    "ibge_code": 4311908,
+    "name": "Marcelino Ramos",
+    "uf": "RS",
+    "slug": "marcelino-ramos"
+  },
+  {
+    "ibge_code": 4313441,
+    "name": "Novo Tiradentes",
+    "uf": "RS",
+    "slug": "novo-tiradentes"
+  },
+  {
+    "ibge_code": 4314555,
+    "name": "Pirapó",
+    "uf": "RS",
+    "slug": "pirapo"
+  },
+  {
+    "ibge_code": 4314605,
+    "name": "Piratini",
+    "uf": "RS",
+    "slug": "piratini"
+  },
+  {
+    "ibge_code": 4314779,
+    "name": "Pontão",
+    "uf": "RS",
+    "slug": "pontao"
+  },
+  {
+    "ibge_code": 4316204,
+    "name": "Rondinha",
+    "uf": "RS",
+    "slug": "rondinha"
+  },
+  {
+    "ibge_code": 4320230,
+    "name": "Sede Nova",
+    "uf": "RS",
+    "slug": "sede-nova"
+  },
+  {
+    "ibge_code": 4322202,
+    "name": "Tupanciretã",
+    "uf": "RS",
+    "slug": "tupancireta"
+  },
+  {
+    "ibge_code": 4323754,
+    "name": "Vitória das Missões",
+    "uf": "RS",
+    "slug": "vitoria-das-missoes"
+  },
+  {
+    "ibge_code": 4323804,
+    "name": "Xangri-lá",
+    "uf": "RS",
+    "slug": "xangri-la"
+  },
+  {
+    "ibge_code": 4201000,
+    "name": "Anita Garibaldi",
+    "uf": "SC",
+    "slug": "anita-garibaldi"
+  },
+  {
+    "ibge_code": 4212809,
+    "name": "Balneário Piçarras",
+    "uf": "SC",
+    "slug": "balneario-picarras"
+  },
+  {
+    "ibge_code": 4205308,
+    "name": "Faxinal dos Guedes",
+    "uf": "SC",
+    "slug": "faxinal-dos-guedes"
+  },
+  {
+    "ibge_code": 4205605,
+    "name": "Galvão",
+    "uf": "SC",
+    "slug": "galvao"
+  },
+  {
+    "ibge_code": 4207684,
+    "name": "Ipuaçu",
+    "uf": "SC",
+    "slug": "ipuacu"
+  },
+  {
+    "ibge_code": 4211892,
+    "name": "Painel",
+    "uf": "SC",
+    "slug": "painel"
+  },
+  {
+    "ibge_code": 4214300,
+    "name": "Rancho Queimado",
+    "uf": "SC",
+    "slug": "rancho-queimado"
+  },
+  {
+    "ibge_code": 4215059,
+    "name": "Rio Rufino",
+    "uf": "SC",
+    "slug": "rio-rufino"
+  },
+  {
+    "ibge_code": 2800100,
+    "name": "Amparo do São Francisco",
+    "uf": "SE",
+    "slug": "amparo-do-sao-francisco"
+  },
+  {
+    "ibge_code": 2800506,
+    "name": "Areia Branca",
+    "uf": "SE",
+    "slug": "areia-branca"
+  },
+  {
+    "ibge_code": 2801207,
+    "name": "Canindé de São Francisco",
+    "uf": "SE",
+    "slug": "caninde-de-sao-francisco"
+  },
+  {
+    "ibge_code": 2802205,
+    "name": "Feira Nova",
+    "uf": "SE",
+    "slug": "feira-nova"
+  },
+  {
+    "ibge_code": 2802502,
+    "name": "General Maynard",
+    "uf": "SE",
+    "slug": "general-maynard"
+  },
+  {
+    "ibge_code": 2802601,
+    "name": "Graccho Cardoso",
+    "uf": "SE",
+    "slug": "graccho-cardoso"
+  },
+  {
+    "ibge_code": 2802809,
+    "name": "Indiaroba",
+    "uf": "SE",
+    "slug": "indiaroba"
+  },
+  {
+    "ibge_code": 2803807,
+    "name": "Malhada dos Bois",
+    "uf": "SE",
+    "slug": "malhada-dos-bois"
+  },
+  {
+    "ibge_code": 2803906,
+    "name": "Malhador",
+    "uf": "SE",
+    "slug": "malhador"
+  },
+  {
+    "ibge_code": 2804102,
+    "name": "Moita Bonita",
+    "uf": "SE",
+    "slug": "moita-bonita"
+  },
+  {
+    "ibge_code": 2804409,
+    "name": "Neópolis",
+    "uf": "SE",
+    "slug": "neopolis"
+  },
+  {
+    "ibge_code": 2804706,
+    "name": "Nossa Senhora de Lourdes",
+    "uf": "SE",
+    "slug": "nossa-senhora-de-lourdes"
+  },
+  {
+    "ibge_code": 2805000,
+    "name": "Pedra Mole",
+    "uf": "SE",
+    "slug": "pedra-mole"
+  },
+  {
+    "ibge_code": 2805208,
+    "name": "Pinhão",
+    "uf": "SE",
+    "slug": "pinhao"
+  },
+  {
+    "ibge_code": 3536208,
+    "name": "Pariquera-Açu",
+    "uf": "SP",
+    "slug": "pariquera-acu"
+  },
+  {
+    "ibge_code": 1700301,
+    "name": "Aguiarnópolis",
+    "uf": "TO",
+    "slug": "aguiarnopolis"
+  },
+  {
+    "ibge_code": 1700400,
+    "name": "Almas",
+    "uf": "TO",
+    "slug": "almas"
+  },
+  {
+    "ibge_code": 1701101,
+    "name": "Aparecida do Rio Negro",
+    "uf": "TO",
+    "slug": "aparecida-do-rio-negro"
+  },
+  {
+    "ibge_code": 1701309,
+    "name": "Aragominas",
+    "uf": "TO",
+    "slug": "aragominas"
+  },
+  {
+    "ibge_code": 1702158,
+    "name": "Araguanã",
+    "uf": "TO",
+    "slug": "araguana"
+  },
+  {
+    "ibge_code": 1702000,
+    "name": "Araguaçu",
+    "uf": "TO",
+    "slug": "araguacu"
+  },
+  {
+    "ibge_code": 1702406,
+    "name": "Arraias",
+    "uf": "TO",
+    "slug": "arraias"
+  },
+  {
+    "ibge_code": 1702554,
+    "name": "Augustinópolis",
+    "uf": "TO",
+    "slug": "augustinopolis"
+  },
+  {
+    "ibge_code": 1702703,
+    "name": "Aurora do Tocantins",
+    "uf": "TO",
+    "slug": "aurora-do-tocantins"
+  },
+  {
+    "ibge_code": 1703008,
+    "name": "Babaçulândia",
+    "uf": "TO",
+    "slug": "babaculandia"
+  },
+  {
+    "ibge_code": 1703057,
+    "name": "Bandeirantes do Tocantins",
+    "uf": "TO",
+    "slug": "bandeirantes-do-tocantins"
+  },
+  {
+    "ibge_code": 1703073,
+    "name": "Barra do Ouro",
+    "uf": "TO",
+    "slug": "barra-do-ouro"
+  },
+  {
+    "ibge_code": 1703107,
+    "name": "Barrolândia",
+    "uf": "TO",
+    "slug": "barrolandia"
+  },
+  {
+    "ibge_code": 1703206,
+    "name": "Bernardo Sayão",
+    "uf": "TO",
+    "slug": "bernardo-sayao"
+  },
+  {
+    "ibge_code": 1703305,
+    "name": "Bom Jesus do Tocantins",
+    "uf": "TO",
+    "slug": "bom-jesus-do-tocantins"
+  },
+  {
+    "ibge_code": 1703602,
+    "name": "Brasilândia do Tocantins",
+    "uf": "TO",
+    "slug": "brasilandia-do-tocantins"
+  },
+  {
+    "ibge_code": 1703701,
+    "name": "Brejinho de Nazaré",
+    "uf": "TO",
+    "slug": "brejinho-de-nazare"
+  },
+  {
+    "ibge_code": 1703800,
+    "name": "Buriti do Tocantins",
+    "uf": "TO",
+    "slug": "buriti-do-tocantins"
+  },
+  {
+    "ibge_code": 1703826,
+    "name": "Cachoeirinha",
+    "uf": "TO",
+    "slug": "cachoeirinha"
+  },
+  {
+    "ibge_code": 1703842,
+    "name": "Campos Lindos",
+    "uf": "TO",
+    "slug": "campos-lindos"
+  },
+  {
+    "ibge_code": 1703883,
+    "name": "Carmolândia",
+    "uf": "TO",
+    "slug": "carmolandia"
+  },
+  {
+    "ibge_code": 1703891,
+    "name": "Carrasco Bonito",
+    "uf": "TO",
+    "slug": "carrasco-bonito"
+  },
+  {
+    "ibge_code": 1703909,
+    "name": "Caseara",
+    "uf": "TO",
+    "slug": "caseara"
+  },
+  {
+    "ibge_code": 1704105,
+    "name": "Centenário",
+    "uf": "TO",
+    "slug": "centenario"
+  },
+  {
+    "ibge_code": 1704600,
+    "name": "Chapada de Areia",
+    "uf": "TO",
+    "slug": "chapada-de-areia"
+  },
+  {
+    "ibge_code": 1705557,
+    "name": "Combinado",
+    "uf": "TO",
+    "slug": "combinado"
+  },
+  {
+    "ibge_code": 1705607,
+    "name": "Conceição do Tocantins",
+    "uf": "TO",
+    "slug": "conceicao-do-tocantins"
+  },
+  {
+    "ibge_code": 1706100,
+    "name": "Cristalândia",
+    "uf": "TO",
+    "slug": "cristalandia"
+  },
+  {
+    "ibge_code": 1706258,
+    "name": "Crixás do Tocantins",
+    "uf": "TO",
+    "slug": "crixas-do-tocantins"
+  },
+  {
+    "ibge_code": 1706506,
+    "name": "Darcinópolis",
+    "uf": "TO",
+    "slug": "darcinopolis"
+  },
+  {
+    "ibge_code": 1707207,
+    "name": "Dois Irmãos do Tocantins",
+    "uf": "TO",
+    "slug": "dois-irmaos-do-tocantins"
+  },
+  {
+    "ibge_code": 1707306,
+    "name": "Dueré",
+    "uf": "TO",
+    "slug": "duere"
+  },
+  {
+    "ibge_code": 1707405,
+    "name": "Esperantina",
+    "uf": "TO",
+    "slug": "esperantina"
+  },
+  {
+    "ibge_code": 1708205,
+    "name": "Formoso do Araguaia",
+    "uf": "TO",
+    "slug": "formoso-do-araguaia"
+  },
+  {
+    "ibge_code": 1707553,
+    "name": "Fátima",
+    "uf": "TO",
+    "slug": "fatima"
+  },
+  {
+    "ibge_code": 1708304,
+    "name": "Goianorte",
+    "uf": "TO",
+    "slug": "goianorte"
+  },
+  {
+    "ibge_code": 1709005,
+    "name": "Goiatins",
+    "uf": "TO",
+    "slug": "goiatins"
+  },
+  {
+    "ibge_code": 1710508,
+    "name": "Itacajá",
+    "uf": "TO",
+    "slug": "itacaja"
+  },
+  {
+    "ibge_code": 1710706,
+    "name": "Itaguatins",
+    "uf": "TO",
+    "slug": "itaguatins"
+  },
+  {
+    "ibge_code": 1710904,
+    "name": "Itapiratins",
+    "uf": "TO",
+    "slug": "itapiratins"
+  },
+  {
+    "ibge_code": 1711100,
+    "name": "Itaporã do Tocantins",
+    "uf": "TO",
+    "slug": "itapora-do-tocantins"
+  },
+  {
+    "ibge_code": 1711506,
+    "name": "Jaú do Tocantins",
+    "uf": "TO",
+    "slug": "jau-do-tocantins"
+  },
+  {
+    "ibge_code": 1711803,
+    "name": "Juarina",
+    "uf": "TO",
+    "slug": "juarina"
+  },
+  {
+    "ibge_code": 1711902,
+    "name": "Lagoa da Confusão",
+    "uf": "TO",
+    "slug": "lagoa-da-confusao"
+  },
+  {
+    "ibge_code": 1711951,
+    "name": "Lagoa do Tocantins",
+    "uf": "TO",
+    "slug": "lagoa-do-tocantins"
+  },
+  {
+    "ibge_code": 1712405,
+    "name": "Lizarda",
+    "uf": "TO",
+    "slug": "lizarda"
+  },
+  {
+    "ibge_code": 1712454,
+    "name": "Luzinópolis",
+    "uf": "TO",
+    "slug": "luzinopolis"
+  },
+  {
+    "ibge_code": 1712702,
+    "name": "Mateiros",
+    "uf": "TO",
+    "slug": "mateiros"
+  },
+  {
+    "ibge_code": 1712801,
+    "name": "Maurilândia do Tocantins",
+    "uf": "TO",
+    "slug": "maurilandia-do-tocantins"
+  },
+  {
+    "ibge_code": 1713601,
+    "name": "Monte do Carmo",
+    "uf": "TO",
+    "slug": "monte-do-carmo"
+  },
+  {
+    "ibge_code": 1713957,
+    "name": "Muricilândia",
+    "uf": "TO",
+    "slug": "muricilandia"
+  },
+  {
+    "ibge_code": 1715101,
+    "name": "Novo Acordo",
+    "uf": "TO",
+    "slug": "novo-acordo"
+  },
+  {
+    "ibge_code": 1715150,
+    "name": "Novo Alegre",
+    "uf": "TO",
+    "slug": "novo-alegre"
+  },
+  {
+    "ibge_code": 1715259,
+    "name": "Novo Jardim",
+    "uf": "TO",
+    "slug": "novo-jardim"
+  },
+  {
+    "ibge_code": 1715507,
+    "name": "Oliveira de Fátima",
+    "uf": "TO",
+    "slug": "oliveira-de-fatima"
+  },
+  {
+    "ibge_code": 1715705,
+    "name": "Palmeirante",
+    "uf": "TO",
+    "slug": "palmeirante"
+  },
+  {
+    "ibge_code": 1713809,
+    "name": "Palmeiras do Tocantins",
+    "uf": "TO",
+    "slug": "palmeiras-do-tocantins"
+  },
+  {
+    "ibge_code": 1715754,
+    "name": "Palmeirópolis",
+    "uf": "TO",
+    "slug": "palmeiropolis"
+  },
+  {
+    "ibge_code": 1716208,
+    "name": "Paranã",
+    "uf": "TO",
+    "slug": "parana"
+  },
+  {
+    "ibge_code": 1716307,
+    "name": "Pau D'Arco",
+    "uf": "TO",
+    "slug": "pau-d-arco"
+  },
+  {
+    "ibge_code": 1716505,
+    "name": "Pedro Afonso",
+    "uf": "TO",
+    "slug": "pedro-afonso"
+  },
+  {
+    "ibge_code": 1716653,
+    "name": "Pequizeiro",
+    "uf": "TO",
+    "slug": "pequizeiro"
+  },
+  {
+    "ibge_code": 1717008,
+    "name": "Pindorama do Tocantins",
+    "uf": "TO",
+    "slug": "pindorama-do-tocantins"
+  },
+  {
+    "ibge_code": 1717206,
+    "name": "Piraquê",
+    "uf": "TO",
+    "slug": "piraque"
+  },
+  {
+    "ibge_code": 1717503,
+    "name": "Pium",
+    "uf": "TO",
+    "slug": "pium"
+  },
+  {
+    "ibge_code": 1717800,
+    "name": "Ponte Alta do Bom Jesus",
+    "uf": "TO",
+    "slug": "ponte-alta-do-bom-jesus"
+  },
+  {
+    "ibge_code": 1717909,
+    "name": "Ponte Alta do Tocantins",
+    "uf": "TO",
+    "slug": "ponte-alta-do-tocantins"
+  },
+  {
+    "ibge_code": 1718303,
+    "name": "Praia Norte",
+    "uf": "TO",
+    "slug": "praia-norte"
+  },
+  {
+    "ibge_code": 1718402,
+    "name": "Presidente Kennedy",
+    "uf": "TO",
+    "slug": "presidente-kennedy"
+  },
+  {
+    "ibge_code": 1718451,
+    "name": "Pugmil",
+    "uf": "TO",
+    "slug": "pugmil"
+  },
+  {
+    "ibge_code": 1718758,
+    "name": "Rio Sono",
+    "uf": "TO",
+    "slug": "rio-sono"
+  },
+  {
+    "ibge_code": 1718659,
+    "name": "Rio da Conceição",
+    "uf": "TO",
+    "slug": "rio-da-conceicao"
+  },
+  {
+    "ibge_code": 1718709,
+    "name": "Rio dos Bois",
+    "uf": "TO",
+    "slug": "rio-dos-bois"
+  },
+  {
+    "ibge_code": 1718808,
+    "name": "Sampaio",
+    "uf": "TO",
+    "slug": "sampaio"
+  },
+  {
+    "ibge_code": 1718840,
+    "name": "Sandolândia",
+    "uf": "TO",
+    "slug": "sandolandia"
+  },
+  {
+    "ibge_code": 1718881,
+    "name": "Santa Maria do Tocantins",
+    "uf": "TO",
+    "slug": "santa-maria-do-tocantins"
+  },
+  {
+    "ibge_code": 1718899,
+    "name": "Santa Rita do Tocantins",
+    "uf": "TO",
+    "slug": "santa-rita-do-tocantins"
+  },
+  {
+    "ibge_code": 1718907,
+    "name": "Santa Rosa do Tocantins",
+    "uf": "TO",
+    "slug": "santa-rosa-do-tocantins"
+  },
+  {
+    "ibge_code": 1719004,
+    "name": "Santa Tereza do Tocantins",
+    "uf": "TO",
+    "slug": "santa-tereza-do-tocantins"
+  },
+  {
+    "ibge_code": 1720002,
+    "name": "Santa Terezinha do Tocantins",
+    "uf": "TO",
+    "slug": "santa-terezinha-do-tocantins"
+  },
+  {
+    "ibge_code": 1720853,
+    "name": "Sucupira",
+    "uf": "TO",
+    "slug": "sucupira"
+  },
+  {
+    "ibge_code": 1720101,
+    "name": "São Bento do Tocantins",
+    "uf": "TO",
+    "slug": "sao-bento-do-tocantins"
+  },
+  {
+    "ibge_code": 1720150,
+    "name": "São Félix do Tocantins",
+    "uf": "TO",
+    "slug": "sao-felix-do-tocantins"
+  },
+  {
+    "ibge_code": 1720259,
+    "name": "São Salvador do Tocantins",
+    "uf": "TO",
+    "slug": "sao-salvador-do-tocantins"
+  },
+  {
+    "ibge_code": 1720309,
+    "name": "São Sebastião do Tocantins",
+    "uf": "TO",
+    "slug": "sao-sebastiao-do-tocantins"
+  },
+  {
+    "ibge_code": 1720804,
+    "name": "Sítio Novo do Tocantins",
+    "uf": "TO",
+    "slug": "sitio-novo-do-tocantins"
+  },
+  {
+    "ibge_code": 1708254,
+    "name": "Tabocão",
+    "uf": "TO",
+    "slug": "tabocao"
+  },
+  {
+    "ibge_code": 1720937,
+    "name": "Taipas do Tocantins",
+    "uf": "TO",
+    "slug": "taipas-do-tocantins"
+  },
+  {
+    "ibge_code": 1720978,
+    "name": "Talismã",
+    "uf": "TO",
+    "slug": "talisma"
+  },
+  {
+    "ibge_code": 1721109,
+    "name": "Tocantínia",
+    "uf": "TO",
+    "slug": "tocantinia"
+  },
+  {
+    "ibge_code": 1721307,
+    "name": "Tupiratins",
+    "uf": "TO",
+    "slug": "tupiratins"
+  },
+  {
+    "ibge_code": 1722081,
+    "name": "Wanderlândia",
+    "uf": "TO",
+    "slug": "wanderlandia"
+  }
+]

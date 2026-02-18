@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "total": 4379,
+    "valid": 4379,
+    "invalid": 0,
+    "duplicate_groups": 0,
+    "orphan_files": 7,
+    "db_without_file": 196
+  },
+  "invalid_files": [],
+  "duplicate_groups": [],
+  "orphan_files": [
+    "AC/1200435-santa-rosa-do-purus.jpg",
+    "AL/2701506-campo-grande.png",
+    "AL/2706208-palestina.png",
+    "AL/2707107-piranhas.png",
+    "AL/2709103-taquarana.png",
+    "BA/2902401-aurelino-leal.png",
+    "BA/2904209-botupor.png"
+  ]
+}

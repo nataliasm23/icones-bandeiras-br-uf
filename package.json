@@ -1,0 +1,46 @@
+{
+  "name": "bandeiras-municipios-br",
+  "version": "1.0.0",
+  "description": "Brazilian municipality flag icons — 4,366 flags in 4 SVG styles + 8 PNG sizes, with TypeScript API for lookup",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./lib/index.js",
+      "require": "./lib/index.js",
+      "types": "./lib/index.d.ts"
+    },
+    "./database/*": "./database/*",
+    "./dist/*": "./dist/*"
+  },
+  "files": [
+    "lib/",
+    "database/",
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf lib"
+  },
+  "keywords": [
+    "brazil",
+    "brasil",
+    "bandeiras",
+    "flags",
+    "municipios",
+    "municipalities",
+    "icons",
+    "svg",
+    "png",
+    "ibge"
+  ],
+  "author": "Natalia Mesquita",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliasm23/icones-bandeiras-br-uf.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
