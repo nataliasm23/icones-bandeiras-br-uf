@@ -1,14 +1,10 @@
 # Bandeiras do Brasil: Estados + Municípios
 
-## Brazilian State & Municipality Flag Icons
-
 Pacote de ícones com bandeiras dos **27 Estados** + **4.366 Municípios** brasileiros em 4 estilos SVG + 8 variantes PNG, com API TypeScript para busca programática.
-
-Icon pack with flags for all **27 Brazilian states** + **4,366 municipalities** in 4 SVG styles + 8 PNG variants, with a TypeScript API for programmatic lookup.
 
 ---
 
-## Capitais / State Capitals
+## Capitais
 
 | | | | |
 |:---:|:---:|:---:|:---:|
@@ -29,13 +25,13 @@ Icon pack with flags for all **27 Brazilian states** + **4,366 municipalities** 
 
 ---
 
-## Installation
+## Instalação
 
 ```bash
 npm install bandeiras-municipios-br
 ```
 
-Or clone the repo for direct file access:
+Ou clone o repositório para acesso direto aos arquivos:
 
 ```bash
 git clone https://github.com/nataliasm23/icones-bandeiras-br-uf.git
@@ -43,7 +39,7 @@ git clone https://github.com/nataliasm23/icones-bandeiras-br-uf.git
 
 ---
 
-## Quick Start
+## Uso Rápido
 
 ```typescript
 import {
@@ -54,28 +50,28 @@ import {
   stats,
 } from "bandeiras-municipios-br";
 
-// Look up by IBGE code
+// Buscar por código IBGE
 const sp = getMunicipio(3550308);
 console.log(sp?.name); // "São Paulo"
 
-// Get icon file path
+// Obter caminho do arquivo de ícone
 const path = getFlagPath(3550308, "circle", "svg");
 // "circle/svg/SP/3550308-sao-paulo-circle.svg"
 
-// Get full URL with a CDN base
+// Obter URL completa com base CDN
 import { getFlagUrl } from "bandeiras-municipios-br";
 const url = getFlagUrl(3550308, "circle", "png-200", "https://cdn.example.com/flags");
 // "https://cdn.example.com/flags/circle/png-200/SP/3550308-sao-paulo-circle.png"
 
-// Search by name
+// Buscar por nome
 const results = searchMunicipios("curitiba");
 console.log(results[0]?.ibge_code); // 4106902
 
-// List municipalities with flags for a state
+// Listar municípios com bandeiras por estado
 const rjFlags = getMunicipiosWithFlags("RJ");
 console.log(rjFlags.length); // 92
 
-// Database stats
+// Estatísticas do banco de dados
 console.log(stats.total_municipios);   // 5571
 console.log(stats.total_with_icons);   // 4366
 console.log(stats.icon_coverage_pct);  // 78.4
@@ -83,24 +79,24 @@ console.log(stats.icon_coverage_pct);  // 78.4
 
 ---
 
-## Styles
+## Estilos
 
-4 estilos disponíveis / 4 styles available:
+4 estilos disponíveis:
 
-| Style | Dimensions | Description |
-|-------|-----------|-------------|
-| **full** | 300×200 | 3:2 aspect ratio, no clip |
-| **rounded** | 300×200 | 3:2 aspect ratio, rounded corners (r=20) |
-| **circle** | 200×200 | 1:1, circular clip |
-| **square-rounded** | 200×200 | 1:1, rounded square (r=20) |
+| Estilo | Dimensões | Descrição |
+|--------|-----------|-----------|
+| **full** | 300×200 | Proporção 3:2, sem recorte |
+| **rounded** | 300×200 | Proporção 3:2, cantos arredondados (r=20) |
+| **circle** | 200×200 | 1:1, recorte circular |
+| **square-rounded** | 200×200 | 1:1, quadrado arredondado (r=20) |
 
 ![Formatos disponíveis](icones-br-uf-styles-4x1.png)
 
 ---
 
-## Coverage by State
+## Cobertura por Estado
 
-| UF | Estado | Total | Flags | Coverage |
+| UF | Estado | Total | Bandeiras | Cobertura |
 |----|--------|------:|------:|---------:|
 | AC | Acre | 22 | 14 | 63.6% |
 | AL | Alagoas | 102 | 65 | 63.7% |
@@ -133,9 +129,9 @@ console.log(stats.icon_coverage_pct);  // 78.4
 
 ---
 
-## API Reference
+## Referência da API
 
-### Types
+### Tipos
 
 ```typescript
 type UF = "AC" | "AL" | "AM" | ... | "TO"      // 27 UF codes
@@ -174,40 +170,40 @@ interface MunicipioIcons {
 }
 ```
 
-### Functions
+### Funções
 
-| Function | Description |
-|----------|-------------|
-| `getMunicipio(ibgeCode)` | Look up a municipality by IBGE code |
-| `getMunicipiosByUf(uf)` | Get all municipalities for a UF |
-| `getMunicipiosWithFlags(uf?)` | Get municipalities with generated icons |
-| `searchMunicipios(query)` | Search by name or slug |
-| `getFlagPath(ibgeCode, style, format)` | Get relative icon file path |
-| `getFlagUrl(ibgeCode, style, format, baseUrl)` | Get full URL with base |
-| `getAllFlagPaths(ibgeCode)` | Get all 12 icon paths for a municipality |
-| `buildFlagPath(uf, ibgeCode, slug, style, format)` | Build path from components |
+| Função | Descrição |
+|--------|-----------|
+| `getMunicipio(ibgeCode)` | Busca município pelo código IBGE |
+| `getMunicipiosByUf(uf)` | Retorna todos os municípios de uma UF |
+| `getMunicipiosWithFlags(uf?)` | Retorna municípios com ícones gerados |
+| `searchMunicipios(query)` | Busca por nome ou slug |
+| `getFlagPath(ibgeCode, style, format)` | Retorna caminho relativo do ícone |
+| `getFlagUrl(ibgeCode, style, format, baseUrl)` | Retorna URL completa com base |
+| `getAllFlagPaths(ibgeCode)` | Retorna os 12 caminhos de ícone do município |
+| `buildFlagPath(uf, ibgeCode, slug, style, format)` | Monta caminho a partir dos componentes |
 
-### Constants
+### Constantes
 
-| Constant | Type | Description |
-|----------|------|-------------|
-| `UF_NAMES` | `Record<UF, string>` | Full state names |
-| `UF_CAPITALS` | `Record<UF, { name, ibgeCode }>` | Capital city per UF |
-| `REGIONS` | `Record<Region, UF[]>` | UFs by macro-region |
-| `REGION_NAMES` | `Record<Region, string>` | Region full names |
-| `ALL_UFS` | `UF[]` | Sorted list of all 27 UF codes |
+| Constante | Tipo | Descrição |
+|-----------|------|-----------|
+| `UF_NAMES` | `Record<UF, string>` | Nomes completos dos estados |
+| `UF_CAPITALS` | `Record<UF, { name, ibgeCode }>` | Capital de cada UF |
+| `REGIONS` | `Record<Region, UF[]>` | UFs por macrorregião |
+| `REGION_NAMES` | `Record<Region, string>` | Nomes das macrorregiões |
+| `ALL_UFS` | `UF[]` | Lista ordenada dos 27 códigos UF |
 
-### Data
+### Dados
 
-| Export | Type | Description |
-|--------|------|-------------|
-| `municipios` | `Municipio[]` | All 5,571 municipalities |
-| `municipiosByUf` | `Record<UF, Municipio[]>` | Grouped by state |
-| `stats` | `DatabaseStats` | Coverage statistics |
+| Export | Tipo | Descrição |
+|--------|------|-----------|
+| `municipios` | `Municipio[]` | Todos os 5.571 municípios |
+| `municipiosByUf` | `Record<UF, Municipio[]>` | Agrupados por estado |
+| `stats` | `DatabaseStats` | Estatísticas de cobertura |
 
 ---
 
-## File Structure
+## Estrutura de Arquivos
 
 ```
 dist/
@@ -229,45 +225,45 @@ dist/
     └── png-800/{UF}/{ibge_code}-{slug}-sq.png         # 800×800
 
 database/
-├── municipios.json          # All 5,571 municipalities with icon paths
-├── municipios-by-uf.json    # Grouped by state
-└── stats.json               # Coverage statistics
+├── municipios.json          # Todos os 5.571 municípios com caminhos dos ícones
+├── municipios-by-uf.json    # Agrupados por estado
+└── stats.json               # Estatísticas de cobertura
 
-src/                         # TypeScript source
+src/                         # Código-fonte TypeScript
 ├── index.ts                 # Barrel export
-├── types.ts                 # Type definitions
-├── constants.ts             # UF names, capitals, regions
-├── data.ts                  # JSON database loaders
-├── municipios.ts            # Lookup functions
-└── flags.ts                 # Flag path resolution
+├── types.ts                 # Definições de tipos
+├── constants.ts             # Nomes das UFs, capitais, regiões
+├── data.ts                  # Carregamento do banco JSON
+├── municipios.ts            # Funções de busca
+└── flags.ts                 # Resolução de caminhos de bandeiras
 ```
 
-### Naming Convention
+### Convenção de Nomes
 
-Files follow the pattern: `{ibge_code}-{slug}-{style}.{ext}`
+Arquivos seguem o padrão: `{ibge_code}-{slug}-{style}.{ext}`
 
-- **ibge_code**: Official IBGE municipality code (7 digits)
-- **slug**: URL-friendly municipality name (lowercase, hyphenated)
-- **style**: `full`, `rounded`, `circle`, or `sq`
+- **ibge_code**: Código oficial IBGE do município (7 dígitos)
+- **slug**: Nome do município em formato URL (minúsculas, hifenizado)
+- **style**: `full`, `rounded`, `circle` ou `sq`
 
-Example: `3550308-sao-paulo-circle.svg` (City of São Paulo, circle style)
+Exemplo: `3550308-sao-paulo-circle.svg` (Cidade de São Paulo, estilo circle)
 
 ---
 
-## Direct File Access
+## Acesso Direto aos Arquivos
 
 ```html
-<!-- SVG (recommended for web) -->
+<!-- SVG (recomendado para web) -->
 <img src="dist/circle/svg/SP/3550308-sao-paulo-circle.svg" alt="São Paulo" />
 
 <!-- PNG 200px -->
 <img src="dist/full/png-200/SP/3550308-sao-paulo-full.png" alt="São Paulo" />
 
-<!-- PNG 800px (high resolution) -->
+<!-- PNG 800px (alta resolução) -->
 <img src="dist/rounded/png-800/SP/3550308-sao-paulo-rounded.png" alt="São Paulo" />
 ```
 
-### Database Lookup (Python)
+### Consulta ao Banco de Dados (Python)
 
 ```python
 import json
@@ -282,32 +278,32 @@ if sp["has_icons"]:
 
 ---
 
-## Generation
+## Geração
 
-### Prerequisites
+### Pré-requisitos
 
 - Python 3.8+
 - Pillow (`pip install Pillow`)
 - tqdm (`pip install tqdm`)
-- rsvg-convert (`brew install librsvg` on macOS)
+- rsvg-convert (`brew install librsvg` no macOS)
 
-### Generate icons
+### Gerar ícones
 
 ```bash
-# All flags, all formats (4 SVG + 8 PNG per flag)
+# Todas as bandeiras, todos os formatos (4 SVG + 8 PNG por bandeira)
 python3 scripts/generate-icons.py
 
-# SVG only (faster)
+# Apenas SVG (mais rápido)
 python3 scripts/generate-icons.py --skip-png
 
-# Single state
+# Um único estado
 python3 scripts/generate-icons.py --uf SP
 
-# More parallelism
+# Mais paralelismo
 python3 scripts/generate-icons.py --workers 8
 ```
 
-### Build database
+### Construir banco de dados
 
 ```bash
 python3 scripts/build-database.py
@@ -315,9 +311,9 @@ python3 scripts/build-database.py
 
 ---
 
-## State Flags (Original)
+## Bandeiras Estaduais (Original)
 
-The original 27 state flags from the forked repo are hand-crafted SVGs in Adobe Illustrator:
+As 27 bandeiras estaduais originais do repositório forkado são SVGs feitos à mão no Adobe Illustrator:
 
 #### Square-rounded
 ![Square-rounded](exemplos-square-rounded.png)
@@ -333,25 +329,25 @@ The original 27 state flags from the forked repo are hand-crafted SVGs in Adobe 
 
 ---
 
-## Data Sources
+## Fontes de Dados
 
-- **Wikidata** — Structured flag data via SPARQL queries
-- **Wikimedia Commons** — Category and search-based discovery
-- **Wikipedia** — Municipality page scraping
-- **City government websites** — Official municipal sources
+- **Wikidata** — Dados estruturados de bandeiras via consultas SPARQL
+- **Wikimedia Commons** — Descoberta por categoria e busca
+- **Wikipedia** — Scraping de páginas de municípios
+- **Sites de prefeituras** — Fontes municipais oficiais
 
-All flags are public domain or freely licensed.
-
----
-
-## Credits
-
-- Original state flag icons by [Pierre Lapalu](https://github.com/pierrelapalu/icones-bandeiras-br-uf)
-- Municipality flags scraped from Wikimedia/Wikidata (public domain)
-- IBGE municipality codes from [IBGE](https://www.ibge.gov.br/)
+Todas as bandeiras são de domínio público ou licença livre.
 
 ---
 
-## License
+## Créditos
+
+- Ícones originais das bandeiras estaduais por [Pierre Lapalu](https://github.com/pierrelapalu/icones-bandeiras-br-uf)
+- Bandeiras municipais coletadas do Wikimedia/Wikidata (domínio público)
+- Códigos IBGE dos municípios do [IBGE](https://www.ibge.gov.br/)
+
+---
+
+## Licença
 
 MIT
