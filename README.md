@@ -12,19 +12,19 @@ Icon pack with flags for all **27 Brazilian states** + **4,366 municipalities** 
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| ![AC](dist/circle/png-200/AC/1200401-rio-branco-circle.png) | ![AL](dist/circle/png-200/AL/2704302-maceio-circle.png) | ![AM](dist/circle/png-200/AM/1302603-manaus-circle.png) | ![AP](dist/circle/png-200/AP/1600303-macapa-circle.png) |
+| ![AC](dist/rounded/png-200/AC/1200401-rio-branco-rounded.png) | ![AL](dist/rounded/png-200/AL/2704302-maceio-rounded.png) | ![AM](dist/rounded/png-200/AM/1302603-manaus-rounded.png) | ![AP](dist/rounded/png-200/AP/1600303-macapa-rounded.png) |
 | **AC** Rio Branco | **AL** Maceió | **AM** Manaus | **AP** Macapá |
-| ![BA](dist/circle/png-200/BA/2927408-salvador-circle.png) | ![CE](dist/circle/png-200/CE/2304400-fortaleza-circle.png) | ![DF](dist/circle/png-200/DF/5300108-brasilia-circle.png) | ![ES](dist/circle/png-200/ES/3205309-vitoria-circle.png) |
+| ![BA](dist/rounded/png-200/BA/2927408-salvador-rounded.png) | ![CE](dist/rounded/png-200/CE/2304400-fortaleza-rounded.png) | ![DF](dist/rounded/png-200/DF/5300108-brasilia-rounded.png) | ![ES](dist/rounded/png-200/ES/3205309-vitoria-rounded.png) |
 | **BA** Salvador | **CE** Fortaleza | **DF** Brasília | **ES** Vitória |
-| ![GO](dist/circle/png-200/GO/5208707-goiania-circle.png) | ![MA](dist/circle/png-200/MA/2111300-sao-luis-circle.png) | ![MG](dist/circle/png-200/MG/3106200-belo-horizonte-circle.png) | ![MS](dist/circle/png-200/MS/5002704-campo-grande-circle.png) |
+| ![GO](dist/rounded/png-200/GO/5208707-goiania-rounded.png) | ![MA](dist/rounded/png-200/MA/2111300-sao-luis-rounded.png) | ![MG](dist/rounded/png-200/MG/3106200-belo-horizonte-rounded.png) | ![MS](dist/rounded/png-200/MS/5002704-campo-grande-rounded.png) |
 | **GO** Goiânia | **MA** São Luís | **MG** Belo Horizonte | **MS** Campo Grande |
-| ![MT](dist/circle/png-200/MT/5103403-cuiaba-circle.png) | ![PA](dist/circle/png-200/PA/1501402-belem-circle.png) | ![PB](dist/circle/png-200/PB/2507507-joao-pessoa-circle.png) | ![PE](dist/circle/png-200/PE/2611606-recife-circle.png) |
+| ![MT](dist/rounded/png-200/MT/5103403-cuiaba-rounded.png) | ![PA](dist/rounded/png-200/PA/1501402-belem-rounded.png) | ![PB](dist/rounded/png-200/PB/2507507-joao-pessoa-rounded.png) | ![PE](dist/rounded/png-200/PE/2611606-recife-rounded.png) |
 | **MT** Cuiabá | **PA** Belém | **PB** João Pessoa | **PE** Recife |
-| ![PI](dist/circle/png-200/PI/2211001-teresina-circle.png) | ![PR](dist/circle/png-200/PR/4106902-curitiba-circle.png) | ![RJ](dist/circle/png-200/RJ/3304557-rio-de-janeiro-circle.png) | ![RN](dist/circle/png-200/RN/2408102-natal-circle.png) |
+| ![PI](dist/rounded/png-200/PI/2211001-teresina-rounded.png) | ![PR](dist/rounded/png-200/PR/4106902-curitiba-rounded.png) | ![RJ](dist/rounded/png-200/RJ/3304557-rio-de-janeiro-rounded.png) | ![RN](dist/rounded/png-200/RN/2408102-natal-rounded.png) |
 | **PI** Teresina | **PR** Curitiba | **RJ** Rio de Janeiro | **RN** Natal |
-| ![RO](dist/circle/png-200/RO/1100205-porto-velho-circle.png) | ![RR](dist/circle/png-200/RR/1400100-boa-vista-circle.png) | ![RS](dist/circle/png-200/RS/4314902-porto-alegre-circle.png) | ![SC](dist/circle/png-200/SC/4205407-florianopolis-circle.png) |
+| ![RO](dist/rounded/png-200/RO/1100205-porto-velho-rounded.png) | ![RR](dist/rounded/png-200/RR/1400100-boa-vista-rounded.png) | ![RS](dist/rounded/png-200/RS/4314902-porto-alegre-rounded.png) | ![SC](dist/rounded/png-200/SC/4205407-florianopolis-rounded.png) |
 | **RO** Porto Velho | **RR** Boa Vista | **RS** Porto Alegre | **SC** Florianópolis |
-| ![SE](dist/circle/png-200/SE/2800308-aracaju-circle.png) | ![SP](dist/circle/png-200/SP/3550308-sao-paulo-circle.png) | ![TO](dist/circle/png-200/TO/1721000-palmas-circle.png) | |
+| ![SE](dist/rounded/png-200/SE/2800308-aracaju-rounded.png) | ![SP](dist/rounded/png-200/SP/3550308-sao-paulo-rounded.png) | ![TO](dist/rounded/png-200/TO/1721000-palmas-rounded.png) | |
 | **SE** Aracaju | **SP** São Paulo | **TO** Palmas | |
 
 ---
