@@ -45,6 +45,13 @@ export interface Municipio {
   has_flag: boolean;
   has_icons: boolean;
   flag_source: string | null;
+  microrregiao?: string;
+  mesorregiao?: string;
+  regiao_imediata?: string;
+  regiao_intermediaria?: string;
+  populacao_2022?: number;
+  area_km2?: number;
+  densidade_demo?: number;
   icons?: MunicipioIcons;
 }
 

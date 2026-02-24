@@ -1,6 +1,6 @@
 {
   "name": "bandeiras-municipios-br",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Brazilian municipality flag icons — 4,366 flags in 4 SVG styles + 8 PNG sizes, with TypeScript API for lookup",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
