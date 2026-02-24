@@ -58,10 +58,10 @@ console.log(sp?.name); // "São Paulo"
 const path = getFlagPath(3550308, "circle", "svg");
 // "circle/svg/SP/3550308-sao-paulo-circle.svg"
 
-// Obter URL completa com base CDN
+// Obter URL completa via jsDelivr (CDN gratuito do GitHub)
 import { getFlagUrl } from "bandeiras-municipios-br";
-const url = getFlagUrl(3550308, "circle", "png-200", "https://cdn.example.com/flags");
-// "https://cdn.example.com/flags/circle/png-200/SP/3550308-sao-paulo-circle.png"
+const url = getFlagUrl(3550308, "circle", "png-200", "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist");
+// "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist/circle/png-200/SP/3550308-sao-paulo-circle.png"
 
 // Buscar por nome
 const results = searchMunicipios("curitiba");
@@ -308,24 +308,6 @@ python3 scripts/generate-icons.py --workers 8
 ```bash
 python3 scripts/build-database.py
 ```
-
----
-
-## Bandeiras Estaduais (Original)
-
-As 27 bandeiras estaduais originais do repositório forkado são SVGs feitos à mão no Adobe Illustrator:
-
-#### Square-rounded
-![Square-rounded](exemplos-square-rounded.png)
-
-#### Circle
-![Circle](exemplos-circle.png)
-
-#### Rounded
-![Rounded](exemplos-rounded.png)
-
-#### Full
-![Full](exemplos-full.png)
 
 ---
 

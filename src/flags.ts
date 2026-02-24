@@ -46,13 +46,13 @@ export function getFlagPath(
  * Get a full URL for a municipality flag icon, given a base URL
  * where the `dist/` directory is served.
  *
- * @param baseUrl - URL prefix (e.g. `"https://cdn.example.com/flags"`)
+ * @param baseUrl - URL prefix (e.g. `"https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist"`)
  * @returns Full URL or `null` if no icon exists.
  *
  * @example
  * ```ts
- * const url = getFlagUrl(3550308, "circle", "png-200", "https://cdn.example.com/flags");
- * // "https://cdn.example.com/flags/circle/png-200/SP/3550308-sao-paulo-circle.png"
+ * const url = getFlagUrl(3550308, "circle", "png-200", "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist");
+ * // "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist/circle/png-200/SP/3550308-sao-paulo-circle.png"
  * ```
  */
 export function getFlagUrl(
