@@ -28,7 +28,7 @@ Pacote de ícones com bandeiras dos **27 Estados** + **4.366 Municípios** brasi
 ## Instalação
 
 ```bash
-npm install bandeiras-municipios-br
+npm install municipios-br
 ```
 
 Ou clone o repositório para acesso direto aos arquivos:
@@ -48,7 +48,7 @@ import {
   searchMunicipios,
   getMunicipiosWithFlags,
   stats,
-} from "bandeiras-municipios-br";
+} from "municipios-br";
 
 // Buscar por código IBGE
 const sp = getMunicipio(3550308);
@@ -59,7 +59,7 @@ const path = getFlagPath(3550308, "circle", "svg");
 // "circle/svg/SP/3550308-sao-paulo-circle.svg"
 
 // Obter URL completa via jsDelivr (CDN gratuito do GitHub)
-import { getFlagUrl } from "bandeiras-municipios-br";
+import { getFlagUrl } from "municipios-br";
 const url = getFlagUrl(3550308, "circle", "png-200", "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist");
 // "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist/circle/png-200/SP/3550308-sao-paulo-circle.png"
 
