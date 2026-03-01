@@ -1,8 +1,8 @@
 # municipios-br
 
-Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEPs, geolocalização, dados demograficos, socioeconomicos e API TypeScript.
+Banco de dados completo dos **5.571 municipios** brasileiros com bandeiras, CEPs, geolocalização, dados demograficos, socioeconomicos, eleitorais, educacionais e fiscais — API TypeScript.
 
-**v2.2** — 37 campos por municipio: PIB, IDHM, bioma, gentilico, prefeito, mortalidade infantil, Gini, frota de veiculos, saude, SIAFI, fuso horario.
+**v3.0** — 57 campos por municipio: dados do IBGE, TSE (eleicoes 2024), INEP (IDEB + Censo Escolar 2024), Tesouro Nacional (FUNDEB + FPM).
 
 ---
 
@@ -31,16 +31,18 @@ Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEP
 
 | Categoria | Dados | Cobertura |
 |-----------|-------|-----------|
-| **Identificacao** | Codigo IBGE, nome, slug, UF, regiao, capital, SIAFI | 5.571/5.571 (100%) |
+| **Identificacao** | Codigo IBGE, nome, slug, UF, regiao, capital, SIAFI, TSE | 5.571/5.571 (100%) |
 | **Hierarquia IBGE** | Microrregiao, mesorregiao, regiao imediata, intermediaria | 5.571/5.571 (100%) |
 | **Demografia** | Populacao Censo 2022, estimativa 2025, area km2, densidade | 5.571/5.571 (100%) |
 | **Geolocalizacao** | Latitude, longitude, fuso horario | 5.571/5.571 (100%) |
 | **Economia** | PIB, PIB per capita | 5.570/5.571 (100%) |
+| **Fiscal** | FUNDEB 2024, FPM 2024 (transferencias da Uniao) | 5.073/5.571 (91.1%) |
 | **Social** | Gentilico, bioma, sistema costeiro, indice Gini | 5.507-5.571 (98.9-100%) |
 | **Saude** | Mortalidade infantil, estabelecimentos de saude | 5.562-5.565 (99.8-99.9%) |
 | **Desenvolvimento** | IDHM (IDH Municipal) | 5.565/5.571 (99.9%) |
+| **Educacao** | IDEB 2023 (anos iniciais e finais), matriculas, escolas, docentes | 5.382-5.570 (96.6-99.9%) |
+| **Eleicoes 2024** | Prefeito, vice, partido, coligacao, genero, cor/raca, escolaridade, vereadores | 5.569/5.571 (99.96%) |
 | **Transporte** | Frota de veiculos (2024) | 5.570/5.571 (100%) |
-| **Governo** | Prefeito atual, codigo SIAFI | 5.569-5.571 (100%) |
 | **Telefonia** | DDD | 5.571/5.571 (100%) |
 | **Enderecos** | CEP sede + 1.277.567 CEPs com logradouro, bairro | 5.558/5.571 (99.8%) |
 | **Bandeiras** | SVG + PNG em 4 estilos | 4.381/5.571 (78.6%) |
@@ -72,33 +74,27 @@ import {
 
 // Buscar por codigo IBGE
 const sp = getMunicipio(3550308);
-console.log(sp?.name);                  // "Sao Paulo"
-console.log(sp?.gentilico);            // "paulistano"
-console.log(sp?.bioma);                // "Mata Atlantica"
-console.log(sp?.capital);              // true
-console.log(sp?.populacao_2022);        // 11451245
-console.log(sp?.populacao_estimada_2025); // 11895578
-console.log(sp?.area_km2);             // 1521.11
-console.log(sp?.pib_per_capita);       // 93156.23
-console.log(sp?.idhm);                // 0.805
-console.log(sp?.indice_gini);          // 0.45
-console.log(sp?.veiculos);            // 9748457
-console.log(sp?.prefeito);             // "RICARDO LUIS REIS NUNES"
-console.log(sp?.fuso_horario);         // "America/Sao_Paulo"
-console.log(sp?.latitude);             // -23.5475
-console.log(sp?.longitude);            // -46.6361
-console.log(sp?.ddd);                  // "11"
-console.log(sp?.cep_sede);             // "01001-000"
+console.log(sp?.name);                     // "Sao Paulo"
+console.log(sp?.populacao_2022);           // 11451245
+console.log(sp?.pib_per_capita);           // 93156.23
+console.log(sp?.idhm);                    // 0.805
 
-// Caminho do icone
-const path = getFlagPath(3550308, "circle", "svg");
-// "circle/svg/SP/3550308-sao-paulo-circle.svg"
+// Dados eleitorais 2024
+console.log(sp?.prefeito_eleito_2024);     // "RICARDO LUIS REIS NUNES"
+console.log(sp?.prefeito_partido);         // "MDB"
+console.log(sp?.vereadores_eleitos);       // 55
+console.log(sp?.vagas_vereadores);         // 55
 
-// URL via CDN
-const url = getFlagUrl(
-  3550308, "circle", "png-200",
-  "https://cdn.jsdelivr.net/gh/nataliasm23/icones-bandeiras-br-uf@master/dist"
-);
+// Dados fiscais
+console.log(sp?.fundeb_2024);             // 7469821211.88
+console.log(sp?.fpm_2024);                // 541625413.42
+
+// Dados educacionais
+console.log(sp?.ideb_anos_iniciais_2023); // 5.9
+console.log(sp?.ideb_anos_finais_2023);   // 4.8
+console.log(sp?.matriculas_2024);         // 2633934
+console.log(sp?.escolas_2024);            // 7237
+console.log(sp?.docentes_2024);           // 137460
 
 // Busca por nome
 const results = searchMunicipios("curitiba");
@@ -107,14 +103,6 @@ console.log(results[0]?.ibge_code); // 4106902
 // Municipios por estado
 const rj = getMunicipiosByUf("RJ");
 console.log(rj.length); // 92
-
-// Municipios com bandeiras
-const rjFlags = getMunicipiosWithFlags("RJ");
-console.log(rjFlags.length); // 92
-
-// Estatisticas
-console.log(stats.total_municipios);  // 5571
-console.log(stats.total_with_icons);  // 4381
 ```
 
 ### CEPs
@@ -136,7 +124,6 @@ console.log(cep?.logradouro);  // "Praca da Se"
 console.log(cep?.bairro);     // "Se"
 console.log(cep?.localidade); // "Sao Paulo"
 console.log(cep?.uf);         // "SP"
-console.log(cep?.ibge);       // "3550308"
 
 // Buscar por logradouro, bairro ou localidade
 const results = searchCeps("Paulista", { uf: "SP", limit: 10 });
@@ -144,16 +131,6 @@ const results = searchCeps("Paulista", { uf: "SP", limit: 10 });
 // CEPs de um municipio (pelo codigo IBGE)
 const spCeps = getCepsByMunicipio("3550308");
 console.log(spCeps.length); // ~28000
-
-// CEPs de uma UF inteira
-const rjCeps = getCepsByUf("RJ");
-
-// Descobrir UF pelo CEP (sem consulta ao banco)
-const uf = getUfFromCep("01001-000"); // "SP"
-
-// Validacao e normalizacao
-isValidCepFormat("01001-000"); // true
-normalizeCep("01001-000");     // "01001000"
 ```
 
 ### Acesso direto ao SQLite (Python)
@@ -168,7 +145,9 @@ conn.row_factory = sqlite3.Row
 row = conn.execute(
     "SELECT * FROM municipios WHERE ibge_code = ?", (3550308,)
 ).fetchone()
-print(row["name"], row["populacao_2022"], row["area_km2"])
+print(row["name"], row["prefeito_eleito_2024"], row["prefeito_partido"])
+print(f"FUNDEB: R$ {row['fundeb_2024']:,.2f}")
+print(f"IDEB AI: {row['ideb_anos_iniciais_2023']}, AF: {row['ideb_anos_finais_2023']}")
 
 # Full-text search de municipios
 for r in conn.execute(
@@ -181,13 +160,6 @@ for r in conn.execute(
 cep = conn.execute("SELECT * FROM ceps WHERE cep = ?", ("01001000",)).fetchone()
 print(cep["logradouro"], cep["localidade"])
 
-# Full-text search de CEPs
-for r in conn.execute(
-    "SELECT cep, logradouro, localidade FROM ceps_fts WHERE ceps_fts MATCH ?",
-    ("Paulista",)
-).fetchmany(10):
-    print(r["cep"], r["logradouro"], r["localidade"])
-
 conn.close()
 ```
 
@@ -195,7 +167,9 @@ conn.close()
 
 ## Dados por Municipio
 
-Cada municipio no banco contem:
+Cada municipio no banco contem 57 campos:
+
+### Identificacao e Geografia
 
 | Campo | Tipo | Descricao |
 |-------|------|-----------|
@@ -210,29 +184,83 @@ Cada municipio no banco contem:
 | `mesorregiao` | `string` | Mesorregiao IBGE |
 | `regiao_imediata` | `string` | Regiao geografica imediata |
 | `regiao_intermediaria` | `string` | Regiao geografica intermediaria |
-| `populacao_2022` | `number` | Populacao Censo 2022 |
-| `populacao_estimada_2025` | `number` | Estimativa populacional 2025 |
-| `area_km2` | `number` | Area territorial (km2) |
-| `densidade_demo` | `number` | Densidade demografica (hab/km2) |
 | `latitude` | `number` | Latitude da sede |
 | `longitude` | `number` | Longitude da sede |
 | `ddd` | `string` | Codigo DDD |
 | `cep_sede` | `string` | CEP da sede do municipio |
-| `gentilico` | `string` | Gentilico ("paulistano", "carioca") |
-| `bioma` | `string` | Bioma predominante (Amazonia, Cerrado, Mata Atlantica, etc.) |
-| `sistema_costeiro` | `boolean` | Pertence ao sistema costeiro-marinho |
-| `prefeito` | `string` | Nome do prefeito atual |
-| `pib` | `number` | PIB municipal (R$ x 1.000) |
-| `pib_per_capita` | `number` | PIB per capita (R$) |
-| `taxa_mortalidade_infantil` | `number` | Mortalidade infantil (por 1.000 nascidos vivos) |
-| `indice_gini` | `number` | Indice de Gini (desigualdade de renda) |
-| `estabelecimentos_saude` | `number` | Numero de estabelecimentos de saude |
 | `codigo_siafi` | `string` | Codigo SIAFI (Tesouro Nacional) |
+| `codigo_tse` | `string` | Codigo TSE (Justica Eleitoral) |
 | `fuso_horario` | `string` | Fuso horario (ex: "America/Sao_Paulo") |
 | `capital` | `boolean` | Se e capital estadual |
+
+### Demografia e Economia
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `populacao_2022` | `number` | Populacao Censo 2022 |
+| `populacao_estimada_2025` | `number` | Estimativa populacional 2025 |
+| `area_km2` | `number` | Area territorial (km2) |
+| `densidade_demo` | `number` | Densidade demografica (hab/km2) |
+| `pib` | `number` | PIB municipal (R$ x 1.000) |
+| `pib_per_capita` | `number` | PIB per capita (R$) |
 | `idhm` | `number` | IDH Municipal (0-1, dados de 2010) |
+| `indice_gini` | `number` | Indice de Gini (desigualdade de renda) |
 | `veiculos` | `number` | Frota total de veiculos |
 | `veiculos_ano` | `string` | Ano de referencia da frota |
+
+### Social e Ambiental
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `gentilico` | `string` | Gentilico ("paulistano", "carioca") |
+| `bioma` | `string` | Bioma predominante |
+| `sistema_costeiro` | `boolean` | Pertence ao sistema costeiro-marinho |
+
+### Saude
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `taxa_mortalidade_infantil` | `number` | Mortalidade infantil (por 1.000 nascidos vivos) |
+| `estabelecimentos_saude` | `number` | Numero de estabelecimentos de saude |
+
+### Educacao (INEP 2023-2024)
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `ideb_anos_iniciais_2023` | `number` | IDEB escola publica — anos iniciais (1o-5o) |
+| `ideb_anos_finais_2023` | `number` | IDEB escola publica — anos finais (6o-9o) |
+| `matriculas_2024` | `number` | Total de matriculas da educacao basica |
+| `escolas_2024` | `number` | Total de estabelecimentos de ensino |
+| `docentes_2024` | `number` | Total de docentes da educacao basica |
+
+### Fiscal (Tesouro Nacional 2024)
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `fundeb_2024` | `number` | Transferencia FUNDEB anual (R$) |
+| `fpm_2024` | `number` | Transferencia FPM anual (R$) |
+
+### Eleicoes 2024 (TSE)
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `prefeito_eleito_2024` | `string` | Nome completo do prefeito eleito |
+| `prefeito_nome_urna` | `string` | Nome de urna do prefeito |
+| `prefeito_partido` | `string` | Partido do prefeito (sigla) |
+| `prefeito_coligacao` | `string` | Nome da coligacao |
+| `prefeito_genero` | `string` | Genero do prefeito |
+| `prefeito_escolaridade` | `string` | Escolaridade do prefeito |
+| `prefeito_cor_raca` | `string` | Cor/raca declarada do prefeito |
+| `vice_prefeito_2024` | `string` | Nome do vice-prefeito eleito |
+| `vice_partido` | `string` | Partido do vice-prefeito |
+| `vereadores_eleitos` | `number` | Quantidade de vereadores eleitos |
+| `vagas_vereadores` | `number` | Numero de vagas na camara |
+
+### Governo e Bandeiras
+
+| Campo | Tipo | Descricao |
+|-------|------|-----------|
+| `prefeito` | `string` | Nome do prefeito (fonte IBGE) |
 | `has_flag` | `boolean` | Tem bandeira original |
 | `has_icons` | `boolean` | Tem icones gerados |
 | `flag_source` | `string` | Fonte da bandeira |
@@ -269,206 +297,23 @@ Cada municipio no banco contem:
 | **circle** | 200x200 | 1:1, recorte circular |
 | **square-rounded** | 200x200 | 1:1, quadrado arredondado (r=20) |
 
-![Formatos disponiveis](icones-br-uf-styles-4x1.png)
-
 ---
 
-## Cobertura de Bandeiras por Estado
+## Fontes de Dados
 
-| UF | Estado | Total | Bandeiras | Cobertura |
-|----|--------|------:|------:|---------:|
-| AC | Acre | 22 | 14 | 63.6% |
-| AL | Alagoas | 102 | 65 | 63.7% |
-| AM | Amazonas | 62 | 47 | 75.8% |
-| AP | Amapa | 16 | 11 | 68.8% |
-| BA | Bahia | 417 | 350 | 83.9% |
-| CE | Ceara | 184 | 165 | 89.7% |
-| DF | Distrito Federal | 1 | 1 | 100.0% |
-| ES | Espirito Santo | 78 | 65 | 83.3% |
-| GO | Goias | 246 | 182 | 74.0% |
-| MA | Maranhao | 217 | 135 | 62.2% |
-| MG | Minas Gerais | 853 | 602 | 70.6% |
-| MS | Mato Grosso do Sul | 79 | 75 | 94.9% |
-| MT | Mato Grosso | 142 | 86 | 60.6% |
-| PA | Para | 144 | 105 | 72.9% |
-| PB | Paraiba | 223 | 201 | 90.1% |
-| PE | Pernambuco | 185 | 135 | 73.0% |
-| PI | Piaui | 224 | 93 | 41.5% |
-| PR | Parana | 399 | 275 | 68.9% |
-| RJ | Rio de Janeiro | 92 | 92 | 100.0% |
-| RN | Rio Grande do Norte | 167 | 127 | 76.0% |
-| RO | Rondonia | 52 | 46 | 88.5% |
-| RR | Roraima | 15 | 15 | 100.0% |
-| RS | Rio Grande do Sul | 497 | 470 | 94.6% |
-| SC | Santa Catarina | 295 | 278 | 94.2% |
-| SE | Sergipe | 75 | 61 | 81.3% |
-| SP | Sao Paulo | 645 | 631 | 97.8% |
-| TO | Tocantins | 139 | 39 | 28.1% |
-| | **Total** | **5.571** | **4.381** | **78.6%** |
-
----
-
-## Referencia da API
-
-### Tipos
-
-```typescript
-type UF = "AC" | "AL" | "AM" | ... | "TO"      // 27 codigos UF
-type Region = "N" | "NE" | "CO" | "SE" | "S"    // Macrorregioes
-type FlagStyle = "full" | "rounded" | "circle" | "square-rounded"
-type PngSize = "png-200" | "png-800"
-type FlagFormat = "svg" | PngSize
-
-interface Municipio {
-  ibge_code: number
-  name: string
-  slug: string
-  uf: UF
-  uf_name: string
-  region: Region
-  region_name: string
-  has_flag: boolean
-  has_icons: boolean
-  flag_source: string | null
-  microrregiao?: string
-  mesorregiao?: string
-  regiao_imediata?: string
-  regiao_intermediaria?: string
-  populacao_2022?: number
-  populacao_estimada_2025?: number
-  area_km2?: number
-  densidade_demo?: number
-  latitude?: number
-  longitude?: number
-  ddd?: string
-  cep_sede?: string
-  gentilico?: string
-  bioma?: string
-  sistema_costeiro?: boolean
-  prefeito?: string
-  pib?: number
-  pib_per_capita?: number
-  taxa_mortalidade_infantil?: number
-  indice_gini?: number
-  estabelecimentos_saude?: number
-  codigo_siafi?: string
-  fuso_horario?: string
-  capital?: boolean
-  idhm?: number
-  veiculos?: number
-  veiculos_ano?: string
-  icons?: MunicipioIcons
-}
-
-interface CepRecord {
-  cep: string
-  logradouro: string
-  complemento: string
-  bairro: string
-  localidade: string
-  uf: UF
-  ibge: string
-  ddd: string
-}
-```
-
-### Funcoes de Municipios
-
-| Funcao | Descricao |
-|--------|-----------|
-| `getMunicipio(ibgeCode)` | Busca municipio pelo codigo IBGE |
-| `getMunicipiosByUf(uf)` | Todos os municipios de uma UF |
-| `getMunicipiosWithFlags(uf?)` | Municipios com icones gerados |
-| `searchMunicipios(query)` | Busca por nome ou slug |
-| `getFlagPath(ibgeCode, style, format)` | Caminho relativo do icone |
-| `getFlagUrl(ibgeCode, style, format, baseUrl)` | URL completa com base |
-| `getAllFlagPaths(ibgeCode)` | Os 12 caminhos de icone do municipio |
-| `buildFlagPath(uf, ibgeCode, slug, style, format)` | Monta caminho a partir dos componentes |
-
-### Funcoes de CEPs (`municipios-br/ceps`)
-
-| Funcao | Descricao |
-|--------|-----------|
-| `getCep(cep)` | Busca CEP por numero |
-| `searchCeps(query, options?)` | Busca por logradouro, bairro ou localidade |
-| `getCepsByMunicipio(ibgeCode)` | Todos os CEPs de um municipio |
-| `getCepsByUf(uf)` | Todos os CEPs de uma UF |
-| `getUfFromCep(cep)` | Descobre a UF pelo prefixo do CEP |
-| `isValidCepFormat(cep)` | Valida formato do CEP |
-| `normalizeCep(cep)` | Remove formatacao (pontos, tracos) |
-| `syncCeps(options?)` | Sincroniza CEPs com ViaCEP |
-| `getCepsSyncDate()` | Data da ultima sincronizacao |
-
-### Constantes
-
-| Constante | Tipo | Descricao |
-|-----------|------|-----------|
-| `UF_NAMES` | `Record<UF, string>` | Nomes completos dos estados |
-| `UF_CAPITALS` | `Record<UF, { name, ibgeCode }>` | Capital de cada UF |
-| `REGIONS` | `Record<Region, UF[]>` | UFs por macrorregiao |
-| `REGION_NAMES` | `Record<Region, string>` | Nomes das macrorregioes |
-| `ALL_UFS` | `UF[]` | Lista ordenada dos 27 codigos UF |
-| `CEP_UF_PREFIXES` | `Record<UF, [number, number][]>` | Faixas de CEP por UF |
-| `IBGE_UF_MAP` | `Record<string, UF>` | Mapa prefixo IBGE para UF |
-
-### Dados
-
-| Export | Tipo | Descricao |
-|--------|------|-----------|
-| `municipios` | `Municipio[]` | Todos os 5.571 municipios |
-| `municipiosByUf` | `Record<UF, Municipio[]>` | Agrupados por estado |
-| `stats` | `DatabaseStats` | Estatisticas de cobertura |
-| `closeDb()` | `void` | Fecha a conexao SQLite |
-
----
-
-## Estrutura de Arquivos
-
-```
-dist/
-  full/svg|png-200|png-800/{UF}/{ibge}-{slug}-full.svg|png
-  rounded/svg|png-200|png-800/{UF}/{ibge}-{slug}-rounded.svg|png
-  circle/svg|png-200|png-800/{UF}/{ibge}-{slug}-circle.svg|png
-  square-rounded/svg|png-200|png-800/{UF}/{ibge}-{slug}-sq.svg|png
-
-database/
-  municipios-br.sqlite     # 5.571 municipios + 1.28M CEPs + FTS5
-
-src/
-  index.ts                 # Barrel export
-  types.ts                 # Definicoes de tipos
-  constants.ts             # UFs, capitais, regioes, prefixos CEP
-  db.ts                    # Singleton SQLite (better-sqlite3)
-  data.ts                  # Carregamento do banco
-  municipios.ts            # Funcoes de busca de municipios
-  flags.ts                 # Resolucao de caminhos de bandeiras
-  ceps/
-    index.ts               # Barrel export
-    types.ts               # Tipos de CEP
-    ceps.ts                # Busca de CEPs
-    data.ts                # Cache de acesso ao banco
-    sqlite.ts              # Classe CepDatabase (standalone)
-    sync.ts                # Sincronizacao com ViaCEP
-```
-
----
-
-## Roadmap: Dados Faltantes
-
-Dados que complementariam o banco. Todos disponiveis via APIs publicas.
-
-| Campo | Descricao | Fonte |
-|-------|-----------|-------|
-| `idhm_educacao` | IDHM componente educacao | Atlas Brasil (download bulk) |
-| `idhm_longevidade` | IDHM componente longevidade | Atlas Brasil |
-| `idhm_renda` | IDHM componente renda | Atlas Brasil |
-| `populacao_urbana` | Populacao urbana | Censo 2022 / SIDRA |
-| `populacao_rural` | Populacao rural | Censo 2022 / SIDRA |
-| `amazonia_legal` | Se pertence a Amazonia Legal | Lista oficial IBGE |
-| `codigo_tse` | Codigo eleitoral TSE | betafcc/Municipios-Brasileiros-TSE |
-| `receita_orcamentaria` | Receita municipal | SICONFI / Tesouro Nacional |
-| `clima` | Classificacao climatica Koppen | Dados academicos |
-| `altitude_sede` | Altitude da sede (metros) | IBGE geodesia |
+| Fonte | Dados |
+|-------|-------|
+| **IBGE Localidades** | Codigos, nomes, hierarquia territorial |
+| **IBGE Censo 2022** | Populacao, area, densidade demografica |
+| **IBGE Pesquisas** | Gentilico, bioma, prefeito, PIB, mortalidade infantil, Gini, saude, IDHM |
+| **IBGE Estimativas** | Populacao estimada 2025 |
+| **TSE Dados Abertos** | Eleicoes 2024: prefeitos, vices, vereadores, partidos, coligacoes |
+| **INEP/MEC** | IDEB 2023, Censo Escolar 2024 (matriculas, escolas, docentes) |
+| **Tesouro Nacional** | FUNDEB e FPM 2024 (transferencias por municipio) |
+| **kelvins/municipios-brasileiros** | Codigo SIAFI, fuso horario |
+| **ViaCEP** | Enderecos postais (CEPs, logradouros, bairros) |
+| **OpenCEP** | Enderecos postais complementares |
+| **Wikidata/Wikimedia** | Bandeiras municipais |
 
 ---
 
@@ -480,16 +325,17 @@ Dados que complementariam o banco. Todos disponiveis via APIs publicas.
 - Pillow, tqdm (`pip install Pillow tqdm`)
 - rsvg-convert (`brew install librsvg` no macOS)
 
-### Gerar icones
+### Pipeline de municipios
 
 ```bash
-# CLI unificado
-python3 scripts/municipios/cli.py generate-icons
-python3 scripts/municipios/cli.py generate-icons --uf SP --skip-png --workers 8
-
-# Pipeline completo (fetch + download + validate + enrich + generate)
 python3 scripts/municipios/cli.py pipeline --dry-run
 python3 scripts/municipios/cli.py pipeline
+
+# Enriquecimento individual
+python3 scripts/municipios/enrich_tse.py
+python3 scripts/municipios/enrich_fiscal.py
+python3 scripts/municipios/enrich_ibge_socioeconomic.py
+python3 scripts/municipios/enrich_ibge_extra.py
 ```
 
 ### Construir banco SQLite
@@ -504,35 +350,7 @@ python3 scripts/build-unified-sqlite.py
 python3 scripts/ceps/cli.py scrape --uf SP
 python3 scripts/ceps/cli.py validate
 python3 scripts/ceps/cli.py export-json
-python3 scripts/ceps/cli.py stats
 ```
-
----
-
-## Fontes de Dados
-
-| Fonte | Dados |
-|-------|-------|
-| **IBGE Localidades** | Codigos, nomes, hierarquia territorial |
-| **IBGE Censo 2022** | Populacao, area, densidade demografica |
-| **IBGE Pesquisas** | Gentilico, bioma, prefeito, PIB, mortalidade infantil, Gini, saude |
-| **IBGE Estimativas** | Populacao estimada 2025 |
-| **kelvins/municipios-brasileiros** | Codigo SIAFI, fuso horario |
-| **ViaCEP** | Enderecos postais (CEPs, logradouros, bairros) |
-| **OpenCEP** | Enderecos postais complementares (1.2M registros) |
-| **Wikidata** | Dados estruturados de bandeiras via SPARQL |
-| **Wikimedia Commons** | Imagens de bandeiras (dominio publico) |
-| **Wikipedia** | Scraping de paginas de municipios |
-| **Prefeituras** | Fontes municipais oficiais |
-
----
-
-## Creditos
-
-- Icones estaduais por [Pierre Lapalu](https://github.com/pierrelapalu/icones-bandeiras-br-uf)
-- Bandeiras municipais do Wikimedia/Wikidata (dominio publico)
-- Dados municipais do [IBGE](https://www.ibge.gov.br/)
-- CEPs do [ViaCEP](https://viacep.com.br/) e [OpenCEP](https://github.com/SeuAliado/OpenCEP)
 
 ---
 

@@ -72,6 +72,25 @@ export interface Municipio {
   idhm?: number;
   veiculos?: number;
   veiculos_ano?: string;
+  codigo_tse?: string;
+  prefeito_eleito_2024?: string;
+  prefeito_nome_urna?: string;
+  prefeito_partido?: string;
+  prefeito_coligacao?: string;
+  prefeito_genero?: string;
+  prefeito_escolaridade?: string;
+  prefeito_cor_raca?: string;
+  vice_prefeito_2024?: string;
+  vice_partido?: string;
+  vereadores_eleitos?: number;
+  vagas_vereadores?: number;
+  fundeb_2024?: number;
+  fpm_2024?: number;
+  ideb_anos_iniciais_2023?: number;
+  ideb_anos_finais_2023?: number;
+  matriculas_2024?: number;
+  escolas_2024?: number;
+  docentes_2024?: number;
   icons?: MunicipioIcons;
 }
 
