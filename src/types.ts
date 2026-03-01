@@ -57,6 +57,18 @@ export interface Municipio {
   longitude?: number;
   ddd?: string;
   cep_sede?: string;
+  gentilico?: string;
+  bioma?: string;
+  sistema_costeiro?: boolean;
+  prefeito?: string;
+  pib?: number;
+  pib_per_capita?: number;
+  taxa_mortalidade_infantil?: number;
+  indice_gini?: number;
+  estabelecimentos_saude?: number;
+  codigo_siafi?: string;
+  fuso_horario?: string;
+  capital?: boolean;
   icons?: MunicipioIcons;
 }
 

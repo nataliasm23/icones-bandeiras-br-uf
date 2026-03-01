@@ -1,8 +1,8 @@
 # municipios-br
 
-Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEPs, geolocalização, dados demográficos e API TypeScript.
+Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEPs, geolocalização, dados demograficos, socioeconomicos e API TypeScript.
 
-**v2.0** — SQLite unificado com 1,28 milhão de CEPs + busca full-text (FTS5).
+**v2.1** — Dados socioeconomicos do IBGE: PIB, IDH, bioma, gentilico, prefeito, mortalidade infantil, Gini, saude, SIAFI, fuso horario.
 
 ---
 
@@ -31,10 +31,14 @@ Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEP
 
 | Categoria | Dados | Cobertura |
 |-----------|-------|-----------|
-| **Identificacao** | Codigo IBGE, nome, slug, UF, regiao | 5.571/5.571 (100%) |
+| **Identificacao** | Codigo IBGE, nome, slug, UF, regiao, capital, SIAFI | 5.571/5.571 (100%) |
 | **Hierarquia IBGE** | Microrregiao, mesorregiao, regiao imediata, intermediaria | 5.571/5.571 (100%) |
 | **Demografia** | Populacao Censo 2022, estimativa 2025, area km2, densidade | 5.571/5.571 (100%) |
-| **Geolocalizacao** | Latitude, longitude | 5.571/5.571 (100%) |
+| **Geolocalizacao** | Latitude, longitude, fuso horario | 5.571/5.571 (100%) |
+| **Economia** | PIB, PIB per capita | 5.570/5.571 (100%) |
+| **Social** | Gentilico, bioma, sistema costeiro, indice Gini | 5.507-5.571 (98.9-100%) |
+| **Saude** | Mortalidade infantil, estabelecimentos de saude | 5.562-5.565 (99.8-99.9%) |
+| **Governo** | Prefeito atual, codigo SIAFI | 5.569-5.571 (100%) |
 | **Telefonia** | DDD | 5.571/5.571 (100%) |
 | **Enderecos** | CEP sede + 1.277.567 CEPs com logradouro, bairro | 5.558/5.571 (99.8%) |
 | **Bandeiras** | SVG + PNG em 4 estilos | 4.381/5.571 (78.6%) |
@@ -67,9 +71,16 @@ import {
 // Buscar por codigo IBGE
 const sp = getMunicipio(3550308);
 console.log(sp?.name);                  // "Sao Paulo"
+console.log(sp?.gentilico);            // "paulistano"
+console.log(sp?.bioma);                // "Mata Atlantica"
+console.log(sp?.capital);              // true
 console.log(sp?.populacao_2022);        // 11451245
 console.log(sp?.populacao_estimada_2025); // 11895578
 console.log(sp?.area_km2);             // 1521.11
+console.log(sp?.pib_per_capita);       // 93156.23
+console.log(sp?.indice_gini);          // 0.45
+console.log(sp?.prefeito);             // "RICARDO LUIS REIS NUNES"
+console.log(sp?.fuso_horario);         // "America/Sao_Paulo"
 console.log(sp?.latitude);             // -23.5475
 console.log(sp?.longitude);            // -46.6361
 console.log(sp?.ddd);                  // "11"
@@ -203,6 +214,18 @@ Cada municipio no banco contem:
 | `longitude` | `number` | Longitude da sede |
 | `ddd` | `string` | Codigo DDD |
 | `cep_sede` | `string` | CEP da sede do municipio |
+| `gentilico` | `string` | Gentilico ("paulistano", "carioca") |
+| `bioma` | `string` | Bioma predominante (Amazonia, Cerrado, Mata Atlantica, etc.) |
+| `sistema_costeiro` | `boolean` | Pertence ao sistema costeiro-marinho |
+| `prefeito` | `string` | Nome do prefeito atual |
+| `pib` | `number` | PIB municipal (R$ x 1.000) |
+| `pib_per_capita` | `number` | PIB per capita (R$) |
+| `taxa_mortalidade_infantil` | `number` | Mortalidade infantil (por 1.000 nascidos vivos) |
+| `indice_gini` | `number` | Indice de Gini (desigualdade de renda) |
+| `estabelecimentos_saude` | `number` | Numero de estabelecimentos de saude |
+| `codigo_siafi` | `string` | Codigo SIAFI (Tesouro Nacional) |
+| `fuso_horario` | `string` | Fuso horario (ex: "America/Sao_Paulo") |
+| `capital` | `boolean` | Se e capital estadual |
 | `has_flag` | `boolean` | Tem bandeira original |
 | `has_icons` | `boolean` | Tem icones gerados |
 | `flag_source` | `string` | Fonte da bandeira |
@@ -312,6 +335,18 @@ interface Municipio {
   longitude?: number
   ddd?: string
   cep_sede?: string
+  gentilico?: string
+  bioma?: string
+  sistema_costeiro?: boolean
+  prefeito?: string
+  pib?: number
+  pib_per_capita?: number
+  taxa_mortalidade_infantil?: number
+  indice_gini?: number
+  estabelecimentos_saude?: number
+  codigo_siafi?: string
+  fuso_horario?: string
+  capital?: boolean
   icons?: MunicipioIcons
 }
 
@@ -410,48 +445,19 @@ src/
 
 ## Roadmap: Dados Faltantes
 
-Dados que completariam o banco como referencia socioeconomica dos municipios brasileiros. Todos disponiveis via APIs publicas do IBGE.
-
-### Prioridade 1 — Facil (APIs diretas do IBGE)
+Dados que complementariam o banco. Todos disponiveis via APIs publicas.
 
 | Campo | Descricao | Fonte |
 |-------|-----------|-------|
-| `capital` | Se e capital estadual | Estatico (27 valores) |
-| `gentilico` | Gentilico ("paulistano", "carioca") | IBGE Pesquisas API (pesquisa 33) |
-| `bioma` | Bioma predominante (Amazonia, Cerrado, etc.) | IBGE Pesquisas API (pesquisa 33) |
-| `idhm` | IDH Municipal (composto) | IBGE Pesquisas API (pesquisa 37) |
-| `pib_per_capita` | PIB per capita (R$) | IBGE PIB dos Municipios |
-| `codigo_siafi` | Codigo SIAFI (Tesouro Nacional) | kelvins/municipios-brasileiros |
-| `fuso_horario` | Fuso horario (ex: "America/Sao_Paulo") | kelvins/municipios-brasileiros |
-| `taxa_mortalidade_infantil` | Mortalidade infantil (por 1.000 nascidos) | IBGE Pesquisas API (pesquisa 39) |
-| `ideb_anos_iniciais` | IDEB anos iniciais | IBGE Pesquisas API (pesquisa 40) |
-| `ideb_anos_finais` | IDEB anos finais | IBGE Pesquisas API (pesquisa 40) |
-
-### Prioridade 2 — Media (SIDRA/Atlas Brasil)
-
-| Campo | Descricao | Fonte |
-|-------|-----------|-------|
-| `pib` | PIB municipal (R$ x 1.000) | IBGE SIDRA |
-| `populacao_urbana` | Populacao urbana | Censo 2022 / SIDRA |
-| `populacao_rural` | Populacao rural | Censo 2022 / SIDRA |
-| `taxa_urbanizacao` | Taxa de urbanizacao (%) | Derivado |
+| `idhm` | IDH Municipal (composto) | Atlas Brasil (download bulk) |
 | `idhm_educacao` | IDH-M componente educacao | Atlas Brasil |
 | `idhm_longevidade` | IDH-M componente longevidade | Atlas Brasil |
 | `idhm_renda` | IDH-M componente renda | Atlas Brasil |
-| `indice_gini` | Indice de Gini (desigualdade) | IBGE Pesquisas API (pesquisa 36) |
-| `estabelecimentos_saude` | Estabelecimentos de saude | IBGE Pesquisas API (pesquisa 32) |
-| `escolas_ensino_basico` | Escolas de ensino basico | IBGE Pesquisas API (pesquisa 13) |
+| `populacao_urbana` | Populacao urbana | Censo 2022 / SIDRA |
+| `populacao_rural` | Populacao rural | Censo 2022 / SIDRA |
 | `amazonia_legal` | Se pertence a Amazonia Legal | Lista oficial IBGE |
-
-### Prioridade 3 — Avancado
-
-| Campo | Descricao | Fonte |
-|-------|-----------|-------|
 | `codigo_tse` | Codigo eleitoral TSE | betafcc/Municipios-Brasileiros-TSE |
-| `prefeito` | Nome do prefeito atual | IBGE Pesquisas API (pesquisa 33) |
 | `receita_orcamentaria` | Receita municipal | SICONFI / Tesouro Nacional |
-| `producao_agricola_valor` | Valor producao agricola | IBGE PAM |
-| `rebanho_bovino` | Rebanho bovino | IBGE PPM |
 | `clima` | Classificacao climatica Koppen | Dados academicos |
 | `altitude_sede` | Altitude da sede (metros) | IBGE geodesia |
 
@@ -498,7 +504,11 @@ python3 scripts/ceps/cli.py stats
 
 | Fonte | Dados |
 |-------|-------|
-| **IBGE** | Codigos, nomes, populacao, area, regioes, hierarquia territorial |
+| **IBGE Localidades** | Codigos, nomes, hierarquia territorial |
+| **IBGE Censo 2022** | Populacao, area, densidade demografica |
+| **IBGE Pesquisas** | Gentilico, bioma, prefeito, PIB, mortalidade infantil, Gini, saude |
+| **IBGE Estimativas** | Populacao estimada 2025 |
+| **kelvins/municipios-brasileiros** | Codigo SIAFI, fuso horario |
 | **ViaCEP** | Enderecos postais (CEPs, logradouros, bairros) |
 | **OpenCEP** | Enderecos postais complementares (1.2M registros) |
 | **Wikidata** | Dados estruturados de bandeiras via SPARQL |

@@ -21,6 +21,18 @@ interface MunicipioRow {
   longitude: number | null;
   ddd: string | null;
   cep_sede: string | null;
+  gentilico: string | null;
+  bioma: string | null;
+  sistema_costeiro: number;
+  prefeito: string | null;
+  pib: number | null;
+  pib_per_capita: number | null;
+  taxa_mortalidade_infantil: number | null;
+  indice_gini: number | null;
+  estabelecimentos_saude: number | null;
+  codigo_siafi: string | null;
+  fuso_horario: string | null;
+  capital: number;
   has_flag: number;
   has_icons: number;
   flag_source: string | null;
@@ -53,6 +65,18 @@ function rowToMunicipio(row: MunicipioRow): Municipio {
   if (row.longitude != null) m.longitude = row.longitude;
   if (row.ddd) m.ddd = row.ddd;
   if (row.cep_sede) m.cep_sede = row.cep_sede;
+  if (row.gentilico) m.gentilico = row.gentilico;
+  if (row.bioma) m.bioma = row.bioma;
+  m.sistema_costeiro = row.sistema_costeiro === 1;
+  if (row.prefeito) m.prefeito = row.prefeito;
+  if (row.pib != null) m.pib = row.pib;
+  if (row.pib_per_capita != null) m.pib_per_capita = row.pib_per_capita;
+  if (row.taxa_mortalidade_infantil != null) m.taxa_mortalidade_infantil = row.taxa_mortalidade_infantil;
+  if (row.indice_gini != null) m.indice_gini = row.indice_gini;
+  if (row.estabelecimentos_saude != null) m.estabelecimentos_saude = row.estabelecimentos_saude;
+  if (row.codigo_siafi) m.codigo_siafi = row.codigo_siafi;
+  if (row.fuso_horario) m.fuso_horario = row.fuso_horario;
+  m.capital = row.capital === 1;
 
   if (row.icons_json) {
     m.icons = JSON.parse(row.icons_json) as MunicipioIcons;
