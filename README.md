@@ -225,17 +225,22 @@ dist/
     └── png-800/{UF}/{ibge_code}-{slug}-sq.png         # 800×800
 
 database/
-├── municipios.json          # Todos os 5.571 municípios com caminhos dos ícones
-├── municipios-by-uf.json    # Agrupados por estado
-└── stats.json               # Estatísticas de cobertura
+└── municipios-br.sqlite     # Banco unificado: 5.571 municípios + 918K+ CEPs (SQLite + FTS5)
 
 src/                         # Código-fonte TypeScript
 ├── index.ts                 # Barrel export
 ├── types.ts                 # Definições de tipos
 ├── constants.ts             # Nomes das UFs, capitais, regiões
-├── data.ts                  # Carregamento do banco JSON
+├── db.ts                    # Singleton SQLite (better-sqlite3)
+├── data.ts                  # Carregamento do banco SQLite
 ├── municipios.ts            # Funções de busca
-└── flags.ts                 # Resolução de caminhos de bandeiras
+├── flags.ts                 # Resolução de caminhos de bandeiras
+└── ceps/                    # Módulo de CEPs
+    ├── index.ts             # Barrel export
+    ├── types.ts             # Tipos de CEP
+    ├── ceps.ts              # Busca de CEPs via SQL
+    ├── data.ts              # Acesso direto ao banco
+    └── sqlite.ts            # Classe CepDatabase (standalone)
 ```
 
 ### Convenção de Nomes
@@ -266,14 +271,20 @@ Exemplo: `3550308-sao-paulo-circle.svg` (Cidade de São Paulo, estilo circle)
 ### Consulta ao Banco de Dados (Python)
 
 ```python
-import json
+import sqlite3, json
 
-with open("database/municipios.json") as f:
-    municipios = json.load(f)
+conn = sqlite3.connect("database/municipios-br.sqlite")
+conn.row_factory = sqlite3.Row
 
-sp = next(m for m in municipios if m["ibge_code"] == 3550308)
-if sp["has_icons"]:
-    print(f'dist/{sp["icons"]["circle_svg"]}')
+row = conn.execute(
+    "SELECT * FROM municipios WHERE ibge_code = ?", (3550308,)
+).fetchone()
+
+if row and row["has_icons"]:
+    icons = json.loads(row["icons_json"])
+    print(f'dist/{icons["circle_svg"]}')
+
+conn.close()
 ```
 
 ---
@@ -306,7 +317,7 @@ python3 scripts/generate-icons.py --workers 8
 ### Construir banco de dados
 
 ```bash
-python3 scripts/build-database.py
+python3 scripts/build-unified-sqlite.py
 ```
 
 ---

@@ -87,3 +87,49 @@ export const ALL_UFS: UF[] = [
   "PB", "PE", "PI", "PR", "RJ", "RN", "RO",
   "RR", "RS", "SC", "SE", "SP", "TO",
 ];
+
+/**
+ * CEP prefix ranges per UF, matching the Correios specification.
+ * Each entry maps a UF to an array of [start, end] tuples representing
+ * the first 5 digits of the CEP.
+ */
+export const CEP_UF_PREFIXES: Record<UF, [number, number][]> = {
+  AC: [[69900, 69999]],
+  AL: [[57000, 57999]],
+  AM: [[69000, 69299], [69400, 69899]],
+  AP: [[68900, 68999]],
+  BA: [[40000, 48999]],
+  CE: [[60000, 63999]],
+  DF: [[70000, 72799], [73000, 73699]],
+  ES: [[29000, 29999]],
+  GO: [[72800, 72999], [73700, 76799]],
+  MA: [[65000, 65999]],
+  MG: [[30000, 39999]],
+  MS: [[79000, 79999]],
+  MT: [[78000, 78899]],
+  PA: [[66000, 68899]],
+  PB: [[58000, 58999]],
+  PE: [[50000, 56999]],
+  PI: [[64000, 64999]],
+  PR: [[80000, 87999]],
+  RJ: [[20000, 28999]],
+  RN: [[59000, 59999]],
+  RO: [[76800, 76999]],
+  RR: [[69300, 69399]],
+  RS: [[90000, 99999]],
+  SC: [[88000, 89999]],
+  SE: [[49000, 49999]],
+  SP: [[1000, 19999]],
+  TO: [[77000, 77999]],
+};
+
+/**
+ * Maps the first 2 digits of an IBGE code to the corresponding UF.
+ */
+export const IBGE_UF_MAP: Record<string, UF> = {
+  "11": "RO", "12": "AC", "13": "AM", "14": "RR", "15": "PA", "16": "AP", "17": "TO",
+  "21": "MA", "22": "PI", "23": "CE", "24": "RN", "25": "PB", "26": "PE", "27": "AL", "28": "SE", "29": "BA",
+  "31": "MG", "32": "ES", "33": "RJ", "35": "SP",
+  "41": "PR", "42": "SC", "43": "RS",
+  "50": "MS", "51": "MT", "52": "GO", "53": "DF",
+};

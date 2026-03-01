@@ -1,21 +1,30 @@
 {
   "name": "municipios-br",
-  "version": "1.0.0",
-  "description": "Brazilian municipality flag icons — 4,366 flags in 4 SVG styles + 8 PNG sizes, with TypeScript API for lookup",
+  "version": "2.0.0",
+  "description": "Brazilian municipality database with flags, CEPs, geolocation, DDD — TypeScript API",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "exports": {
     ".": {
+      "types": "./lib/index.d.ts",
       "import": "./lib/index.js",
-      "require": "./lib/index.js",
-      "types": "./lib/index.d.ts"
+      "require": "./lib/index.js"
     },
-    "./database/*": "./database/*",
+    "./ceps": {
+      "types": "./lib/ceps/index.d.ts",
+      "import": "./lib/ceps/index.js",
+      "require": "./lib/ceps/index.js"
+    },
+    "./ceps/sqlite": {
+      "types": "./lib/ceps/sqlite.d.ts",
+      "import": "./lib/ceps/sqlite.js",
+      "require": "./lib/ceps/sqlite.js"
+    },
     "./dist/*": "./dist/*"
   },
   "files": [
     "lib/",
-    "database/"
+    "database/municipios-br.sqlite"
   ],
   "scripts": {
     "build": "tsc",
@@ -31,7 +40,11 @@
     "icons",
     "svg",
     "png",
-    "ibge"
+    "ibge",
+    "cep",
+    "postal-code",
+    "enderecos",
+    "addresses"
   ],
   "author": "Natalia Mesquita",
   "license": "MIT",
@@ -39,7 +52,12 @@
     "type": "git",
     "url": "git+https://github.com/nataliasm23/icones-bandeiras-br-uf.git"
   },
+  "dependencies": {
+    "better-sqlite3": "^12.6.2"
+  },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/node": "^20.0.0",
     "typescript": "^5.7.0"
   }
 }

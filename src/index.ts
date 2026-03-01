@@ -19,6 +19,8 @@ export {
   REGIONS,
   REGION_NAMES,
   ALL_UFS,
+  CEP_UF_PREFIXES,
+  IBGE_UF_MAP,
 } from "./constants";
 
 // Data
@@ -39,3 +41,6 @@ export {
   getAllFlagPaths,
   buildFlagPath,
 } from "./flags";
+
+// Database lifecycle
+export { closeDb } from "./db";

@@ -50,8 +50,13 @@ export interface Municipio {
   regiao_imediata?: string;
   regiao_intermediaria?: string;
   populacao_2022?: number;
+  populacao_estimada_2025?: number;
   area_km2?: number;
   densidade_demo?: number;
+  latitude?: number;
+  longitude?: number;
+  ddd?: string;
+  cep_sede?: string;
   icons?: MunicipioIcons;
 }
 
