@@ -1,6 +1,6 @@
 {
   "name": "municipios-br",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Brazilian municipality database with flags, CEPs, geolocation, DDD — TypeScript API",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

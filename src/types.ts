@@ -69,6 +69,9 @@ export interface Municipio {
   codigo_siafi?: string;
   fuso_horario?: string;
   capital?: boolean;
+  idhm?: number;
+  veiculos?: number;
+  veiculos_ano?: string;
   icons?: MunicipioIcons;
 }
 

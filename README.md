@@ -2,7 +2,7 @@
 
 Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEPs, geolocalização, dados demograficos, socioeconomicos e API TypeScript.
 
-**v2.1** — Dados socioeconomicos do IBGE: PIB, IDH, bioma, gentilico, prefeito, mortalidade infantil, Gini, saude, SIAFI, fuso horario.
+**v2.2** — 37 campos por municipio: PIB, IDHM, bioma, gentilico, prefeito, mortalidade infantil, Gini, frota de veiculos, saude, SIAFI, fuso horario.
 
 ---
 
@@ -38,6 +38,8 @@ Banco de dados completo dos **5.571 municípios** brasileiros com bandeiras, CEP
 | **Economia** | PIB, PIB per capita | 5.570/5.571 (100%) |
 | **Social** | Gentilico, bioma, sistema costeiro, indice Gini | 5.507-5.571 (98.9-100%) |
 | **Saude** | Mortalidade infantil, estabelecimentos de saude | 5.562-5.565 (99.8-99.9%) |
+| **Desenvolvimento** | IDHM (IDH Municipal) | 5.565/5.571 (99.9%) |
+| **Transporte** | Frota de veiculos (2024) | 5.570/5.571 (100%) |
 | **Governo** | Prefeito atual, codigo SIAFI | 5.569-5.571 (100%) |
 | **Telefonia** | DDD | 5.571/5.571 (100%) |
 | **Enderecos** | CEP sede + 1.277.567 CEPs com logradouro, bairro | 5.558/5.571 (99.8%) |
@@ -78,7 +80,9 @@ console.log(sp?.populacao_2022);        // 11451245
 console.log(sp?.populacao_estimada_2025); // 11895578
 console.log(sp?.area_km2);             // 1521.11
 console.log(sp?.pib_per_capita);       // 93156.23
+console.log(sp?.idhm);                // 0.805
 console.log(sp?.indice_gini);          // 0.45
+console.log(sp?.veiculos);            // 9748457
 console.log(sp?.prefeito);             // "RICARDO LUIS REIS NUNES"
 console.log(sp?.fuso_horario);         // "America/Sao_Paulo"
 console.log(sp?.latitude);             // -23.5475
@@ -226,6 +230,9 @@ Cada municipio no banco contem:
 | `codigo_siafi` | `string` | Codigo SIAFI (Tesouro Nacional) |
 | `fuso_horario` | `string` | Fuso horario (ex: "America/Sao_Paulo") |
 | `capital` | `boolean` | Se e capital estadual |
+| `idhm` | `number` | IDH Municipal (0-1, dados de 2010) |
+| `veiculos` | `number` | Frota total de veiculos |
+| `veiculos_ano` | `string` | Ano de referencia da frota |
 | `has_flag` | `boolean` | Tem bandeira original |
 | `has_icons` | `boolean` | Tem icones gerados |
 | `flag_source` | `string` | Fonte da bandeira |
@@ -347,6 +354,9 @@ interface Municipio {
   codigo_siafi?: string
   fuso_horario?: string
   capital?: boolean
+  idhm?: number
+  veiculos?: number
+  veiculos_ano?: string
   icons?: MunicipioIcons
 }
 
@@ -449,10 +459,9 @@ Dados que complementariam o banco. Todos disponiveis via APIs publicas.
 
 | Campo | Descricao | Fonte |
 |-------|-----------|-------|
-| `idhm` | IDH Municipal (composto) | Atlas Brasil (download bulk) |
-| `idhm_educacao` | IDH-M componente educacao | Atlas Brasil |
-| `idhm_longevidade` | IDH-M componente longevidade | Atlas Brasil |
-| `idhm_renda` | IDH-M componente renda | Atlas Brasil |
+| `idhm_educacao` | IDHM componente educacao | Atlas Brasil (download bulk) |
+| `idhm_longevidade` | IDHM componente longevidade | Atlas Brasil |
+| `idhm_renda` | IDHM componente renda | Atlas Brasil |
 | `populacao_urbana` | Populacao urbana | Censo 2022 / SIDRA |
 | `populacao_rural` | Populacao rural | Censo 2022 / SIDRA |
 | `amazonia_legal` | Se pertence a Amazonia Legal | Lista oficial IBGE |

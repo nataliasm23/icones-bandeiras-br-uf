@@ -33,6 +33,9 @@ interface MunicipioRow {
   codigo_siafi: string | null;
   fuso_horario: string | null;
   capital: number;
+  idhm: number | null;
+  veiculos: number | null;
+  veiculos_ano: string | null;
   has_flag: number;
   has_icons: number;
   flag_source: string | null;
@@ -77,6 +80,9 @@ function rowToMunicipio(row: MunicipioRow): Municipio {
   if (row.codigo_siafi) m.codigo_siafi = row.codigo_siafi;
   if (row.fuso_horario) m.fuso_horario = row.fuso_horario;
   m.capital = row.capital === 1;
+  if (row.idhm != null) m.idhm = row.idhm;
+  if (row.veiculos != null) m.veiculos = row.veiculos;
+  if (row.veiculos_ano) m.veiculos_ano = row.veiculos_ano;
 
   if (row.icons_json) {
     m.icons = JSON.parse(row.icons_json) as MunicipioIcons;
